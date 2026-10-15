@@ -107,6 +107,8 @@ def google_news(q: str, category: str, max_count: int, hours: int) -> list[dict]
         if not title:continue
         source=e.get('source',{})
         source_name=(source.get('title') if isinstance(source,dict) else str(source)) or 'Google News'
+        if title.endswith(' - '+source_name):
+            title=title[:-(len(source_name)+3)]
         item={'id':'news-'+make_id(title,category),'type':'news','category':category,'title':title[:240],'region':'US / UK','observed':published.isoformat(),'source':source_name,'url':e.get('link','https://news.google.com/'),'note':'News mention only; publication does not prove popularity.'}
         image=feed_image(e)
         if image:
