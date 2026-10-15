@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-15T03:25:50+00:00",
+  "updated_at": "2026-10-15T03:32:20+00:00",
   "edition": "10.15 / The culture issue",
   "mode": "auto",
   "editorial": [
@@ -101,7 +101,7 @@
       },
       "source": {
         "name": "Kworb · Spotify weekly",
-        "url": "https://www.kworb.net/spotify/country/global_weekly.html",
+        "url": "https://kworb.net/spotify/country/global_weekly.html",
         "date": "2026-10-08"
       },
       "image": "https://www.nme.com/wp-content/uploads/2025/08/adela-the-provocateur-interview-image4.jpg",
@@ -600,6 +600,17 @@
       "note": "News mention only; publication does not prove popularity."
     },
     {
+      "id": "news-11d2eae746a3002e",
+      "type": "news",
+      "category": "fashion",
+      "title": "Céline Dion’s Tour Look Nods to Her 1997 Oscars Dress—and Took 1,380 Hours to Make - Vogue",
+      "region": "US / UK",
+      "observed": "2026-10-15T00:05:00+00:00",
+      "source": "Vogue",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNaFRjZ0thM1g0QTlGTVRnUncxc1I4cTR2VlhObzhleDVXejhXbWExMEV5d2xCcXUzYWI3emNyekNIVGtVczB6a2JIeU1WQXZNUVRqNUlwdkpHbG55VWVvLW5aTjY4V1B3ZC1LLUkzZlRDekFZQTJLVFZjblZKelNqaVFOYi1tRWtq?oc=5",
+      "note": "News mention only; publication does not prove popularity."
+    },
+    {
       "id": "google-bf09e1eec321dd5d",
       "type": "trend",
       "title": "mls",
@@ -667,6 +678,17 @@
       "note": "News mention only; publication does not prove popularity."
     },
     {
+      "id": "news-30066f5a5e65cd15",
+      "type": "news",
+      "category": "fashion",
+      "title": "The Five Best-Dressed Celebrities at the 2026 BFI London Film Festival - Harper's BAZAAR",
+      "region": "US / UK",
+      "observed": "2026-10-14T19:17:00+00:00",
+      "source": "Harper's BAZAAR",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQMDROY0Y5WEM4ZWhJbkpXTURsWWpneGcxUVlPYTBjY1RfZzljRlZfNW85OFJ4b21McHdFSVBudkxQel8zNjRRcU8tRUY1el9QNVBiRUlta3hfYXpuS2ZZMUExUjVMemp4MVVDZEVpY0ZQMXFxel81dGxNam9HVVQ4RWU2TzNWZHYwZUQxU2tYWkJfaGJIWUpVQlVTNjN3Si0zeWJqaE5WUkxtQzc5WWV0MUFjWGkzUkRSUGdxWW13NkY2TktVM1Vhbnln?oc=5",
+      "note": "News mention only; publication does not prove popularity."
+    },
+    {
       "id": "news-9ec869db45ac1502",
       "type": "news",
       "category": "beauty",
@@ -700,14 +722,14 @@
       "note": "News mention only; publication does not prove popularity."
     },
     {
-      "id": "news-013441ba93152106",
+      "id": "news-33e56e26f518d8d2",
       "type": "news",
       "category": "culture",
-      "title": "Qatar Museums Presents ERDEM: About Time, About Her, the - GlobeNewswire",
+      "title": "Qatar Museums Presents ERDEM: About Time, About Her, the First Exhibition Dedicated to Erdem Moralioglu’s Creative Journey, Marking ERDEM’s 20th Anniversary - The Globe and Mail",
       "region": "US / UK",
-      "observed": "2026-10-14T16:31:02+00:00",
-      "source": "GlobeNewswire",
-      "url": "https://news.google.com/rss/articles/CBMiywJBVV95cUxPTE9RRGtGUmlMTWRwMGI3UVZtMTBSa29NMkRyNnpHWUlBQkdhMHdienhlV0VkaWFjSFlRX0k4V05raUpkSlJWeXN2WU5BSVloNm9EMU5odUZxeno2QlUzWmt5Rmp1ZUlpU3MxLUZWTTlWX21BTktKVEJoZ2JaTVo4TDdVeDdXbzJBSVctcmxxdWVNVndoX09Ua1ptX2x2NVJfOE81dW1uN3hIbjdwMUg5Y1NLZ1ZBTkNvMWtjR2ktMlk0TnpWWUp5V29GdFhPUDZBNXVjQXB0M0gyYmNLdHJHbTdZRk5IOThTS0w0RW9vWFdGNzA2SUJ6U0Y2ZV9LYnByTkVQX1FycFh6ZG9hMC1fOHA2RVZjb2l5Y3V2bjFVMGJIT0tUUTI0ZXpwMXBoeUwtS2N3Q2hwV1Jrczh3eU5PcG0xZjRlTFpsOHpN?oc=5",
+      "observed": "2026-10-14T16:51:48+00:00",
+      "source": "The Globe and Mail",
+      "url": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxPdVVqT29fUGROVzM0RTJMYXZkSzdPRUhaNlZOcnlmV3l3ZWM3a1JDNG85SUFBT2VPUDNEMlNzU3UtMUg0RHdlSExCdFozR3d6QXdJcmZ3NG5Hb1QtbFh3VkZXalJJeHY5T1FuaC0tbWIyanRqc2dqYzEtekwzeUJmd0tzdzNVQ19Yenp5aXA0MGhJNEFidGxCWW1zdXNfYWRnZHRJUkNVZzBIaUc4SmhnejNDb21TZnlxVk9KVmpTLUlFZ2VhcnlJOTRFajhiVkY0dGdhVk8zY3NQVVpvS21RODd1YlVCMHQ5UjdNQ3lzbHVmZmRpOHlES0I1T0RKUXVnSHVzME81Q2h3TmtmTnhsWFlITTE2aVV1TnNCWVhHNTdMVkx2Nkl1NXBEcHRyNEsxUXVvTmM3aDRRYTUxY0V2LTZYRFBmRlVCYldpYmFkbFZYd1Y1TEhJ?oc=5",
       "note": "News mention only; publication does not prove popularity."
     },
     {
@@ -763,6 +785,17 @@
       "observed": "2026-10-14T12:04:09+00:00",
       "source": "Harper's BAZAAR",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOM3BCTFZOc2FsRUEtMVNiOUMtZVJaUS1hSlA0ZnpmZjNFc21reHlJcHJOZzFhS1pTNWlrN0FnaVBFcU5NeVZEWHdLX21INjZIVWhsbE1fOFQ3emtzUVVBd2NKamg2dG9kRmtmNG5CRWw4OV9FU0dXclNsRzVsMEVseVV3?oc=5",
+      "note": "News mention only; publication does not prove popularity."
+    },
+    {
+      "id": "news-60bdd97389cf9854",
+      "type": "news",
+      "category": "fashion",
+      "title": "How Celebrity Style Helped Turn Casualwear Into a Fashion Statement - Popdust",
+      "region": "US / UK",
+      "observed": "2026-10-14T10:57:53+00:00",
+      "source": "Popdust",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPcEpSNXJJTVdNaTZUY2VfTGt4VXQ4WkcwMkJaQi0zRkxaQUlrVjFpOFdPUnoxQ2lyalpvdDNfcG1DZC1DVlNYM0RBd3BSSGNlc0lLZ1MwaXJBWThHRVhxMjFqdWVBTWx4NDAzdWN3ZWFSdHRjaXctcUlVUV92dFBEOHN0U3RDZWV3TDN2WURfWUdRVk00dGc?oc=5",
       "note": "News mention only; publication does not prove popularity."
     },
     {
@@ -911,11 +944,347 @@
   ],
   "charts": [
     {
+      "id": "spotify-ff810914ad490975",
+      "type": "chart",
+      "title": "#01 · KAROL G - BbY WOW (w/ Judeline , rusowsky )",
+      "region": "GLOBAL",
+      "observed": "2026-10-08T12:00:00+00:00",
+      "source": "Kworb · Spotify weekly chart",
+      "url": "https://kworb.net/spotify/country/global_weekly.html",
+      "metric": {
+        "value": "36.24M",
+        "label": "weekly streams"
+      },
+      "note": "Weekly Spotify streams, compiled by Kworb. Chart date: 2026-10-08"
+    },
+    {
+      "id": "spotify-5d7a2c9d15727016",
+      "type": "chart",
+      "title": "#02 · ADÃLA - Nicole Kidman",
+      "region": "GLOBAL",
+      "observed": "2026-10-08T12:00:00+00:00",
+      "source": "Kworb · Spotify weekly chart",
+      "url": "https://kworb.net/spotify/country/global_weekly.html",
+      "metric": {
+        "value": "27.85M",
+        "label": "weekly streams"
+      },
+      "note": "Weekly Spotify streams, compiled by Kworb. Chart date: 2026-10-08"
+    },
+    {
+      "id": "spotify-718ae837f8e9a3f9",
+      "type": "chart",
+      "title": "#03 · Taylor Swift - Patient Zero",
+      "region": "GLOBAL",
+      "observed": "2026-10-08T12:00:00+00:00",
+      "source": "Kworb · Spotify weekly chart",
+      "url": "https://kworb.net/spotify/country/global_weekly.html",
+      "metric": {
+        "value": "26.36M",
+        "label": "weekly streams"
+      },
+      "note": "Weekly Spotify streams, compiled by Kworb. Chart date: 2026-10-08"
+    },
+    {
+      "id": "spotify-548a4b4192dac16a",
+      "type": "chart",
+      "title": "#04 · ADÃLA - Ain't In LA",
+      "region": "GLOBAL",
+      "observed": "2026-10-08T12:00:00+00:00",
+      "source": "Kworb · Spotify weekly chart",
+      "url": "https://kworb.net/spotify/country/global_weekly.html",
+      "metric": {
+        "value": "24.14M",
+        "label": "weekly streams"
+      },
+      "note": "Weekly Spotify streams, compiled by Kworb. Chart date: 2026-10-08"
+    },
+    {
+      "id": "spotify-1f77529916ee771a",
+      "type": "chart",
+      "title": "#05 · Olivia Rodrigo - the cure",
+      "region": "GLOBAL",
+      "observed": "2026-10-08T12:00:00+00:00",
+      "source": "Kworb · Spotify weekly chart",
+      "url": "https://kworb.net/spotify/country/global_weekly.html",
+      "metric": {
+        "value": "23.25M",
+        "label": "weekly streams"
+      },
+      "note": "Weekly Spotify streams, compiled by Kworb. Chart date: 2026-10-08"
+    },
+    {
+      "id": "spotify-e41f7ce270ce791c",
+      "type": "chart",
+      "title": "#06 · Malcolm Todd - Earrings",
+      "region": "GLOBAL",
+      "observed": "2026-10-08T12:00:00+00:00",
+      "source": "Kworb · Spotify weekly chart",
+      "url": "https://kworb.net/spotify/country/global_weekly.html",
+      "metric": {
+        "value": "21.77M",
+        "label": "weekly streams"
+      },
+      "note": "Weekly Spotify streams, compiled by Kworb. Chart date: 2026-10-08"
+    },
+    {
+      "id": "spotify-d4dbd263648d9219",
+      "type": "chart",
+      "title": "#07 · Katy Perry - The One That Got Away",
+      "region": "GLOBAL",
+      "observed": "2026-10-08T12:00:00+00:00",
+      "source": "Kworb · Spotify weekly chart",
+      "url": "https://kworb.net/spotify/country/global_weekly.html",
+      "metric": {
+        "value": "19.46M",
+        "label": "weekly streams"
+      },
+      "note": "Weekly Spotify streams, compiled by Kworb. Chart date: 2026-10-08"
+    },
+    {
+      "id": "spotify-c48c421bf10613a7",
+      "type": "chart",
+      "title": "#08 · Justin Bieber - Beauty And A Beat (w/ Nicki Minaj )",
+      "region": "GLOBAL",
+      "observed": "2026-10-08T12:00:00+00:00",
+      "source": "Kworb · Spotify weekly chart",
+      "url": "https://kworb.net/spotify/country/global_weekly.html",
+      "metric": {
+        "value": "19.25M",
+        "label": "weekly streams"
+      },
+      "note": "Weekly Spotify streams, compiled by Kworb. Chart date: 2026-10-08"
+    },
+    {
+      "id": "spotify-a378183c2f7de88f",
+      "type": "chart",
+      "title": "#09 · Olivia Rodrigo - stupid song",
+      "region": "GLOBAL",
+      "observed": "2026-10-08T12:00:00+00:00",
+      "source": "Kworb · Spotify weekly chart",
+      "url": "https://kworb.net/spotify/country/global_weekly.html",
+      "metric": {
+        "value": "19.14M",
+        "label": "weekly streams"
+      },
+      "note": "Weekly Spotify streams, compiled by Kworb. Chart date: 2026-10-08"
+    },
+    {
+      "id": "spotify-1bab0969ecec87a7",
+      "type": "chart",
+      "title": "#10 · Temper City - Self Aware",
+      "region": "GLOBAL",
+      "observed": "2026-10-08T12:00:00+00:00",
+      "source": "Kworb · Spotify weekly chart",
+      "url": "https://kworb.net/spotify/country/global_weekly.html",
+      "metric": {
+        "value": "18.96M",
+        "label": "weekly streams"
+      },
+      "note": "Weekly Spotify streams, compiled by Kworb. Chart date: 2026-10-08"
+    },
+    {
+      "id": "spotify-dbf1eeff24ee0f56",
+      "type": "chart",
+      "title": "#11 · sombr - back to friends",
+      "region": "GLOBAL",
+      "observed": "2026-10-08T12:00:00+00:00",
+      "source": "Kworb · Spotify weekly chart",
+      "url": "https://kworb.net/spotify/country/global_weekly.html",
+      "metric": {
+        "value": "18.50M",
+        "label": "weekly streams"
+      },
+      "note": "Weekly Spotify streams, compiled by Kworb. Chart date: 2026-10-08"
+    },
+    {
+      "id": "spotify-e06a45b0b453b178",
+      "type": "chart",
+      "title": "#12 · Ashe - Stop The Wedding!",
+      "region": "GLOBAL",
+      "observed": "2026-10-08T12:00:00+00:00",
+      "source": "Kworb · Spotify weekly chart",
+      "url": "https://kworb.net/spotify/country/global_weekly.html",
+      "metric": {
+        "value": "17.72M",
+        "label": "weekly streams"
+      },
+      "note": "Weekly Spotify streams, compiled by Kworb. Chart date: 2026-10-08"
+    },
+    {
+      "id": "spotify-afa5e81715fec3bb",
+      "type": "chart",
+      "title": "#01 · Taylor Swift - Patient Zero",
+      "region": "US",
+      "observed": "2026-10-08T12:00:00+00:00",
+      "source": "Kworb · Spotify weekly chart",
+      "url": "https://kworb.net/spotify/country/us_weekly.html",
+      "metric": {
+        "value": "8.58M",
+        "label": "weekly streams"
+      },
+      "note": "Weekly Spotify streams, compiled by Kworb. Chart date: 2026-10-08"
+    },
+    {
+      "id": "spotify-fce0e8f57015868e",
+      "type": "chart",
+      "title": "#02 · ADÃLA - Nicole Kidman",
+      "region": "US",
+      "observed": "2026-10-08T12:00:00+00:00",
+      "source": "Kworb · Spotify weekly chart",
+      "url": "https://kworb.net/spotify/country/us_weekly.html",
+      "metric": {
+        "value": "8.15M",
+        "label": "weekly streams"
+      },
+      "note": "Weekly Spotify streams, compiled by Kworb. Chart date: 2026-10-08"
+    },
+    {
+      "id": "spotify-4f90f7bd922bd848",
+      "type": "chart",
+      "title": "#03 · Ella Langley - Choosin' Texas",
+      "region": "US",
+      "observed": "2026-10-08T12:00:00+00:00",
+      "source": "Kworb · Spotify weekly chart",
+      "url": "https://kworb.net/spotify/country/us_weekly.html",
+      "metric": {
+        "value": "8.00M",
+        "label": "weekly streams"
+      },
+      "note": "Weekly Spotify streams, compiled by Kworb. Chart date: 2026-10-08"
+    },
+    {
+      "id": "spotify-447c70986e5cdca6",
+      "type": "chart",
+      "title": "#04 · Malcolm Todd - Earrings",
+      "region": "US",
+      "observed": "2026-10-08T12:00:00+00:00",
+      "source": "Kworb · Spotify weekly chart",
+      "url": "https://kworb.net/spotify/country/us_weekly.html",
+      "metric": {
+        "value": "6.39M",
+        "label": "weekly streams"
+      },
+      "note": "Weekly Spotify streams, compiled by Kworb. Chart date: 2026-10-08"
+    },
+    {
+      "id": "spotify-2d3c2581ec8d99a6",
+      "type": "chart",
+      "title": "#05 · KAROL G - BbY WOW (w/ Judeline , rusowsky )",
+      "region": "US",
+      "observed": "2026-10-08T12:00:00+00:00",
+      "source": "Kworb · Spotify weekly chart",
+      "url": "https://kworb.net/spotify/country/us_weekly.html",
+      "metric": {
+        "value": "6.36M",
+        "label": "weekly streams"
+      },
+      "note": "Weekly Spotify streams, compiled by Kworb. Chart date: 2026-10-08"
+    },
+    {
+      "id": "spotify-3e7ab638c399108c",
+      "type": "chart",
+      "title": "#06 · Olivia Rodrigo - stupid song",
+      "region": "US",
+      "observed": "2026-10-08T12:00:00+00:00",
+      "source": "Kworb · Spotify weekly chart",
+      "url": "https://kworb.net/spotify/country/us_weekly.html",
+      "metric": {
+        "value": "6.33M",
+        "label": "weekly streams"
+      },
+      "note": "Weekly Spotify streams, compiled by Kworb. Chart date: 2026-10-08"
+    },
+    {
+      "id": "spotify-3139f332f838da81",
+      "type": "chart",
+      "title": "#07 · Olivia Rodrigo - the cure",
+      "region": "US",
+      "observed": "2026-10-08T12:00:00+00:00",
+      "source": "Kworb · Spotify weekly chart",
+      "url": "https://kworb.net/spotify/country/us_weekly.html",
+      "metric": {
+        "value": "6.10M",
+        "label": "weekly streams"
+      },
+      "note": "Weekly Spotify streams, compiled by Kworb. Chart date: 2026-10-08"
+    },
+    {
+      "id": "spotify-230f4e2b8fdc160a",
+      "type": "chart",
+      "title": "#08 · Drake - Solar Eclipse (w/ Don Toliver )",
+      "region": "US",
+      "observed": "2026-10-08T12:00:00+00:00",
+      "source": "Kworb · Spotify weekly chart",
+      "url": "https://kworb.net/spotify/country/us_weekly.html",
+      "metric": {
+        "value": "5.79M",
+        "label": "weekly streams"
+      },
+      "note": "Weekly Spotify streams, compiled by Kworb. Chart date: 2026-10-08"
+    },
+    {
+      "id": "spotify-2e3580321d4ecb9c",
+      "type": "chart",
+      "title": "#09 · Noah Kahan - Draw You Out (w/ The Hunger Games )",
+      "region": "US",
+      "observed": "2026-10-08T12:00:00+00:00",
+      "source": "Kworb · Spotify weekly chart",
+      "url": "https://kworb.net/spotify/country/us_weekly.html",
+      "metric": {
+        "value": "5.79M",
+        "label": "weekly streams"
+      },
+      "note": "Weekly Spotify streams, compiled by Kworb. Chart date: 2026-10-08"
+    },
+    {
+      "id": "spotify-c4cf27c9acd3cb40",
+      "type": "chart",
+      "title": "#10 · The Killers - Mr. Brightside",
+      "region": "US",
+      "observed": "2026-10-08T12:00:00+00:00",
+      "source": "Kworb · Spotify weekly chart",
+      "url": "https://kworb.net/spotify/country/us_weekly.html",
+      "metric": {
+        "value": "5.14M",
+        "label": "weekly streams"
+      },
+      "note": "Weekly Spotify streams, compiled by Kworb. Chart date: 2026-10-08"
+    },
+    {
+      "id": "spotify-d3f59681adb26481",
+      "type": "chart",
+      "title": "#11 · Drake - Quebec",
+      "region": "US",
+      "observed": "2026-10-08T12:00:00+00:00",
+      "source": "Kworb · Spotify weekly chart",
+      "url": "https://kworb.net/spotify/country/us_weekly.html",
+      "metric": {
+        "value": "4.90M",
+        "label": "weekly streams"
+      },
+      "note": "Weekly Spotify streams, compiled by Kworb. Chart date: 2026-10-08"
+    },
+    {
+      "id": "spotify-560c25a5bc97157f",
+      "type": "chart",
+      "title": "#12 · ADÃLA - Ain't In LA",
+      "region": "US",
+      "observed": "2026-10-08T12:00:00+00:00",
+      "source": "Kworb · Spotify weekly chart",
+      "url": "https://kworb.net/spotify/country/us_weekly.html",
+      "metric": {
+        "value": "4.86M",
+        "label": "weekly streams"
+      },
+      "note": "Weekly Spotify streams, compiled by Kworb. Chart date: 2026-10-08"
+    },
+    {
       "id": "apple-1de09a30a927ed3b",
       "type": "chart",
       "title": "#01 · Drake & Don Toliver — Solar Eclipse",
       "region": "US",
-      "observed": "2026-10-15T03:25:50+00:00",
+      "observed": "2026-10-15T03:32:20+00:00",
       "source": "Apple Music · official top songs RSS",
       "url": "https://music.apple.com/us/album/solar-eclipse/6818209777?i=6818209989",
       "metric": {
@@ -931,7 +1300,7 @@
       "type": "chart",
       "title": "#02 · Ella Langley — Choosin' Texas",
       "region": "US",
-      "observed": "2026-10-15T03:25:50+00:00",
+      "observed": "2026-10-15T03:32:20+00:00",
       "source": "Apple Music · official top songs RSS",
       "url": "https://music.apple.com/us/album/choosin-texas/1844932149?i=1844932150",
       "metric": {
@@ -947,7 +1316,7 @@
       "type": "chart",
       "title": "#03 · KAROL G, Judeline & rusowsky — BbY WOW",
       "region": "US",
-      "observed": "2026-10-15T03:25:50+00:00",
+      "observed": "2026-10-15T03:32:20+00:00",
       "source": "Apple Music · official top songs RSS",
       "url": "https://music.apple.com/us/album/bby-wow/6796864741?i=6796864754",
       "metric": {
@@ -963,7 +1332,7 @@
       "type": "chart",
       "title": "#04 · Drake — Quebec",
       "region": "US",
-      "observed": "2026-10-15T03:25:50+00:00",
+      "observed": "2026-10-15T03:32:20+00:00",
       "source": "Apple Music · official top songs RSS",
       "url": "https://music.apple.com/us/album/quebec/6818209777?i=6818209990",
       "metric": {
@@ -979,7 +1348,7 @@
       "type": "chart",
       "title": "#05 · Morgan Wallen — Last Thing You Need",
       "region": "US",
-      "observed": "2026-10-15T03:25:50+00:00",
+      "observed": "2026-10-15T03:32:20+00:00",
       "source": "Apple Music · official top songs RSS",
       "url": "https://music.apple.com/us/album/last-thing-you-need/6812476961?i=6812477290",
       "metric": {
@@ -995,7 +1364,7 @@
       "type": "chart",
       "title": "#06 · Morgan Wallen — Been By Now",
       "region": "US",
-      "observed": "2026-10-15T03:25:50+00:00",
+      "observed": "2026-10-15T03:32:20+00:00",
       "source": "Apple Music · official top songs RSS",
       "url": "https://music.apple.com/us/album/been-by-now/6792676858?i=6792676860",
       "metric": {
@@ -1011,7 +1380,7 @@
       "type": "chart",
       "title": "#07 · Drake — Janice STFU",
       "region": "US",
-      "observed": "2026-10-15T03:25:50+00:00",
+      "observed": "2026-10-15T03:32:20+00:00",
       "source": "Apple Music · official top songs RSS",
       "url": "https://music.apple.com/us/album/janice-stfu/6769568449?i=6769568596",
       "metric": {
@@ -1027,7 +1396,7 @@
       "type": "chart",
       "title": "#08 · ADÉLA — Nicole Kidman",
       "region": "US",
-      "observed": "2026-10-15T03:25:50+00:00",
+      "observed": "2026-10-15T03:32:20+00:00",
       "source": "Apple Music · official top songs RSS",
       "url": "https://music.apple.com/us/album/nicole-kidman/6792883860?i=6792884088",
       "metric": {
@@ -1043,7 +1412,7 @@
       "type": "chart",
       "title": "#09 · Drake, Don Toliver & Yebba — Cold Shoulder",
       "region": "US",
-      "observed": "2026-10-15T03:25:50+00:00",
+      "observed": "2026-10-15T03:32:20+00:00",
       "source": "Apple Music · official top songs RSS",
       "url": "https://music.apple.com/us/album/cold-shoulder/6818059268?i=6818059600",
       "metric": {
@@ -1059,7 +1428,7 @@
       "type": "chart",
       "title": "#10 · Taylor Swift — Patient Zero",
       "region": "US",
-      "observed": "2026-10-15T03:25:50+00:00",
+      "observed": "2026-10-15T03:32:20+00:00",
       "source": "Apple Music · official top songs RSS",
       "url": "https://music.apple.com/us/album/patient-zero/6814997249?i=6814997425",
       "metric": {
@@ -1075,7 +1444,7 @@
       "type": "chart",
       "title": "#11 · Ella Langley & Morgan Wallen — I Can't Love You Anymore",
       "region": "US",
-      "observed": "2026-10-15T03:25:50+00:00",
+      "observed": "2026-10-15T03:32:20+00:00",
       "source": "Apple Music · official top songs RSS",
       "url": "https://music.apple.com/us/album/i-cant-love-you-anymore/1895158676?i=6763091996",
       "metric": {
@@ -1091,7 +1460,7 @@
       "type": "chart",
       "title": "#12 · Olivia Rodrigo — stupid song",
       "region": "US",
-      "observed": "2026-10-15T03:25:50+00:00",
+      "observed": "2026-10-15T03:32:20+00:00",
       "source": "Apple Music · official top songs RSS",
       "url": "https://music.apple.com/us/album/stupid-song/1889992111?i=1889992115",
       "metric": {
@@ -1106,8 +1475,6 @@
   "errors": [
     "Google News fashion: no recent entries",
     "Google News lifestyle: no recent entries",
-    "Spotify global: SSLError: HTTPSConnectionPool(host='www.kworb.net', port=443): Max retries exceeded with url: /spotify/country/global_weekly.html (Caused by SSLError(SSLCertVerificationError(1, \"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.kworb.net'. (_ssl.c:1010)\")))",
-    "Spotify us: SSLError: HTTPSConnectionPool(host='www.kworb.net', port=443): Max retries exceeded with url: /spotify/country/us_weekly.html (Caused by SSLError(SSLCertVerificationError(1, \"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.kworb.net'. (_ssl.c:1010)\")))",
     "Apple Music gb: ReadTimeout: HTTPSConnectionPool(host='rss.marketingtools.apple.com', port=443): Read timed out. (read timeout=19)"
   ],
   "revision_note": "V1.1: compared two keyword-specific Amazon samples and corrected chronological quarter sorting; editorial claims have links and dates."
