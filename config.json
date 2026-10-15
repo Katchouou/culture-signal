@@ -1,0 +1,43 @@
+{
+  "regions": [
+    "US",
+    "GB"
+  ],
+  "google_news_queries": [
+    {
+      "q": "Hailey Bieber OR Kendall Jenner outfit street style",
+      "category": "fashion"
+    },
+    {
+      "q": "Matilda Djerf OR Elsa Hosk OR Sofia Richie Grainge OR Anouk Yve street style Instagram outfit",
+      "category": "fashion"
+    },
+    {
+      "q": "fall fashion 2026 trending accessories fashion",
+      "category": "fashion"
+    },
+    {
+      "q": "TikTok viral meme trending trend",
+      "category": "internet"
+    },
+    {
+      "q": "TikTok trending sounds pop music",
+      "category": "music"
+    },
+    {
+      "q": "2026 celebrity beauty makeup nails trend",
+      "category": "beauty"
+    },
+    {
+      "q": "Owala Stanley latest lifestyle trending products",
+      "category": "lifestyle"
+    },
+    {
+      "q": "London art exhibition design culture",
+      "category": "culture"
+    }
+  ],
+  "max_news_per_query": 4,
+  "news_max_age_hours": 96,
+  "spotify_rows_per_chart": 12
+}
