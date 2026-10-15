@@ -27,15 +27,67 @@
   }
   function closeDrawer(){$('drawer').classList.remove('open');$('overlay').classList.remove('open');$('drawer').setAttribute('aria-hidden','true');$('overlay').setAttribute('aria-hidden','true');document.body.style.overflow=''}
   function renderStories(){const arr=getEditorial();$('countRead').textContent=arr.length;$('storyGrid').innerHTML=arr.length?arr.map(card).join(''):'<div class="empty-state"><strong>No signals matched.</strong>试试调整分类或者搜索关键词。</div>'}
-  function renderLead(){const all=STATE.feed.editorial||[];const hero=all.find(d=>d.feature)||all[0];const hailey=all.find(d=>d.id==='hailey-kendall-night');const music=all.find(d=>d.id==='adela-nicole');if(!hero)return;
-    $('leadGrid').innerHTML=`<div class="lead-main" data-story="${escapeHTML(hero.id)}" role="button" tabindex="0">${hero.image?`<img src="${escapeHTML(hero.image)}" alt="${escapeHTML(hero.english)}" onerror="this.style.display='none'">`:''}<div class="lead-main-content"><span class="lead-chip">THE BIG PICTURE / FASHION</span><h3>${escapeHTML(hero.headline)}</h3><p>${escapeHTML(hero.lede)}</p><span class="go">↗</span></div></div><div class="lead-side">${hailey?`<div class="lead-small with-image" data-story="${escapeHTML(hailey.id)}" role="button" tabindex="0"><img src="${escapeHTML(hailey.image)}" alt="Hailey and Kendall's outfits" onerror="this.style.display='none'"><div class="mini-top"><span class="small-kicker">STYLE WATCH / OCT 08</span><i>↗</i></div><div><h3>Hailey & Kendall:<br>Navy after dark.</h3><p>Look details, not just celebrity names.</p></div></div>`:''}${music?`<div class="lead-small metric-lead" data-story="${escapeHTML(music.id)}" role="button" tabindex="0"><div class="mini-top"><span class="small-kicker">THE NUMBER / SPOTIFY GLOBAL</span><i>↗</i></div><div><div class="big-val">${escapeHTML(music.metric?.value)}</div><h3>ADÉLA — Nicole Kidman</h3><p>weekly streams · chart 2026.10.08 / #2</p></div></div>`:''}</div>`;
-    const metricIds=['adela-nicole','lyst-q2','ramalama'];$('metricsStrip').innerHTML=metricIds.map(id=>{const d=all.find(x=>x.id===id);if(!d||!d.metric)return '';return `<div class="metric-box"><span>${escapeHTML(d.category.toUpperCase())} / ${escapeHTML(d.metric.as_of)}</span><strong>${escapeHTML(d.metric.value)}</strong><p>${escapeHTML(d.metric.label)}<br><a target="_blank" rel="noopener noreferrer" href="${escapeHTML(safeURL(d.source.url))}">${escapeHTML(d.source.name)} ↗</a></p></div>`}).join('');}
-  function renderWire(){const target=$('wireSection');if(!target)return;const live=[...(STATE.feed.live||[]),...(STATE.feed.charts||[])].sort((a,b)=>String(b.observed||'').localeCompare(String(a.observed||''))).slice(0,6);if(!live.length){target.classList.add('hidden');return;}target.classList.remove('hidden');$('wireGrid').innerHTML=live.map(item=>`<a class="wire-card" href="${escapeHTML(safeURL(item.url))}" target="_blank" rel="noopener noreferrer"><div><span class="wire-type">${escapeHTML((item.type||'news').toUpperCase())} / ${escapeHTML(item.region||'')}</span><span class="wire-arrow">↗</span></div><h3>${escapeHTML(item.title)}</h3><p>${item.metric?`<strong>${escapeHTML(item.metric.value)}</strong> · ${escapeHTML(item.metric.label)}`:escapeHTML(item.source||'ORIGINAL SOURCE')} · ${compactDate(item.observed)}</p></a>`).join('');}
+  function spotlightItems(){
+    const news=(STATE.feed.live||[]).filter(item=>item.type==='news'&&isRecent(item.observed,4)&&safeURL(item.url)!=='#').sort((left,right)=>String(right.observed).localeCompare(String(left.observed)));
+    if(!news.length)return [];
+    const newestTime=Date.parse(news[0].observed);
+    const lead=news.find(item=>item.category==='fashion'&&newestTime-Date.parse(item.observed)<12*3600000)||news[0];
+    const selected=[lead];
+    const different=news.find(item=>item.id!==lead.id&&item.category!==lead.category);
+    if(different)selected.push(different);
+    const nextFashion=news.find(item=>!selected.some(chosen=>chosen.id===item.id)&&item.category==='fashion'&&item.source!==lead.source);
+    const third=nextFashion||news.find(item=>!selected.some(chosen=>chosen.id===item.id));
+    if(third)selected.push(third);
+    return selected;
+  }
+  function spotlightCard(item,large){
+    const image=item.image?'<img src="'+escapeHTML(safeURL(item.image))+'" alt="" loading="lazy" onerror="this.style.display=\'none\'">':'';
+    const metric=item.metric?'<span class="spotlight-metric">'+escapeHTML(item.metric.value)+' · '+escapeHTML(item.metric.label)+'</span>':'';
+    return '<a class="spotlight-card '+(large?'spotlight-main':'spotlight-small')+'" href="'+escapeHTML(safeURL(item.url))+'" target="_blank" rel="noopener noreferrer">'+
+      '<div class="spotlight-art">'+image+'<span>'+escapeHTML(CATEGORY[item.category]||'CULTURE')+'</span></div>'+
+      '<div class="spotlight-copy"><span class="spotlight-kicker">'+escapeHTML(CATEGORY[item.category]||'CULTURE')+' / NEW SOURCE LEAD</span>'+
+      '<h3>'+escapeHTML(item.title)+'</h3>'+
+      '<div class="spotlight-source">'+escapeHTML(item.source||'Original source')+' ↗ · '+compactDate(item.observed)+'</div>'+
+      '<p>媒体提及是线索，不等于已证实流行。'+metric+'</p></div></a>';
+  }
+  function renderLead(){
+    const selected=spotlightItems();
+    if(!selected.length){$('leadGrid').innerHTML='<div class="spotlight-empty"><strong>正在等待新的海外线索</strong><p>当前没有近四天的可用新闻来源。下方仍可查看有日期的编辑档案，或到 Daily Signals 阅读原始搜索与榜单数据。</p><button data-nav="latest">查看全部线索 ↗</button></div>';return;}
+    $('leadGrid').innerHTML=spotlightCard(selected[0],true)+'<div class="spotlight-side">'+selected.slice(1).map(item=>spotlightCard(item,false)).join('')+'</div>';
+  }
+  function renderWire(){
+    const target=$('wireSection');if(!target)return;
+    const featured=new Set(spotlightItems().map(item=>item.id));
+    const live=(STATE.feed.live||[]).filter(item=>item.type==='news'&&isRecent(item.observed,4)&&!featured.has(item.id)).sort((left,right)=>String(right.observed).localeCompare(String(left.observed))).slice(0,6);
+    if(!live.length){target.classList.add('hidden');return;}
+    target.classList.remove('hidden');
+    $('wireGrid').innerHTML=live.map(item=>'<a class="wire-card" href="'+escapeHTML(safeURL(item.url))+'" target="_blank" rel="noopener noreferrer"><div><span class="wire-type">'+escapeHTML(CATEGORY[item.category]||'CULTURE')+' / PRESS</span><span class="wire-arrow">↗</span></div><h3>'+escapeHTML(item.title)+'</h3><p>'+escapeHTML(item.source||'Original source')+' · '+compactDate(item.observed)+'</p></a>').join('');
+  }
   function renderSaved(){const arr=(STATE.feed.editorial||[]).filter(d=>STATE.saved.includes(d.id));$('savedGrid').innerHTML=arr.length?arr.map(card).join(''):'<div class="empty-state"><strong>Your collection starts here.</strong>点击资讯图片右上角的 ☆ 来收藏你在意的文化信号。</div>'}
-  function renderLive(){const items=[...(STATE.feed.live||[]).filter(x=>!STATE.liveFilter||STATE.liveFilter==='all'||x.type===STATE.liveFilter),...(STATE.liveFilter==='chart' || STATE.liveFilter==='all'?(STATE.feed.charts||[]):[])];items.sort((a,b)=>String(b.observed||b.published||'').localeCompare(String(a.observed||a.published||'')));
-    $('liveFeed').innerHTML=items.length?items.slice(0,80).map(item=>{const metric=item.metric?`<strong>${escapeHTML(item.metric.value)}</strong>${escapeHTML(item.metric.label)}`:escapeHTML(item.observed?.slice(0,10)||'');const image=item.image?`<img class="live-image" src="${escapeHTML(safeURL(item.image))}" alt="${escapeHTML(item.image_credit||item.title)}" loading="lazy" onerror="this.style.display='none'">`:'';return `<article class="live-item"><div class="live-type">${escapeHTML((item.type||'news').toUpperCase())}<br>${escapeHTML(item.region||'')}</div><div class="live-body">${image}<div><h3>${escapeHTML(item.title)}</h3><p>${escapeHTML(item.source||'')} · ${escapeHTML(item.observed?.slice(0,10)||item.published||'')}<br>${escapeHTML(item.note||'')}${item.image_credit?`<br>IMAGE: ${escapeHTML(item.image_credit)}`:''}</p></div></div><div class="live-right">${metric}</div><a href="${escapeHTML(safeURL(item.url))}" target="_blank" rel="noopener noreferrer" aria-label="查看原始来源">↗</a></article>`}).join(''):'<div class="empty-state"><strong>Not yet synced.</strong>这份离线首版包含已核实的精选文章。部署 GitHub Actions 后，这里会自动出现每天的 Google Trends / Spotify / 新闻线索。<br><br>自动化尚未启动，不能把首版快照视为实时数据。</div>';
-    $('liveStatus').textContent=items.length?`${items.length} ITEMS · LAST SYNC ${chinaTime(STATE.feed.updated_at)} 北京时间`:'NOT YET CONNECTED · FIRST SYNC REQUIRED';
-    let warning=$('liveErrors');if(!warning){warning=document.createElement('p');warning.id='liveErrors';warning.className='live-errors';$('liveFeed').before(warning)}warning.textContent=(STATE.feed.errors||[]).length?`部分来源本次未更新：${STATE.feed.errors.map(error=>error.split(':')[0]).join('、')}。详情见公开数据文件。`:'';}
+  function chartLinks(){
+    const charts=STATE.feed.charts||[];
+    return [['GLOBAL','Spotify 全球周榜','global'],['US','Spotify 美国周榜','us']].map(([region,title,slug])=>{
+      const chart=charts.find(item=>item.source?.includes('Spotify')&&item.region===region);
+      return '<a class="chart-link" href="https://kworb.net/spotify/country/'+slug+'_weekly.html" target="_blank" rel="noopener noreferrer"><span>SPOTIFY / '+region+'</span><h3>'+title+' ↗</h3><p>查看完整歌曲排名与周播放量 · 榜单日期 '+compactDate(chart?.observed)+'</p></a>';
+    }).join('');
+  }
+  function renderLive(){
+    const chartView=STATE.liveFilter==='chart';
+    const items=chartView?[]:(STATE.feed.live||[]).filter(item=>STATE.liveFilter==='all'||item.type===STATE.liveFilter).sort((left,right)=>String(right.observed||'').localeCompare(String(left.observed||'')));
+    if(chartView){
+      $('liveFeed').innerHTML='<div class="chart-links">'+chartLinks()+'</div>';
+      $('liveStatus').textContent='MUSIC CHARTS · LAST SYNC '+chinaTime(STATE.feed.updated_at)+' 北京时间';
+    }else{
+      $('liveFeed').innerHTML=items.length?items.slice(0,80).map(item=>{
+        const metric=item.metric?'<strong>'+escapeHTML(item.metric.value)+'</strong>'+escapeHTML(item.metric.label):escapeHTML(compactDate(item.observed));
+        const image=item.image?'<img class="live-image" src="'+escapeHTML(safeURL(item.image))+'" alt="'+escapeHTML(item.image_credit||item.title)+'" loading="lazy" onerror="this.style.display=\'none\'">':'';
+        return '<article class="live-item"><div class="live-type">'+escapeHTML((item.type||'news').toUpperCase())+'<br>'+escapeHTML(item.region||'')+'</div><div class="live-body">'+image+'<div><h3>'+escapeHTML(item.title)+'</h3><p>'+escapeHTML(item.source||'')+' · '+escapeHTML(compactDate(item.observed))+'<br>'+escapeHTML(item.note||'')+(item.image_credit?'<br>IMAGE: '+escapeHTML(item.image_credit):'')+'</p></div></div><div class="live-right">'+metric+'</div><a href="'+escapeHTML(safeURL(item.url))+'" target="_blank" rel="noopener noreferrer" aria-label="查看原始来源">↗</a></article>';
+      }).join(''):'<div class="empty-state"><strong>Not yet synced.</strong>暂时没有这类新线索。已注明日期的编辑档案仍可在首页查看。</div>';
+      $('liveStatus').textContent=items.length?items.length+' ITEMS · LAST SYNC '+chinaTime(STATE.feed.updated_at)+' 北京时间':'NO NEW LEADS · LAST SYNC '+chinaTime(STATE.feed.updated_at)+' 北京时间';
+    }
+    let warning=$('liveErrors');if(!warning){warning=document.createElement('p');warning.id='liveErrors';warning.className='live-errors';$('liveFeed').before(warning)}
+    warning.textContent=(STATE.feed.errors||[]).length?'部分来源本次未更新：'+STATE.feed.errors.map(error=>error.split(':')[0]).join('、')+'。详情见公开数据文件。':'';
+  }
   function navigate(page){STATE.section=page;['discover','latest','saved','sources'].forEach(section=>{$(section+'View').classList.toggle('hidden',section!==page)});document.querySelectorAll('[data-nav]').forEach(el=>el.classList.toggle('active',el.dataset.nav===page));if(page==='saved')renderSaved();if(page==='latest')renderLive();if(page==='discover')renderStories();window.scrollTo({top:0,behavior:'smooth'});}
   function setFilter(f){STATE.filter=f;document.querySelectorAll('[data-filter]').forEach(b=>b.classList.toggle('active',b.dataset.filter===f));navigate('discover');}
   function updateSync(){const data=STATE.feed;const isFresh=isRecent(data.updated_at,1/24);$('syncLabel').textContent=data.mode==='auto'?(isFresh?'最近采集 · ':'更新延迟 · ')+chinaTime(data.updated_at)+' 北京时间':'编辑快照 · '+compactDate(data.updated_at);$('statusDot').className='status-dot '+(isFresh&&data.mode==='auto'?'ready':'stale');$('sidebarRefresh').textContent=data.mode==='auto'?'LAST SYNC · '+chinaTime(data.updated_at)+' CST':'FIRST EDITION · OCT 2026'}
