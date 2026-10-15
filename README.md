@@ -6,12 +6,12 @@ A personal English-language culture discovery reader with Chinese context and **
 
 Open `index.html` in Chrome or Safari. The bundled `data/seed.js` powers offline reading, search, filters, source links, story drawers, and browser-local saved stories. Photo assets are publisher-hosted and need an internet connection; offline they fall back to designed typographic covers. Image rights remain with their publishers, and some remote image hosts block hotlinks. The fallback does not falsely present decorative images as proof of a specific celebrity look.
 
-## Turn on automatic daily updates
+## Turn on automatic updates
 
 1. Create a new GitHub repository (e.g. `culture-signal`). Use a public repository for GitHub Free Pages. Upload the **contents** of this folder to the `main` branch, including the hidden `.github/workflows/daily-refresh.yml` file; `index.html` must be at the repository root.
 2. Under **Settings → Pages → Build and deployment → Source**, select **GitHub Actions**. The workflow itself now refreshes the feed, saves it to the repository, and deploys the exact same files to Pages. A `GITHUB_TOKEN` data commit alone would not trigger a branch-based Pages build.
 3. Under **Actions**, find **Refresh and publish Culture Signal** and choose **Run workflow**. Check that both `build` and `deploy` succeed, then open the Pages URL shown in the deployment. The workflow requests `contents: write`, `pages: write`, and `id-token: write`; repository or organization policy must allow those permissions.
-4. The cron schedule attempts refresh once every day at **09:00 Beijing time** (01:00 UTC). GitHub Actions may be delayed or occasionally skipped. The app shows each source observation date, the last successful update, and any source errors. You can run the workflow manually any time.
+4. The cron schedule requests a refresh at UTC minutes **07, 22, 37, and 52** of every hour (about every 15 minutes). GitHub Actions may delay or skip scheduled runs, so this is near-real-time polling, **not a 15-minute guarantee or live streaming**. The app checks the published feed every five minutes while open and again when the tab becomes visible. It shows the last successful collection to the minute in Beijing time and source errors. You can run the workflow manually any time.
 
 **GitHub Pages is public by default in many setups.** Do not put personal secrets in this repository. The app itself requires no API key, no subscription, and no database.
 
@@ -26,7 +26,7 @@ To change future discovery topics, edit `config.json`. To update manually: `pip 
 
 ## Reality check
 
-The repository cannot configure or publish itself. Simply opening `index.html` does **not** run daily internet crawls: GitHub Actions must be enabled on your own repository, or you must host an equivalent scheduled job. Instagram and TikTok do not offer reliable, open, unauthenticated access to all creators' precise realtime post metrics. Thus this first version does not claim to scrape every influencer's latest post or estimate the platform's overall share of voice. Those require authorized APIs, an approved data vendor, or manual curation. Daily refresh is not real-time streaming.
+Simply opening `index.html` does **not** run internet crawls: GitHub Actions must be enabled on the repository, or an equivalent scheduled job must run elsewhere. Instagram and TikTok do not offer reliable, open, unauthenticated access to all creators' precise realtime post metrics. Thus this version does not claim to scrape every influencer's latest post or estimate the platform's overall share of voice. Those require authorized APIs, an approved data vendor, or manual curation. Fifteen-minute collection attempts do not make weekly charts, news mentions, or an editorial snapshot into live social trends.
 
 The app never equates editorial articles with measurable adoption, and preserves stale/failed source states. Images are used as remote editorial previews and attributed; rights remain with their respective publishers, and links may expire. If you publish widely, obtain rights or swap the images.
 
@@ -39,7 +39,7 @@ The app never equates editorial articles with measurable adoption, and preserves
 - `data/seed.js` — inline fall-back for local file mode
 - `scripts/update.py` — fail-soft public RSS and chart ingestion
 - `config.json` — editable keyword queries and countries
-- `.github/workflows/daily-refresh.yml` — daily scheduler
+- `.github/workflows/daily-refresh.yml` — approximately 15-minute scheduler and Pages deployment
 
 No analytics, trackers, user accounts, embedded advertising, or fake popularity score.
 
