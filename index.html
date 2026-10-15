@@ -44,18 +44,19 @@
       <header class="topbar"><div class="topbar-left"><span class="top-point"></span> AN INDEPENDENT CULTURE READER <span class="topbar-slash">/</span> <span id="todayDate"></span></div><div class="topbar-right"><span id="statusDot" class="status-dot"></span><span id="syncLabel">载入中</span> <button class="topbar-info" id="aboutQuick" title="数据规则">?</button></div></header>
 
       <section class="view" id="discoverView">
-        <div class="intro"><div><p class="eyebrow">THE DAILY CULTURE BRIEF / VOL. 001</p><h1>Catch the <em>culture.</em><br /><span>Before it becomes obvious.</span></h1><p class="intro-lede">你在国内，也可以保持对欧美文化语境的敏感度。<br />时尚、单品、音乐、梗与城市文化，带来源、时间与可核对的数据。</p></div><div class="issue-stamp"><span>THE OCTOBER ISSUE</span><div>26<span>/</span>10</div><small>NEW YORK · LONDON · EVERYWHERE</small></div></div>
+        <div class="intro"><div><p class="eyebrow">THE CULTURE RADAR / LIVE SOURCES</p><h1>Catch the <em>culture.</em></h1><p class="intro-lede">你在国内，也可以保持对欧美文化语境的敏感度。<br />时尚、单品、音乐、梗与城市文化，带来源、时间与可核对的数据。</p></div></div>
 
         <div class="ticker"><div class="ticker-label"><span class="blink"></span> SIGNALS, NOT HYPE</div><div class="ticker-text">We separate <b>measured popularity</b> from <b>editorial observation</b>. Every number has a date. Every claim has a source.</div><span class="ticker-arrow">↗</span></div>
 
-        <div class="section-bar"><div><span class="mono-kicker">01 / THE EDIT</span><h2>On our radar <span class="serif-accent">this edition.</span></h2></div><div class="section-bar-aside">A PERSONAL EDITION <span>↘</span></div></div>
-        <div class="lead-grid" id="leadGrid"></div>
+        <div class="section-bar"><div><span class="mono-kicker">01 / FRESHLY SPOTTED</span><h2>On our radar <span class="serif-accent">now.</span></h2></div><div class="section-bar-aside">NEW SOURCE LEADS <span>↘</span></div></div>
+        <p class="section-explainer">从最新公开来源自动挑选，人物和话题会轮换。报道是线索，不等于已经证明流行。</p>
+        <div class="spotlight-grid" id="leadGrid"></div>
+        <a class="music-gateway" href="https://kworb.net/spotify/country/global_weekly.html" target="_blank" rel="noopener noreferrer"><span class="music-gateway-kicker">MUSIC / OPEN THE CHART</span><strong>想看现在听什么？打开 Spotify 全球周榜</strong><small>直接看歌曲排名、周播放量和榜单日期，不在首页逐首罗列。</small><span class="music-gateway-arrow">↗</span></a>
 
-        <div class="metrics-strip" id="metricsStrip"></div>
+        <section class="wire-section hidden" id="wireSection"><div class="wire-title"><span>↗ MORE FROM THE SOURCE FEEDS</span><button data-nav="latest">全部新线索 →</button></div><div class="wire-grid" id="wireGrid"></div><p class="wire-foot">自动发现的新闻线索；不代表已经核实为社会趋势。点击查看原始来源。</p></section>
 
-        <section class="wire-section hidden" id="wireSection"><div class="wire-title"><span>↗ DAILY SIGNALS / AUTO-COLLECTED</span><button data-nav="latest">Full live desk →</button></div><div class="wire-grid" id="wireGrid"></div><p class="wire-foot">自动发现的新闻及搜索/榜单线索；不代表已经核实为社会趋势。点击查看原始来源。</p></section>
-
-        <div class="section-bar more-bar"><div><span class="mono-kicker">02 / THE STORIES</span><h2>What's happening <span class="serif-accent">over there.</span></h2></div><div class="section-bar-aside"><span id="countRead">—</span> SIGNALS IN THIS EDITION</div></div>
+        <div class="section-bar more-bar"><div><span class="mono-kicker">02 / DATED EDITORIAL ARCHIVE</span><h2>Context worth <span class="serif-accent">keeping.</span></h2></div><div class="section-bar-aside"><span id="countRead">—</span> ARCHIVED STORIES</div></div>
+        <p class="section-explainer">以下是有日期的人工整理内容，用来补背景，不作为今天的固定推荐。</p>
         <div class="filterbar"><div class="filter-buttons" id="filters"><button class="filter active" data-filter="all">All <span>✳</span></button><button class="filter" data-filter="fashion">Fashion</button><button class="filter" data-filter="music">Music</button><button class="filter" data-filter="internet">Internet</button><button class="filter" data-filter="beauty">Beauty</button><button class="filter" data-filter="lifestyle">Lifestyle</button><button class="filter" data-filter="culture">Culture</button></div><div class="filter-actions"><label class="search-wrap"><span>⌕</span><input id="searchInput" type="search" placeholder="Search people, items, culture…" aria-label="搜索话题" /></label><select id="sortSelect" aria-label="排序"><option value="recent">Most recent ↓</option><option value="proof">Evidence first ↓</option></select></div></div>
         <div id="storyGrid" class="story-grid"></div>
         <div class="foot-message"><span>✳</span><p>Context beats an algorithm.<br /><small>素材来自所列新闻与榜单。自动采集可能延迟，非严格实时，所有时间均明确标注。</small></p></div>
