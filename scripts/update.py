@@ -119,7 +119,7 @@ def google_news(q: str, category: str, max_count: int, hours: int) -> list[dict]
 
 def spotify_weekly(region: str, max_rows: int) -> list[dict]:
     """Best-effort Kworb parser. Fail closed on ambiguous numeric positions/streams."""
-    url=f'https://www.kworb.net/spotify/country/{region}_weekly.html'
+    url=f'https://kworb.net/spotify/country/{region}_weekly.html'
     html=fetch(url,timeout=30)
     soup=BeautifulSoup(html,'html.parser')
     heading=soup.get_text(' ',strip=True)[:600]
@@ -181,6 +181,11 @@ def apple_music_charts(country: str = 'us', max_rows: int = 12) -> list[dict]:
     return out
 
 def main():
+    for story in old.get('editorial', []):
+        source=story.get('source', {})
+        url=source.get('url', '')
+        if url.startswith('https://www.kworb.net/'):
+            source['url']=url.replace('https://www.kworb.net/', 'https://kworb.net/', 1)
     old_live=old.get('live',[]);old_charts=old.get('charts',[])
     gathered_trends=[];gathered_news=[];charts=[]
     success=0
