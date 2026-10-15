@@ -9,7 +9,7 @@
   const safeURL=s=>/^https?:\/\//i.test(String(s||''))?String(s):'#';
   const escapeHTML=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
   function compactDate(s){return s ? String(s).slice(0,10).replaceAll('-','.'):'—'}
-  function chinaTime(value){const date=new Date(value);return Number.isNaN(date.getTime())?compactDate(value):new Intl.DateTimeFormat('zh-CN',{timeZone:'Asia/Shanghai',year:'numeric',month:'2-digit',day:'2-digit',hour:'2-digit',minute:'2-digit',hour12:false}).format(date).replaceAll('/','.');}
+  function chinaTime(value){if(!value)return '—';const date=new Date(value);return Number.isNaN(date.getTime())?compactDate(value):new Intl.DateTimeFormat('zh-CN',{timeZone:'Asia/Shanghai',year:'numeric',month:'2-digit',day:'2-digit',hour:'2-digit',minute:'2-digit',hour12:false}).format(date).replaceAll('/','.');}
   function isRecent(s,days){const t=Date.parse(s);return Number.isFinite(t) && Date.now()-t < days*864e5 && Date.now()-t >=-864e5}
   function sortDate(s){const q=/^(20\d\d)-Q([1-4])$/.exec(s||'');if(q)return `${q[1]}-${String(Number(q[2])*3).padStart(2,'0')}-30`;return s||'0000-00-00';}
   function evidenceTag(d){return d.evidence==='quantified'?'<span class="tag-quant">● DATA BACKED</span>':'<span class="tag-report">○ PRESS / OBSERVED</span>'}
