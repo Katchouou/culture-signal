@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-22T12:31:55+00:00",
+  "updated_at": "2026-10-22T17:34:57+00:00",
   "edition": "10.15 / The culture issue",
   "mode": "auto",
   "editorial": [
@@ -365,11 +365,11 @@
   ],
   "live": [
     {
-      "id": "google-fe0046fedabcff1e",
+      "id": "google-7d6010f2106636ae",
       "type": "trend",
-      "title": "braces",
+      "title": "catherine, princess of wales",
       "region": "US",
-      "observed": "2026-10-22T12:10:00+00:00",
+      "observed": "2026-10-22T17:20:00+00:00",
       "source": "Google Trends Trending Now RSS",
       "url": "https://trends.google.com/trending/rss?geo=US",
       "note": "Search spike · approx traffic is an estimated bucket, not a verified total.",
@@ -379,67 +379,81 @@
       }
     },
     {
-      "id": "google-22555685f2fe572a",
+      "id": "google-647eb73e35f16156",
       "type": "trend",
-      "title": "kyiv",
-      "region": "GB",
-      "observed": "2026-10-22T12:10:00+00:00",
-      "source": "Google Trends Trending Now RSS",
-      "url": "https://trends.google.com/trending/rss?geo=GB",
-      "note": "Search spike · approx traffic is an estimated bucket, not a verified total.",
-      "metric": {
-        "value": "200+",
-        "label": "approx. search volume"
-      }
-    },
-    {
-      "id": "google-83024f12c419d2cd",
-      "type": "trend",
-      "title": "gen z",
-      "region": "GB",
-      "observed": "2026-10-22T12:10:00+00:00",
-      "source": "Google Trends Trending Now RSS",
-      "url": "https://trends.google.com/trending/rss?geo=GB",
-      "note": "Search spike · approx traffic is an estimated bucket, not a verified total.",
-      "metric": {
-        "value": "200+",
-        "label": "approx. search volume"
-      }
-    },
-    {
-      "id": "google-7e74aba894504efd",
-      "type": "trend",
-      "title": "richard hammond",
-      "region": "GB",
-      "observed": "2026-10-22T12:10:00+00:00",
-      "source": "Google Trends Trending Now RSS",
-      "url": "https://trends.google.com/trending/rss?geo=GB",
-      "note": "Search spike · approx traffic is an estimated bucket, not a verified total.",
-      "metric": {
-        "value": "200+",
-        "label": "approx. search volume"
-      }
-    },
-    {
-      "id": "google-734bbcefa79cec08",
-      "type": "trend",
-      "title": "turning point uk",
-      "region": "GB",
-      "observed": "2026-10-22T12:10:00+00:00",
-      "source": "Google Trends Trending Now RSS",
-      "url": "https://trends.google.com/trending/rss?geo=GB",
-      "note": "Search spike · approx traffic is an estimated bucket, not a verified total.",
-      "metric": {
-        "value": "100+",
-        "label": "approx. search volume"
-      }
-    },
-    {
-      "id": "google-080ccf94776cf9f0",
-      "type": "trend",
-      "title": "eric dane",
+      "title": "leverkusen",
       "region": "US",
-      "observed": "2026-10-22T12:00:00+00:00",
+      "observed": "2026-10-22T17:20:00+00:00",
+      "source": "Google Trends Trending Now RSS",
+      "url": "https://trends.google.com/trending/rss?geo=US",
+      "note": "Search spike · approx traffic is an estimated bucket, not a verified total.",
+      "metric": {
+        "value": "200+",
+        "label": "approx. search volume"
+      }
+    },
+    {
+      "id": "google-dd7b79037ec8a01d",
+      "type": "trend",
+      "title": "pokemon cards",
+      "region": "GB",
+      "observed": "2026-10-22T17:20:00+00:00",
+      "source": "Google Trends Trending Now RSS",
+      "url": "https://trends.google.com/trending/rss?geo=GB",
+      "note": "Search spike · approx traffic is an estimated bucket, not a verified total.",
+      "metric": {
+        "value": "500+",
+        "label": "approx. search volume"
+      }
+    },
+    {
+      "id": "google-48c1882fbe837e5e",
+      "type": "trend",
+      "title": "crime",
+      "region": "GB",
+      "observed": "2026-10-22T17:20:00+00:00",
+      "source": "Google Trends Trending Now RSS",
+      "url": "https://trends.google.com/trending/rss?geo=GB",
+      "note": "Search spike · approx traffic is an estimated bucket, not a verified total.",
+      "metric": {
+        "value": "200+",
+        "label": "approx. search volume"
+      }
+    },
+    {
+      "id": "google-83fec200f84cf668",
+      "type": "trend",
+      "title": "juventus",
+      "region": "GB",
+      "observed": "2026-10-22T17:20:00+00:00",
+      "source": "Google Trends Trending Now RSS",
+      "url": "https://trends.google.com/trending/rss?geo=GB",
+      "note": "Search spike · approx traffic is an estimated bucket, not a verified total.",
+      "metric": {
+        "value": "200+",
+        "label": "approx. search volume"
+      }
+    },
+    {
+      "id": "google-5ab07e811c5e3dcc",
+      "type": "trend",
+      "title": "besiktas",
+      "region": "GB",
+      "observed": "2026-10-22T17:20:00+00:00",
+      "source": "Google Trends Trending Now RSS",
+      "url": "https://trends.google.com/trending/rss?geo=GB",
+      "note": "Search spike · approx traffic is an estimated bucket, not a verified total.",
+      "metric": {
+        "value": "200+",
+        "label": "approx. search volume"
+      }
+    },
+    {
+      "id": "google-9f9518b885819b21",
+      "type": "trend",
+      "title": "nathan fillion",
+      "region": "US",
+      "observed": "2026-10-22T17:10:00+00:00",
       "source": "Google Trends Trending Now RSS",
       "url": "https://trends.google.com/trending/rss?geo=US",
       "note": "Search spike · approx traffic is an estimated bucket, not a verified total.",
@@ -449,11 +463,25 @@
       }
     },
     {
-      "id": "google-8ac354632802c573",
+      "id": "google-3df6fa8555377d61",
       "type": "trend",
-      "title": "kyle whittingham",
+      "title": "druski",
       "region": "US",
-      "observed": "2026-10-22T12:00:00+00:00",
+      "observed": "2026-10-22T17:10:00+00:00",
+      "source": "Google Trends Trending Now RSS",
+      "url": "https://trends.google.com/trending/rss?geo=US",
+      "note": "Search spike · approx traffic is an estimated bucket, not a verified total.",
+      "metric": {
+        "value": "1000+",
+        "label": "approx. search volume"
+      }
+    },
+    {
+      "id": "google-0e514457b064332c",
+      "type": "trend",
+      "title": "trabzonspor",
+      "region": "US",
+      "observed": "2026-10-22T17:10:00+00:00",
       "source": "Google Trends Trending Now RSS",
       "url": "https://trends.google.com/trending/rss?geo=US",
       "note": "Search spike · approx traffic is an estimated bucket, not a verified total.",
@@ -463,13 +491,13 @@
       }
     },
     {
-      "id": "google-e34dbb667d8d19d2",
+      "id": "google-71ae01edc94bfe92",
       "type": "trend",
-      "title": "barclays",
-      "region": "US",
-      "observed": "2026-10-22T12:00:00+00:00",
+      "title": "carol vorderman",
+      "region": "GB",
+      "observed": "2026-10-22T17:10:00+00:00",
       "source": "Google Trends Trending Now RSS",
-      "url": "https://trends.google.com/trending/rss?geo=US",
+      "url": "https://trends.google.com/trending/rss?geo=GB",
       "note": "Search spike · approx traffic is an estimated bucket, not a verified total.",
       "metric": {
         "value": "1000+",
@@ -477,13 +505,27 @@
       }
     },
     {
-      "id": "google-6e06b8b587923e13",
+      "id": "google-b29ed6f48ec1de72",
       "type": "trend",
-      "title": "scott colom",
-      "region": "US",
-      "observed": "2026-10-22T12:00:00+00:00",
+      "title": "durban",
+      "region": "GB",
+      "observed": "2026-10-22T17:10:00+00:00",
       "source": "Google Trends Trending Now RSS",
-      "url": "https://trends.google.com/trending/rss?geo=US",
+      "url": "https://trends.google.com/trending/rss?geo=GB",
+      "note": "Search spike · approx traffic is an estimated bucket, not a verified total.",
+      "metric": {
+        "value": "500+",
+        "label": "approx. search volume"
+      }
+    },
+    {
+      "id": "google-04e2bb2fb739aad5",
+      "type": "trend",
+      "title": "juventus - rennes",
+      "region": "GB",
+      "observed": "2026-10-22T17:10:00+00:00",
+      "source": "Google Trends Trending Now RSS",
+      "url": "https://trends.google.com/trending/rss?geo=GB",
       "note": "Search spike · approx traffic is an estimated bucket, not a verified total.",
       "metric": {
         "value": "100+",
@@ -491,11 +533,81 @@
       }
     },
     {
-      "id": "google-53d3f9086835c5ce",
+      "id": "google-98422a6aa7255875",
       "type": "trend",
-      "title": "jacob elordi",
+      "title": "judge",
+      "region": "US",
+      "observed": "2026-10-22T17:00:00+00:00",
+      "source": "Google Trends Trending Now RSS",
+      "url": "https://trends.google.com/trending/rss?geo=US",
+      "note": "Search spike · approx traffic is an estimated bucket, not a verified total.",
+      "metric": {
+        "value": "2000+",
+        "label": "approx. search volume"
+      }
+    },
+    {
+      "id": "google-00559c039d3d0541",
+      "type": "trend",
+      "title": "josh simmons",
+      "region": "US",
+      "observed": "2026-10-22T17:00:00+00:00",
+      "source": "Google Trends Trending Now RSS",
+      "url": "https://trends.google.com/trending/rss?geo=US",
+      "note": "Search spike · approx traffic is an estimated bucket, not a verified total.",
+      "metric": {
+        "value": "500+",
+        "label": "approx. search volume"
+      }
+    },
+    {
+      "id": "google-7a389c5eba30d4a2",
+      "type": "trend",
+      "title": "mrna",
+      "region": "US",
+      "observed": "2026-10-22T17:00:00+00:00",
+      "source": "Google Trends Trending Now RSS",
+      "url": "https://trends.google.com/trending/rss?geo=US",
+      "note": "Search spike · approx traffic is an estimated bucket, not a verified total.",
+      "metric": {
+        "value": "500+",
+        "label": "approx. search volume"
+      }
+    },
+    {
+      "id": "google-446f91ac134c2ec5",
+      "type": "trend",
+      "title": "europa league schedule",
+      "region": "US",
+      "observed": "2026-10-22T17:00:00+00:00",
+      "source": "Google Trends Trending Now RSS",
+      "url": "https://trends.google.com/trending/rss?geo=US",
+      "note": "Search spike · approx traffic is an estimated bucket, not a verified total.",
+      "metric": {
+        "value": "500+",
+        "label": "approx. search volume"
+      }
+    },
+    {
+      "id": "google-ab9c6a763225a635",
+      "type": "trend",
+      "title": "europa conference league",
       "region": "GB",
-      "observed": "2026-10-22T12:00:00+00:00",
+      "observed": "2026-10-22T17:00:00+00:00",
+      "source": "Google Trends Trending Now RSS",
+      "url": "https://trends.google.com/trending/rss?geo=GB",
+      "note": "Search spike · approx traffic is an estimated bucket, not a verified total.",
+      "metric": {
+        "value": "500+",
+        "label": "approx. search volume"
+      }
+    },
+    {
+      "id": "google-0c6f0a38bbcfeff2",
+      "type": "trend",
+      "title": "trent alexander-arnold transfer rumors",
+      "region": "GB",
+      "observed": "2026-10-22T17:00:00+00:00",
       "source": "Google Trends Trending Now RSS",
       "url": "https://trends.google.com/trending/rss?geo=GB",
       "note": "Search spike · approx traffic is an estimated bucket, not a verified total.",
@@ -505,11 +617,11 @@
       }
     },
     {
-      "id": "google-7d1c25b950059a49",
+      "id": "google-57609a0bd90850ab",
       "type": "trend",
-      "title": "mg go",
+      "title": "the late late show",
       "region": "GB",
-      "observed": "2026-10-22T12:00:00+00:00",
+      "observed": "2026-10-22T17:00:00+00:00",
       "source": "Google Trends Trending Now RSS",
       "url": "https://trends.google.com/trending/rss?geo=GB",
       "note": "Search spike · approx traffic is an estimated bucket, not a verified total.",
@@ -517,6 +629,119 @@
         "value": "200+",
         "label": "approx. search volume"
       }
+    },
+    {
+      "id": "google-ea77512f7f29e5a2",
+      "type": "trend",
+      "title": "juventus",
+      "region": "US",
+      "observed": "2026-10-22T16:50:00+00:00",
+      "source": "Google Trends Trending Now RSS",
+      "url": "https://trends.google.com/trending/rss?geo=US",
+      "note": "Search spike · approx traffic is an estimated bucket, not a verified total.",
+      "metric": {
+        "value": "2000+",
+        "label": "approx. search volume"
+      }
+    },
+    {
+      "id": "news-3d8fb3ad2c25248a",
+      "type": "news",
+      "category": "fashion",
+      "title": "What to Wear to a Fall Concert: 7 Outfit Ideas That Bring Style and Attitude",
+      "region": "US / UK",
+      "observed": "2026-10-22T15:51:18+00:00",
+      "source": "Style Rave",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5FeXdobEE4VXpVSy1Ga0VWLVVyRmc0b1F6ZmxZS2JoWEF4YUIxcUQxLWJqS0RZTGFpLXN2MXRZeFc5OC1HTmE5NmIxNjNRRnROcGpCX3I0MThEWVpaUXdVX0plTXhnSjA4T1E?oc=5",
+      "note": "News mention only; publication does not prove popularity."
+    },
+    {
+      "id": "news-5557012c8ea53117",
+      "type": "news",
+      "category": "fashion",
+      "title": "TikTok, iHeartPodcasts Expand Podcast Network With Three New Shows.",
+      "region": "US / UK",
+      "observed": "2026-10-22T15:30:00+00:00",
+      "source": "https://www.podcastnewsdaily.com/",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNVXo4d1RMblNkbG80MjlrallIVkEyY0RFQzRYQ2ZmdW9vZnZaR2gyVnRFc1dhYUFXS1k0UzhqVGpDUVFkU1lsYXNEOTVtbHhvQUVNTlhORkNqNGtwTjkzV3NrNk1qX1VvRWR3ZmI4NHFZaUg1VnMyMFRFTHRHMDk4RzNGc3NXMHpOWEdlZEJncm1MZHJGNGtKdUIwZThZd2Z2dlFMUFNJWTZQbmFQa2dkRkJZVGRkLVFqVkxlQTUzZ05yWGZRbTd4VUFkUlJUbGlsUFdNM1ptdTZqQjhYLXh3VkNxWHY3Y3k0?oc=5",
+      "note": "News mention only; publication does not prove popularity."
+    },
+    {
+      "id": "news-c0b06ad4d1af2f0e",
+      "type": "news",
+      "category": "fashion",
+      "title": "Sofía Vergara Shows Off Her Grunge Side in This Unexpected Tee",
+      "region": "US / UK",
+      "observed": "2026-10-22T14:45:00+00:00",
+      "source": "Harper's BAZAAR",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNRjBCb0N2QXlxaTZSZTVZQ241TWROX0VVTlZnYU10TWVyNk0wcnowa0NMOWR1TUthd2xvRkdJRUVjdjFoV0JZclczWEhKWDZaeW5GS3JpMkNJMlBkMGh0d3JXMEFzWEtRcTF5ZlVRZlN4Wjl0TUdKR1RmeElQTTFvY2V6US16a1dHTldmcHl6OEhDX0FWUmxsN3ZQaEZET2lpTUMwWVZrSVZIUzlURGtxLUoxS2xCVnhBS2RIMW1iYnMwUQ?oc=5",
+      "note": "News mention only; publication does not prove popularity."
+    },
+    {
+      "id": "news-a3050d5f6416492c",
+      "type": "news",
+      "category": "lifestyle",
+      "title": "Stop drinking microbes: The easiest ways to clean your reusable water bottle",
+      "region": "US / UK",
+      "observed": "2026-10-22T14:33:52+00:00",
+      "source": "NBC News",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQcTU4R3BlSEw1ZWd0NHB2amRJcjNZbXo4U1hnQndWS2xnR2Nfc0I0OU1DTVJobDRSVGVmV0lfbnpVS29lNXBvMy1Oc2RjN2Z1NjZOUjhtTTZ1am1nQzRWNUtVWi1HZFBMRzhob2hKUzdUV3JrcWFjaG56UVBLcEIwOHJR?oc=5",
+      "note": "News mention only; publication does not prove popularity."
+    },
+    {
+      "id": "news-3715ab56b7e0343d",
+      "type": "news",
+      "category": "fashion",
+      "title": "Princess Anisha Rosnah glitters in custom lace outfit from wedding dress designer",
+      "region": "US / UK",
+      "observed": "2026-10-22T14:23:39+00:00",
+      "source": "HELLO! Magazine",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxObHA2LUVMc2V5b0Vjb193TU5WcjZLNDRWVG5CVGlja2R5anloamtYbDR5VlNmSVZrbWpydUtFOXo0Y1lwRG10MTJpeGNJWDJpQW8xaTFwZ0E1ekpaUTVaNU92bWswazlGQWJzY2ZrV2dycEpWdkJnSjk4cXRXY19OUDhBNjRxa1QtV3dFa2NyZS1pcmRKSFNjYzU1VWF2MlVRWHljbC03UWY2VzNqcG5EOWNNMTVGdEJNQ1VDdnFSSVlNd3RnM3phbFJWT3dVcEpzSEdqZjBn?oc=5",
+      "note": "News mention only; publication does not prove popularity."
+    },
+    {
+      "id": "news-cbbb8b36fefa0b9d",
+      "type": "news",
+      "category": "beauty",
+      "title": "KJH Microscara Tubing Mascara Review: We Put It to the Test",
+      "region": "US / UK",
+      "observed": "2026-10-22T14:04:36+00:00",
+      "source": "ELLE",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQX1RaS1JXOEkyd2hHRHRTX05wN1loZG94TzJjMGRyQ0lKbVJ6WmZKTFV2bGZTUVlGNFA2eHlGZzUzM0huX0F4UGpteGU0NEtpMEZjSExWdzRqa25JX1gzcG14QWIzTEs0SV95czdwWlJtSlltaWFUb1MyUEUyUnctSEg5OA?oc=5",
+      "note": "News mention only; publication does not prove popularity."
+    },
+    {
+      "id": "news-c6854eb346c01925",
+      "type": "news",
+      "category": "internet",
+      "title": "“Ruby-chan! Hai! Nani ga suki?” Trend Explained: What It Means and Where It’s From",
+      "region": "US / UK",
+      "observed": "2026-10-22T13:04:21+00:00",
+      "source": "Metropolis Japan",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9kWTNHaGctWXctRVN4OGp2MjlFcFJoYjQ2ZkgzMTRXamFHQ21tclVya3lBeFhvZVNUcjdZSDNlc3RPNVRuT0Ixel9odHF5cmlmcjJybVpMNnl5WEpmS0xTZUFoazE?oc=5",
+      "note": "News mention only; publication does not prove popularity."
+    },
+    {
+      "id": "news-d293464b8f406cb4",
+      "type": "news",
+      "category": "music",
+      "title": "“Ruby-chan! Hai! Nani ga suki?” Trend Explained: What It Means and Where It’s From",
+      "region": "US / UK",
+      "observed": "2026-10-22T13:04:21+00:00",
+      "source": "Metropolis Japan",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9kWTNHaGctWXctRVN4OGp2MjlFcFJoYjQ2ZkgzMTRXamFHQ21tclVya3lBeFhvZVNUcjdZSDNlc3RPNVRuT0Ixel9odHF5cmlmcjJybVpMNnl5WEpmS0xTZUFoazE?oc=5",
+      "note": "News mention only; publication does not prove popularity."
+    },
+    {
+      "id": "news-113e4ef766a5bdaa",
+      "type": "news",
+      "category": "beauty",
+      "title": "Perfumer Dominique Ropion is Riding a New Wave with Merit",
+      "region": "US / UK",
+      "observed": "2026-10-22T13:00:40+00:00",
+      "source": "Elle Canada",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOUnQwdVl3OFRUdHJfY0RLb1JQZFBNRzR1TUJSNTNneHhBZHJPNVVVQ0twUk9OSVBpUFpxVGxzM29LR1pUUzl1eVkyNEZhc0xONkk2ZnVKTk5femdFT01EX3FvVXJidGtmZ3RCdWlDMHhudkpTem1jSDJ3MHVNZFdJNA?oc=5",
+      "note": "News mention only; publication does not prove popularity."
     },
     {
       "id": "news-d5dc4b721c3ae6b2",
@@ -530,130 +755,15 @@
       "note": "News mention only; publication does not prove popularity."
     },
     {
-      "id": "google-509d397b46e314cc",
-      "type": "trend",
-      "title": "russian satellite approaches us spacecraft",
-      "region": "US",
-      "observed": "2026-10-22T11:50:00+00:00",
-      "source": "Google Trends Trending Now RSS",
-      "url": "https://trends.google.com/trending/rss?geo=US",
-      "note": "Search spike · approx traffic is an estimated bucket, not a verified total.",
-      "metric": {
-        "value": "200+",
-        "label": "approx. search volume"
-      }
-    },
-    {
-      "id": "google-f42c158639616b01",
-      "type": "trend",
-      "title": "valtteri bottas",
-      "region": "US",
-      "observed": "2026-10-22T11:50:00+00:00",
-      "source": "Google Trends Trending Now RSS",
-      "url": "https://trends.google.com/trending/rss?geo=US",
-      "note": "Search spike · approx traffic is an estimated bucket, not a verified total.",
-      "metric": {
-        "value": "200+",
-        "label": "approx. search volume"
-      }
-    },
-    {
-      "id": "google-2ca7052508967970",
-      "type": "trend",
-      "title": "space force elon musk rocket transition",
-      "region": "US",
-      "observed": "2026-10-22T11:50:00+00:00",
-      "source": "Google Trends Trending Now RSS",
-      "url": "https://trends.google.com/trending/rss?geo=US",
-      "note": "Search spike · approx traffic is an estimated bucket, not a verified total.",
-      "metric": {
-        "value": "200+",
-        "label": "approx. search volume"
-      }
-    },
-    {
-      "id": "google-d7699a858a0880c9",
-      "type": "trend",
-      "title": "baby boomer inheritance spending trends",
-      "region": "US",
-      "observed": "2026-10-22T11:50:00+00:00",
-      "source": "Google Trends Trending Now RSS",
-      "url": "https://trends.google.com/trending/rss?geo=US",
-      "note": "Search spike · approx traffic is an estimated bucket, not a verified total.",
-      "metric": {
-        "value": "200+",
-        "label": "approx. search volume"
-      }
-    },
-    {
-      "id": "google-54a920c22c4b090c",
-      "type": "trend",
-      "title": "powerball resultados",
-      "region": "US",
-      "observed": "2026-10-22T11:50:00+00:00",
-      "source": "Google Trends Trending Now RSS",
-      "url": "https://trends.google.com/trending/rss?geo=US",
-      "note": "Search spike · approx traffic is an estimated bucket, not a verified total.",
-      "metric": {
-        "value": "100+",
-        "label": "approx. search volume"
-      }
-    },
-    {
-      "id": "google-b9f9d3170e3791cb",
-      "type": "trend",
-      "title": "kyle walker",
-      "region": "GB",
-      "observed": "2026-10-22T11:50:00+00:00",
-      "source": "Google Trends Trending Now RSS",
-      "url": "https://trends.google.com/trending/rss?geo=GB",
-      "note": "Search spike · approx traffic is an estimated bucket, not a verified total.",
-      "metric": {
-        "value": "500+",
-        "label": "approx. search volume"
-      }
-    },
-    {
-      "id": "google-22abcd31882e65db",
-      "type": "trend",
-      "title": "sovereign wealth fund",
-      "region": "GB",
-      "observed": "2026-10-22T11:50:00+00:00",
-      "source": "Google Trends Trending Now RSS",
-      "url": "https://trends.google.com/trending/rss?geo=GB",
-      "note": "Search spike · approx traffic is an estimated bucket, not a verified total.",
-      "metric": {
-        "value": "200+",
-        "label": "approx. search volume"
-      }
-    },
-    {
-      "id": "google-ab4fad0bf46e1351",
-      "type": "trend",
-      "title": "valtteri bottas",
-      "region": "GB",
-      "observed": "2026-10-22T11:50:00+00:00",
-      "source": "Google Trends Trending Now RSS",
-      "url": "https://trends.google.com/trending/rss?geo=GB",
-      "note": "Search spike · approx traffic is an estimated bucket, not a verified total.",
-      "metric": {
-        "value": "200+",
-        "label": "approx. search volume"
-      }
-    },
-    {
-      "id": "google-2402e47562dbccd4",
-      "type": "trend",
-      "title": "flood warning",
-      "region": "GB",
-      "observed": "2026-10-22T11:30:00+00:00",
-      "source": "Google Trends Trending Now RSS",
-      "url": "https://trends.google.com/trending/rss?geo=GB",
-      "note": "Search spike · approx traffic is an estimated bucket, not a verified total.",
-      "metric": {
-        "value": "500+",
-        "label": "approx. search volume"
-      }
+      "id": "news-102f468ef6f16807",
+      "type": "news",
+      "category": "fashion",
+      "title": "Sharvari Wagh’s Latest Torani Look Is All About Colour, Craft And Detail",
+      "region": "US / UK",
+      "observed": "2026-10-22T11:40:46+00:00",
+      "source": "ELLE India",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNd2VJc1dwQ19JY3VVZC1IRWNXUTNzcE9RODVldW56Y0FBR1gyQXU0N0JIV09SRDhlOVlHby1DbkVIMXNvMkpleXFMaGdFTzhqb2VHclJidmx1a0ZyeXd2R29jOWpGandQUmtZd2NyLWpiY0d2QmJzWjVvNDdBWXV6MUNEZ2xWZG5sVWlWWjFBalhnTDlmekE3YUtaSUdpQzJrdDZaSkJR?oc=5",
+      "note": "News mention only; publication does not prove popularity."
     },
     {
       "id": "news-2511918c167c4572",
@@ -678,58 +788,14 @@
       "note": "News mention only; publication does not prove popularity."
     },
     {
-      "id": "news-c6854eb346c01925",
-      "type": "news",
-      "category": "internet",
-      "title": "“Ruby-chan! Hai! Nani ga suki?” Trend Explained: What It Means and Where It’s From",
-      "region": "US / UK",
-      "observed": "2026-10-22T09:51:58+00:00",
-      "source": "Metropolis Japan",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9kWTNHaGctWXctRVN4OGp2MjlFcFJoYjQ2ZkgzMTRXamFHQ21tclVya3lBeFhvZVNUcjdZSDNlc3RPNVRuT0Ixel9odHF5cmlmcjJybVpMNnl5WEpmS0xTZUFoazE?oc=5",
-      "note": "News mention only; publication does not prove popularity."
-    },
-    {
-      "id": "news-d293464b8f406cb4",
-      "type": "news",
-      "category": "music",
-      "title": "“Ruby-chan! Hai! Nani ga suki?” Trend Explained: What It Means and Where It’s From",
-      "region": "US / UK",
-      "observed": "2026-10-22T09:51:58+00:00",
-      "source": "Metropolis Japan",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9kWTNHaGctWXctRVN4OGp2MjlFcFJoYjQ2ZkgzMTRXamFHQ21tclVya3lBeFhvZVNUcjdZSDNlc3RPNVRuT0Ixel9odHF5cmlmcjJybVpMNnl5WEpmS0xTZUFoazE?oc=5",
-      "note": "News mention only; publication does not prove popularity."
-    },
-    {
-      "id": "news-1b39c122072b9a09",
-      "type": "news",
-      "category": "culture",
-      "title": "‘fungi are still going to be here’: how mushrooms inspire new ways of thinking about nature",
-      "region": "US / UK",
-      "observed": "2026-10-22T09:37:36+00:00",
-      "source": "Designboom",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPOEFjcWdGNFhxU2RHZGl1TmtYNHktMl81dU82NlhCWTVGSzdJT0x3eGV6TmRlTlVpNzVwWGZFcnlBY0dHU05rd3ZhTkpSNFk4ZXZ6VXN5alZKVGloVXVSS21SRzRKT1pFcDBzcms5RWp5cTZTbFF4a3laTGxHbmNKb0tMUzV0akVuTXJ3Skw1eV9vUkUwOWNpZ1lCT3hzcS1PWURvZTJMbTN6SEM4cVV0WVMtMms?oc=5",
-      "note": "News mention only; publication does not prove popularity."
-    },
-    {
-      "id": "news-7c2816753f843793",
+      "id": "news-b2d42c4c349be81b",
       "type": "news",
       "category": "fashion",
-      "title": "When Hair Is Your Best Accessory",
+      "title": "37 Photos From Fashion Weeks That Prove Hair Is the Best Accessory",
       "region": "US / UK",
       "observed": "2026-10-22T09:00:31+00:00",
       "source": "The New York Times",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOSk9qZEtfRnZGbGpzNEVzVkY3Z2w4c2dRN043ZFFfRzJyaTAwN3ZaUnR3b05kd3ZDTmZMYnpTZnhPeGQ5Rl9uYlFTOWJGNDg4Z2lvREtqRG8wUi1ESng3V1BxRnREQXNWSElXM0JnZzVSeEtIMGxuT1hhR3MwLVJJV2pRdEg?oc=5",
-      "note": "News mention only; publication does not prove popularity."
-    },
-    {
-      "id": "news-94b220f7657e63d7",
-      "type": "news",
-      "category": "beauty",
-      "title": "Bustle Big Life Beauty Awards 2026",
-      "region": "US / UK",
-      "observed": "2026-10-22T05:41:15+00:00",
-      "source": "Bustle",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE51R2NGSHNvWHFDMHJma3NUenFfX3pLTFlmQTlfdjZZOEhfdWJ4RENrZlFPQjZGOFZQWVBQUE5RMWNWbG15ckRHdjd0M2lrX2hGVllVY0Q5eHN3M1R1MVJqVzZyU1FEUXk0?oc=5",
       "note": "News mention only; publication does not prove popularity."
     },
     {
@@ -755,17 +821,6 @@
       "note": "News mention only; publication does not prove popularity."
     },
     {
-      "id": "news-dd64dee4ae4833ef",
-      "type": "news",
-      "category": "fashion",
-      "title": "Bianca Censori, 31, wears almost completely transparent red outfit in startling new photos",
-      "region": "US / UK",
-      "observed": "2026-10-21T22:00:37+00:00",
-      "source": "HELLO! Magazine",
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNVWxFXy1uUENkNlRKblJfM25JdHNkcEFGeHR5VDdnNzQ2S282WFp3MlVFRHpuUU1ReE55MWk1TjFsNlJEUDhlUmtxR1l2ODJqZ1VYalZycmpWWWVwUGc4blpJdFZzcG9CYUM4T25Gd1o1N0dCLVF4V2VqaVVvRXVsS0RiWkFCSjlUelNVQzlVNUJTbklMOXdTclMxLVkxSFhPSkRWS042UEpiNklidldyMFF5T2xsQnVVSDZXWWdUWWdxNGpjcnUwSVNTODB0dWllMWY1c1NiMHc5R2NscW1SbWwzR1JIQkJjT1M0ZF9GVW5BU2wt?oc=5",
-      "note": "News mention only; publication does not prove popularity."
-    },
-    {
       "id": "news-7ee3038ea32e9834",
       "type": "news",
       "category": "fashion",
@@ -774,17 +829,6 @@
       "observed": "2026-10-21T20:21:46+00:00",
       "source": "Marie Claire",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNN2MzeG1teS1PUnpDOGVEUlJTWkVlZ0ZQRkNVM1UwWjdzVVcxemx4VkN0dnV6ZTNlV1JXRW1PXzN4Vy0yMVlTRWFFMGF1YlBNZkpuZTkyU1hxMXhCaHZJd2tIQk91QnBEdzFwVF9FQWdsV0lsRkt0MlFfcnNIaWdWZGgtSE5vSWZvcmxIeUZOeVNaZw?oc=5",
-      "note": "News mention only; publication does not prove popularity."
-    },
-    {
-      "id": "news-dc1bdcf1fc7c01f5",
-      "type": "news",
-      "category": "culture",
-      "title": "Silka Rittson-Thomas Shares Her Design Inspirations—And Le Monde Béryl’s New York Flagship",
-      "region": "US / UK",
-      "observed": "2026-10-21T19:22:47+00:00",
-      "source": "ELLE Decor",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNb3NGU1l1dTJQaDhTVmpGRGgxZ3NsdFJIbU1Qb3Ytc1NUYWlDV3M4WVJBME1Hb2tLajNNSjlMeEkwcERlZm5CQk9QZ016OGtidkhUZ0pvUnh2clZWMXJXRllGOTh4WC1ab1RJM1VVNFREN295SWQwRFhZcmRIYVBGWUNFYzZfVzhyQWZNT1pEbDM?oc=5",
       "note": "News mention only; publication does not prove popularity."
     },
     {
@@ -821,17 +865,6 @@
       "note": "News mention only; publication does not prove popularity."
     },
     {
-      "id": "news-53c6c0dab5787ce1",
-      "type": "news",
-      "category": "fashion",
-      "title": "Kim Kardashian as North West Leads the Best Celebrity Halloween Costumes of 2026",
-      "region": "US / UK",
-      "observed": "2026-10-21T16:57:00+00:00",
-      "source": "ELLE",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPODIyOG1BUlZ2bHJyQjdoTll4dXAxMVNsTUZrbGNKa0dMVmxJSjZ3ZGZ4Sm11dXJBV1F4YkdvczBJSi13elhxRWJ1TTFydFBBYzM0V2RsOHo1dnhxXzd3SDhBREF3VHhUNXVrVk9hR0dneHBGNFVBLUFqbnFvdW1KaEJIeFdMMGZ4TVV4QW5CMTZRSXdo?oc=5",
-      "note": "News mention only; publication does not prove popularity."
-    },
-    {
       "id": "news-3879ab43e6ab3f4b",
       "type": "news",
       "category": "fashion",
@@ -843,6 +876,17 @@
       "note": "News mention only; publication does not prove popularity."
     },
     {
+      "id": "news-211d19f3195ea3d9",
+      "type": "news",
+      "category": "internet",
+      "title": "What to know about the viral 'Cat in the Hat' trend prompting school warnings",
+      "region": "US / UK",
+      "observed": "2026-10-21T15:58:32+00:00",
+      "source": "ABC News - Breaking News, Latest News and Videos",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPeWoteU05RnRIT3JaOF9WNnBsZHFjalhBeTVoc0lWa2tQVy0yT0FCbnBEakoxcGUyeFl5YTVnMmx2SW13Q29GSlFMdWY0SEtELWJudVZSYTRJRVVrSnphQ0NCeTZEeFlpQnBvbTJ5WmwtV2NFS3dQaTAyaEdWSm5mUHF5QWFMc3lLY2MyWC1nbmV5S29tSkg1MTltc0NxYTNnOERz0gGoAUFVX3lxTE1VRVJwNDh0ZGlzYl83Z2xPa1hTNXdmWm5WRndqaDVHZks4RV9rY3BySGt0RGNJSE51Rm50d1pfek9LX0NOYnNMZXNRTkxneHJuUTRXQUtmR1htUnB3T3dvSDlDOHZ1NWxiNWNuSDJWNkczakYtTldkNnprdXBpckw1Qm5ucmxhQ0pHNVY5dlF3OFhYb3FsSGFhbzhmaVBteU5zR1NONm5BUg?oc=5",
+      "note": "News mention only; publication does not prove popularity."
+    },
+    {
       "id": "news-559cf7f00f9bafa4",
       "type": "news",
       "category": "music",
@@ -851,28 +895,6 @@
       "observed": "2026-10-21T15:48:19+00:00",
       "source": "That Eric Alper",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPQVoyTEt5d2tBaVBxZm9vcmx0Zi1yNlZjQXdvNEl3TmNldlV0UC1jV2lxbjVQaUl2Qkk0dlYwbDRYNVI2NmlDNzZBanRNT3puUVN1NEtDTllFTmpyTFhTem11MFFzei15Zk9idDlsa09XLVpscjUtN1VhZVRvTTB1bjhiV2ZVOVVzaTdOV3dYRzZ4QzhxMXJmRGVNV3VSUFM3Y1FjSzJMMUc?oc=5",
-      "note": "News mention only; publication does not prove popularity."
-    },
-    {
-      "id": "news-25d0d90dbf302078",
-      "type": "news",
-      "category": "beauty",
-      "title": "Aurora James Is Our November 2026 Cover Star!",
-      "region": "US / UK",
-      "observed": "2026-10-21T13:37:18+00:00",
-      "source": "Elle Canada",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQVWx6clNpNXBSNTkweDRsM3RLMDBaTlZvZHZ3Zkhkemlnc0JkNWMtRkt5bjNJU3dQaVdjY29Ka081ekVMakw1T2FhUmRHWFRSeW5BN2F3bzRCN0sxZ1h5WENQMllFZHduY3dNLVQ4LVB0NVVVcWoySTRDMW9QWXloUXQ4aENmY015RUhpU3FQaUdCeVU?oc=5",
-      "note": "News mention only; publication does not prove popularity."
-    },
-    {
-      "id": "news-5a88118c9d0f926a",
-      "type": "news",
-      "category": "fashion",
-      "title": "Shahin Mannan on wearable runway fashion, festive trends and styling statement pieces | Fashion Trends",
-      "region": "US / UK",
-      "observed": "2026-10-21T10:29:21+00:00",
-      "source": "Hindustan Times",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQdUd4UTI2OTNESjlnSFpRWlcxN1RCX2xOd19qaFBwUmFFanN5YUs4T3VabkFJaGRfd24wVHotN2V3YUxYR21oMWpRUzJySGxRY1Y3TUdsTmhkTzNZanJNSnJlVWNwOVk5ZkF2SDVrTjE4V2M4T0hucXJLR1hSU1NNVzN3RmlHMTlkVHpVbHI1T3RjdEVmc1hLdjFvRmh1bVNIS0VrUTJyVkpMZ0VfR2o4bmxrZ29jT29wUlFUUGZtQVAxelR5cmFHa1pMcTRpaGZXSFRJeHdkR0xuaTJ4bWNGSEc5dDIwR3dSX3fSAe8BQVVfeXFMTnRGRmZuYWt6ZGNERzRscmEta0ZsYktmRHBSNmZNNy14SWdyS0NXMFNPV2RydW14eWNFWFNtMFNZVnp6amxtZ3Rqdk5nMEt5WjdXYUx4amVyVEJ2TXU5WlgtTklvdGRRUEZMamZ5dDM1TVI1cUxTcWZ3UnN4c1hHWTBCSjJQdmQ1QlpnSXNpS1Z3RFlmaGRQeWJ4bGRaUHVrR0J4a2VCMkVzTHNKRHVJdWJndmNYNEdvNjl6LUxvbnpGVzkwbTZQSDhqQmRiNm1DR1BjMi1GQUx5d1p1dzVCN3VlTzVKbzljSWFFSEZ5Zzg?oc=5",
       "note": "News mention only; publication does not prove popularity."
     },
     {
@@ -894,18 +916,7 @@
       "region": "US / UK",
       "observed": "2026-10-21T07:02:12+00:00",
       "source": "Diggit Magazine",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdDdMZm1tRWcwb1FaYWRCTmhmVXN6eVhoR3I1YUR4NzZ2SXpwQVJaOVI1NXNCMkJ4UjBOU0k1bGF4cnFQZ1JKWXBiNFNNUmpzQjlZSHZqNDdDWjZTNE95eHZrMkNxeFY2X29qOHRVRGhnekxNLWExQ0ZVOUxjaTA1aXVwYVVGZzJ4OFJVM2NCWjU3M1RJR2NIUGpZOTh5bk52eHBlOFI5X2E?oc=5",
-      "note": "News mention only; publication does not prove popularity."
-    },
-    {
-      "id": "news-d291e4fbe1ac7e50",
-      "type": "news",
-      "category": "fashion",
-      "title": "This New McLean Boutique Is Giving Designer Fashion a Second Life",
-      "region": "US / UK",
-      "observed": "2026-10-21T01:00:23+00:00",
-      "source": "The Local Girl",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBnUzJUNXROaFBEaGxsRkZCaG1zZ2FRNndISWRDNjc3bU5tRUMxQy1JNlVIMy1ma1NMY1lxS2ZqdWVyRXB6S1pmWDJ0RDg3Mkd4WFVZM28wbDFiTWtGUkNneDgyY0pHTldJSzVJUnJQc0dQMTh5aWxHSG10bw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNUjBSb2xSWU5Ca1JsVGN2Vm1aRzl2SlFJRy10NjRCLUpYUk1uSWlvaHd0TG5UbElvaVB4bzlURWlHenphYWIxYlh5MnRHdW9XQTdtWHBta3FhQTZocER1bXJ0eHFJd1g1ellrWlVuYXpkY0FINDJHYjdTaGtGTU1EN0YtZ0dBZXhwdXNLOG9ZUG9kcGRnSXV5azUxSDhBM1V0ckVKZnhMVTNhOXBXZEVEalJpcTl1dw?oc=5",
       "note": "News mention only; publication does not prove popularity."
     },
     {
@@ -931,6 +942,39 @@
       "note": "News mention only; publication does not prove popularity."
     },
     {
+      "id": "news-768e731c583207c9",
+      "type": "news",
+      "category": "fashion",
+      "title": "The Best Fall Trends Are All About Subverting Expectations",
+      "region": "US / UK",
+      "observed": "2026-10-20T21:37:39+00:00",
+      "source": "Harper's BAZAAR",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE90U0pnek96WFBtbUQ4RnB1dXBaU3R5M0tvbm9lRDhORXZkb1FPZnBxOEdtemJBY0hCQnJXMzN1S2ZTNnJpMmJ4SUQ3NlFLWHROLU51NGhMVkc1cEg1bjdZUm5peW15X3BqYlNCcUo2Vzg3a0xSVFY1Z0tpZW8?oc=5",
+      "note": "News mention only; publication does not prove popularity."
+    },
+    {
+      "id": "news-f9967992b960e950",
+      "type": "news",
+      "category": "culture",
+      "title": "7 Shows to See at Art Basel Paris, From a $150 Million Apartment to Jacques Garcia’s Home",
+      "region": "US / UK",
+      "observed": "2026-10-20T17:30:00+00:00",
+      "source": "ELLE",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPUGlUNjVvelpDVjkwUnd5QUc2ak1LVDFDSW10T2FKQkwySzVXSUkxZTgzVXZ3UDZDTFo4VngxUkZQeUExdDdITEd0V3dUMnBTMFI1OUZIOVNqUWltWk5xMzljRGRoeGpuLUlrZ2VidF9qeU1rMl9EZVBXSHJqbkV1R09FR3Rpc1o5NUE?oc=5",
+      "note": "News mention only; publication does not prove popularity."
+    },
+    {
+      "id": "news-f8bec22d7e2a9313",
+      "type": "news",
+      "category": "culture",
+      "title": "Major London museums join forces for new South Asian arts festival",
+      "region": "US / UK",
+      "observed": "2026-10-20T11:38:15+00:00",
+      "source": "The Art Newspaper",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQUlpOQXNlbDMtX2JveVdUdXREeWZQb3JoVFU1QkJPd21KX3lHbVdTTWsxdUY3MHA0S3RlSUpwbkNoVWJZU2lIbGZadFJhMFRtV2hnZkVMQmlwLVpGV0FmdDNTanpHaV84WVh1VXI3MFFXdC00a3d5aFlFWV9jSEpDbnBBNUkzalIwc1lGVUJRQ0xsbEdoSlNlakRrT2lGcnh4cDRQdjR6Yndld1VodUE?oc=5",
+      "note": "News mention only; publication does not prove popularity."
+    },
+    {
       "id": "news-5072a727a6c9626a",
       "type": "news",
       "category": "fashion",
@@ -950,28 +994,6 @@
       "observed": "2026-10-19T16:13:13+00:00",
       "source": "The New York Times",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9xTThLYWh1NU9xQTVLTENaaGlwOWw1eWM1M1hIOFRxMDE0Z3d4VE9PMVpxMHl2eHdTTzJpT09mSHBuR290TndITmdRVDRieHF4TWVqSTU4ak05Uml5QXRqbjY4OTBpUkRrSjZQVVBGUU5EUkRnc3BUZmVURVFwdw?oc=5",
-      "note": "News mention only; publication does not prove popularity."
-    },
-    {
-      "id": "news-880c91985f6d983e",
-      "type": "news",
-      "category": "internet",
-      "title": "Best Meme Coins to Buy Now in 2026: Top 12 Ranked",
-      "region": "US / UK",
-      "observed": "2026-10-19T14:57:23+00:00",
-      "source": "Cryptonews",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5sM1dPS2NyOEl6RGU0Q0tOT2JrS0tscnduRTZDQkwzOFFGOVpaOU1uSzQ3Zm4yVzJxRUdCRXAzcUNaTzZyam9SUU5JTUVXaVhfa3FiQ1UwQkhrUGZZVDlTZVZmczI?oc=5",
-      "note": "News mention only; publication does not prove popularity."
-    },
-    {
-      "id": "news-45a3198879b8e385",
-      "type": "news",
-      "category": "fashion",
-      "title": "26 Outfits From Beverly Hillbillies That Would Still Be Trendy Today",
-      "region": "US / UK",
-      "observed": "2026-10-18T16:15:00+00:00",
-      "source": "The List",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZ3ZtTGtLdWhVc1hWN1hxYkdEcXAxcEVjWTA4MnR3dFBaajNGV2ZscjgtRk1nYi1TSWhxOTM3U2s2U1loLWo1bDF2RFFvaXp1VHU2X2ljNlJ2YjhRQmRHdDZ6MGtobGxkQm4wZzR2UVFaZHNneHYwUDZFN0NjYUZXeVo0YU11c1dHSW5PdVJMbm9idGdqSnRtYw?oc=5",
       "note": "News mention only; publication does not prove popularity."
     }
   ],
@@ -1311,394 +1333,11 @@
         "label": "weekly streams"
       },
       "note": "Weekly Spotify streams, compiled by Kworb. Chart date: 2026-10-15"
-    },
-    {
-      "id": "apple-ea9dc0b54995b90f",
-      "type": "chart",
-      "title": "#01 · Tate McRae — Housewife",
-      "region": "US",
-      "observed": "2026-10-22T12:31:55+00:00",
-      "source": "Apple Music · official top songs RSS",
-      "url": "https://music.apple.com/us/album/housewife/6822497770?i=6822497774",
-      "metric": {
-        "value": "#1",
-        "label": "Apple Music rank"
-      },
-      "note": "Chart position only. Apple does not publish stream totals via this feed.",
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2b/96/2b/2b962b77-3a04-5650-aefd-37ecfce04b03/196874840146.jpg/100x100bb.jpg",
-      "image_credit": "Apple Music artwork"
-    },
-    {
-      "id": "apple-531f35652306f5f5",
-      "type": "chart",
-      "title": "#02 · Zach Bryan & Lana Del Rey — Lies (feat. Lana Del Rey)",
-      "region": "US",
-      "observed": "2026-10-22T12:31:55+00:00",
-      "source": "Apple Music · official top songs RSS",
-      "url": "https://music.apple.com/us/album/lies-feat-lana-del-rey/6822944288?i=6822944296",
-      "metric": {
-        "value": "#2",
-        "label": "Apple Music rank"
-      },
-      "note": "Chart position only. Apple does not publish stream totals via this feed.",
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ea/98/f2/ea98f2b8-5131-29ae-2064-997234ef13bc/093624812647.jpg/100x100bb.jpg",
-      "image_credit": "Apple Music artwork"
-    },
-    {
-      "id": "apple-e6da1469d6a6e778",
-      "type": "chart",
-      "title": "#03 · KAROL G, Judeline & rusowsky — BbY WOW",
-      "region": "US",
-      "observed": "2026-10-22T12:31:55+00:00",
-      "source": "Apple Music · official top songs RSS",
-      "url": "https://music.apple.com/us/album/bby-wow/6796864741?i=6796864754",
-      "metric": {
-        "value": "#3",
-        "label": "Apple Music rank"
-      },
-      "note": "Chart position only. Apple does not publish stream totals via this feed.",
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2b/66/b2/2b66b26c-ab23-faa1-c4ee-06fa2cce8f76/26UM1IM00558.rgb.jpg/100x100bb.jpg",
-      "image_credit": "Apple Music artwork"
-    },
-    {
-      "id": "apple-2fef8d5fff32334f",
-      "type": "chart",
-      "title": "#04 · Ella Langley — Choosin' Texas",
-      "region": "US",
-      "observed": "2026-10-22T12:31:55+00:00",
-      "source": "Apple Music · official top songs RSS",
-      "url": "https://music.apple.com/us/album/choosin-texas/1844932149?i=1844932150",
-      "metric": {
-        "value": "#4",
-        "label": "Apple Music rank"
-      },
-      "note": "Chart position only. Apple does not publish stream totals via this feed.",
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e2/91/4d/e2914d0a-7f1d-f04c-fbf4-c50b38548838/196873638690.jpg/100x100bb.jpg",
-      "image_credit": "Apple Music artwork"
-    },
-    {
-      "id": "apple-405705805bb5a3ed",
-      "type": "chart",
-      "title": "#05 · Drake & Don Toliver — Solar Eclipse",
-      "region": "US",
-      "observed": "2026-10-22T12:31:55+00:00",
-      "source": "Apple Music · official top songs RSS",
-      "url": "https://music.apple.com/us/album/solar-eclipse/6818209777?i=6818209989",
-      "metric": {
-        "value": "#5",
-        "label": "Apple Music rank"
-      },
-      "note": "Chart position only. Apple does not publish stream totals via this feed.",
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/bb/45/62/bb4562a3-45a2-539c-b557-a18ea060a476/26UMGIM63616.rgb.jpg/100x100bb.jpg",
-      "image_credit": "Apple Music artwork"
-    },
-    {
-      "id": "apple-a5d1064e022198d9",
-      "type": "chart",
-      "title": "#06 · ADÉLA — Nicole Kidman",
-      "region": "US",
-      "observed": "2026-10-22T12:31:55+00:00",
-      "source": "Apple Music · official top songs RSS",
-      "url": "https://music.apple.com/us/album/nicole-kidman/6807192580?i=6807192825",
-      "metric": {
-        "value": "#6",
-        "label": "Apple Music rank"
-      },
-      "note": "Chart position only. Apple does not publish stream totals via this feed.",
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/53/c6/9a/53c69a6a-d1c4-0983-a20c-a67dceae554f/26UMGIM82372.rgb.jpg/100x100bb.jpg",
-      "image_credit": "Apple Music artwork"
-    },
-    {
-      "id": "apple-4e3ca3109e75c9e7",
-      "type": "chart",
-      "title": "#07 · Drake — Quebec",
-      "region": "US",
-      "observed": "2026-10-22T12:31:55+00:00",
-      "source": "Apple Music · official top songs RSS",
-      "url": "https://music.apple.com/us/album/quebec/6818209777?i=6818209990",
-      "metric": {
-        "value": "#7",
-        "label": "Apple Music rank"
-      },
-      "note": "Chart position only. Apple does not publish stream totals via this feed.",
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/bb/45/62/bb4562a3-45a2-539c-b557-a18ea060a476/26UMGIM63616.rgb.jpg/100x100bb.jpg",
-      "image_credit": "Apple Music artwork"
-    },
-    {
-      "id": "apple-1634095c268e931f",
-      "type": "chart",
-      "title": "#08 · Drake — Janice STFU",
-      "region": "US",
-      "observed": "2026-10-22T12:31:55+00:00",
-      "source": "Apple Music · official top songs RSS",
-      "url": "https://music.apple.com/us/album/janice-stfu/6769568449?i=6769568596",
-      "metric": {
-        "value": "#8",
-        "label": "Apple Music rank"
-      },
-      "note": "Chart position only. Apple does not publish stream totals via this feed.",
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/35/b9/06/35b90629-a873-14f8-4789-ffc324960038/26UMGIM63614.rgb.jpg/100x100bb.jpg",
-      "image_credit": "Apple Music artwork"
-    },
-    {
-      "id": "apple-372e4644ad74a538",
-      "type": "chart",
-      "title": "#09 · Zach Bryan — Lodi When",
-      "region": "US",
-      "observed": "2026-10-22T12:31:55+00:00",
-      "source": "Apple Music · official top songs RSS",
-      "url": "https://music.apple.com/us/album/lodi-when/6822944288?i=6822944289",
-      "metric": {
-        "value": "#9",
-        "label": "Apple Music rank"
-      },
-      "note": "Chart position only. Apple does not publish stream totals via this feed.",
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ea/98/f2/ea98f2b8-5131-29ae-2064-997234ef13bc/093624812647.jpg/100x100bb.jpg",
-      "image_credit": "Apple Music artwork"
-    },
-    {
-      "id": "apple-5d70155671b8846a",
-      "type": "chart",
-      "title": "#10 · Morgan Wallen — Been By Now",
-      "region": "US",
-      "observed": "2026-10-22T12:31:55+00:00",
-      "source": "Apple Music · official top songs RSS",
-      "url": "https://music.apple.com/us/album/been-by-now/6792676858?i=6792676860",
-      "metric": {
-        "value": "#10",
-        "label": "Apple Music rank"
-      },
-      "note": "Chart position only. Apple does not publish stream totals via this feed.",
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9f/8d/52/9f8d52a0-b6d9-d038-327b-4fe58bedce67/26UMGIM94572.rgb.jpg/100x100bb.jpg",
-      "image_credit": "Apple Music artwork"
-    },
-    {
-      "id": "apple-44a169305094469b",
-      "type": "chart",
-      "title": "#11 · Olivia Rodrigo — stupid song",
-      "region": "US",
-      "observed": "2026-10-22T12:31:55+00:00",
-      "source": "Apple Music · official top songs RSS",
-      "url": "https://music.apple.com/us/album/stupid-song/6779097512?i=6779097534",
-      "metric": {
-        "value": "#11",
-        "label": "Apple Music rank"
-      },
-      "note": "Chart position only. Apple does not publish stream totals via this feed.",
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b9/92/51/b9925128-dac6-2cef-5674-d5ebbe1a4e83/26UMGIM75556.rgb.jpg/100x100bb.jpg",
-      "image_credit": "Apple Music artwork"
-    },
-    {
-      "id": "apple-88fbcadb5fa82b89",
-      "type": "chart",
-      "title": "#12 · Morgan Wallen — Last Thing You Need",
-      "region": "US",
-      "observed": "2026-10-22T12:31:55+00:00",
-      "source": "Apple Music · official top songs RSS",
-      "url": "https://music.apple.com/us/album/last-thing-you-need/6812476961?i=6812477290",
-      "metric": {
-        "value": "#12",
-        "label": "Apple Music rank"
-      },
-      "note": "Chart position only. Apple does not publish stream totals via this feed.",
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5d/d3/1c/5dd31c9c-1e1c-0bbc-104f-4a42e2bb4c59/075679556424.jpg/100x100bb.jpg",
-      "image_credit": "Apple Music artwork"
-    },
-    {
-      "id": "apple-0109959f690fbd17",
-      "type": "chart",
-      "title": "#01 · Tate McRae — Housewife",
-      "region": "GB",
-      "observed": "2026-10-22T12:31:55+00:00",
-      "source": "Apple Music · official top songs RSS",
-      "url": "https://music.apple.com/gb/album/housewife/6822497770?i=6822497774",
-      "metric": {
-        "value": "#1",
-        "label": "Apple Music rank"
-      },
-      "note": "Chart position only. Apple does not publish stream totals via this feed.",
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2b/96/2b/2b962b77-3a04-5650-aefd-37ecfce04b03/196874840146.jpg/100x100bb.jpg",
-      "image_credit": "Apple Music artwork"
-    },
-    {
-      "id": "apple-1b7917d75c797296",
-      "type": "chart",
-      "title": "#02 · Jamie Miller — Babydoll",
-      "region": "GB",
-      "observed": "2026-10-22T12:31:55+00:00",
-      "source": "Apple Music · official top songs RSS",
-      "url": "https://music.apple.com/gb/album/babydoll/6794168372?i=6794168373",
-      "metric": {
-        "value": "#2",
-        "label": "Apple Music rank"
-      },
-      "note": "Chart position only. Apple does not publish stream totals via this feed.",
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e6/15/d2/e615d28f-70b5-e43a-b3c8-460dca39c9e5/26UMGIM97516.rgb.jpg/100x100bb.jpg",
-      "image_credit": "Apple Music artwork"
-    },
-    {
-      "id": "apple-ee064230c2673e4b",
-      "type": "chart",
-      "title": "#03 · SIENNA SPIRO — Great Expectation",
-      "region": "GB",
-      "observed": "2026-10-22T12:31:55+00:00",
-      "source": "Apple Music · official top songs RSS",
-      "url": "https://music.apple.com/gb/album/great-expectation/6769552402?i=6769552411",
-      "metric": {
-        "value": "#3",
-        "label": "Apple Music rank"
-      },
-      "note": "Chart position only. Apple does not publish stream totals via this feed.",
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f4/e5/61/f4e561f5-3e73-68c7-7ca4-295ac5a063ed/26UMGIM51351.rgb.jpg/100x100bb.jpg",
-      "image_credit": "Apple Music artwork"
-    },
-    {
-      "id": "apple-6d397f065aef6d5a",
-      "type": "chart",
-      "title": "#04 · Ashe — Stop The Wedding!",
-      "region": "GB",
-      "observed": "2026-10-22T12:31:55+00:00",
-      "source": "Apple Music · official top songs RSS",
-      "url": "https://music.apple.com/gb/album/stop-the-wedding/6805240956?i=6805240960",
-      "metric": {
-        "value": "#4",
-        "label": "Apple Music rank"
-      },
-      "note": "Chart position only. Apple does not publish stream totals via this feed.",
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1b/86/c9/1b86c988-03b8-ca21-10a5-0963d09f5bcf/075679561893.jpg/100x100bb.jpg",
-      "image_credit": "Apple Music artwork"
-    },
-    {
-      "id": "apple-9126cedc68a6a4ba",
-      "type": "chart",
-      "title": "#05 · Sam Fender & Olivia Dean — Rein Me In",
-      "region": "GB",
-      "observed": "2026-10-22T12:31:55+00:00",
-      "source": "Apple Music · official top songs RSS",
-      "url": "https://music.apple.com/gb/album/rein-me-in/1820918466?i=1820918468",
-      "metric": {
-        "value": "#5",
-        "label": "Apple Music rank"
-      },
-      "note": "Chart position only. Apple does not publish stream totals via this feed.",
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8f/0f/9f/8f0f9f3d-b26b-779d-d1f1-2db2154a68b7/25UMGIM75096.rgb.jpg/100x100bb.jpg",
-      "image_credit": "Apple Music artwork"
-    },
-    {
-      "id": "apple-c739474020405a42",
-      "type": "chart",
-      "title": "#06 · Olivia Dean — Man I Need",
-      "region": "GB",
-      "observed": "2026-10-22T12:31:55+00:00",
-      "source": "Apple Music · official top songs RSS",
-      "url": "https://music.apple.com/gb/album/man-i-need/1817609404?i=1817609509",
-      "metric": {
-        "value": "#6",
-        "label": "Apple Music rank"
-      },
-      "note": "Chart position only. Apple does not publish stream totals via this feed.",
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/08/e2/21/08e22164-7c0b-1522-818f-e0e74f62dc49/25UMGIM69703.rgb.jpg/100x100bb.jpg",
-      "image_credit": "Apple Music artwork"
-    },
-    {
-      "id": "apple-9bf4220e1ba715a9",
-      "type": "chart",
-      "title": "#07 · HUGEL, Imael Angel & Ultra Naté — Movin' To The Sun",
-      "region": "GB",
-      "observed": "2026-10-22T12:31:55+00:00",
-      "source": "Apple Music · official top songs RSS",
-      "url": "https://music.apple.com/gb/album/movin-to-the-sun/6769069923?i=6769070199",
-      "metric": {
-        "value": "#7",
-        "label": "Apple Music rank"
-      },
-      "note": "Chart position only. Apple does not publish stream totals via this feed.",
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/96/61/7a/96617ab5-51da-7cfc-97e5-c5a6a893c210/1087654.jpg/100x100bb.jpg",
-      "image_credit": "Apple Music artwork"
-    },
-    {
-      "id": "apple-25002d0d59f7c15c",
-      "type": "chart",
-      "title": "#08 · Ella Langley — Choosin' Texas",
-      "region": "GB",
-      "observed": "2026-10-22T12:31:55+00:00",
-      "source": "Apple Music · official top songs RSS",
-      "url": "https://music.apple.com/gb/album/choosin-texas/1844932149?i=1844932150",
-      "metric": {
-        "value": "#8",
-        "label": "Apple Music rank"
-      },
-      "note": "Chart position only. Apple does not publish stream totals via this feed.",
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e2/91/4d/e2914d0a-7f1d-f04c-fbf4-c50b38548838/196873638690.jpg/100x100bb.jpg",
-      "image_credit": "Apple Music artwork"
-    },
-    {
-      "id": "apple-49f6523a3e7ea0ba",
-      "type": "chart",
-      "title": "#09 · Zach Bryan & Lana Del Rey — Lies (feat. Lana Del Rey)",
-      "region": "GB",
-      "observed": "2026-10-22T12:31:55+00:00",
-      "source": "Apple Music · official top songs RSS",
-      "url": "https://music.apple.com/gb/album/lies-feat-lana-del-rey/6822944288?i=6822944296",
-      "metric": {
-        "value": "#9",
-        "label": "Apple Music rank"
-      },
-      "note": "Chart position only. Apple does not publish stream totals via this feed.",
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ea/98/f2/ea98f2b8-5131-29ae-2064-997234ef13bc/093624812647.jpg/100x100bb.jpg",
-      "image_credit": "Apple Music artwork"
-    },
-    {
-      "id": "apple-9ba0be5ca93808d3",
-      "type": "chart",
-      "title": "#10 · ADÉLA — Nicole Kidman",
-      "region": "GB",
-      "observed": "2026-10-22T12:31:55+00:00",
-      "source": "Apple Music · official top songs RSS",
-      "url": "https://music.apple.com/gb/album/nicole-kidman/6807192580?i=6807192825",
-      "metric": {
-        "value": "#10",
-        "label": "Apple Music rank"
-      },
-      "note": "Chart position only. Apple does not publish stream totals via this feed.",
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/53/c6/9a/53c69a6a-d1c4-0983-a20c-a67dceae554f/26UMGIM82372.rgb.jpg/100x100bb.jpg",
-      "image_credit": "Apple Music artwork"
-    },
-    {
-      "id": "apple-087602183b7ed079",
-      "type": "chart",
-      "title": "#11 · Olivia Rodrigo — stupid song",
-      "region": "GB",
-      "observed": "2026-10-22T12:31:55+00:00",
-      "source": "Apple Music · official top songs RSS",
-      "url": "https://music.apple.com/gb/album/stupid-song/6779097512?i=6779097534",
-      "metric": {
-        "value": "#11",
-        "label": "Apple Music rank"
-      },
-      "note": "Chart position only. Apple does not publish stream totals via this feed.",
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b9/92/51/b9925128-dac6-2cef-5674-d5ebbe1a4e83/26UMGIM75556.rgb.jpg/100x100bb.jpg",
-      "image_credit": "Apple Music artwork"
-    },
-    {
-      "id": "apple-7be0c85420cb88ca",
-      "type": "chart",
-      "title": "#12 · Olivia Rodrigo & Chappell Roan — expectations",
-      "region": "GB",
-      "observed": "2026-10-22T12:31:55+00:00",
-      "source": "Apple Music · official top songs RSS",
-      "url": "https://music.apple.com/gb/album/expectations/6822390423?i=6822390426",
-      "metric": {
-        "value": "#12",
-        "label": "Apple Music rank"
-      },
-      "note": "Chart position only. Apple does not publish stream totals via this feed.",
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d2/3c/b2/d23cb283-5f3e-7433-bc41-86c7d77c4503/26UM1IM29619.rgb.jpg/100x100bb.jpg",
-      "image_credit": "Apple Music artwork"
     }
   ],
   "errors": [
-    "Google News lifestyle: no recent entries"
+    "Apple Music us: ReadTimeout: HTTPSConnectionPool(host='rss.marketingtools.apple.com', port=443): Read timed out. (read timeout=19)",
+    "Apple Music gb: HTTPError: 502 Server Error: Bad Gateway for url: https://rss.marketingtools.apple.com/api/v2/gb/music/most-played/25/songs.json"
   ],
   "revision_note": "V1.1: compared two keyword-specific Amazon samples and corrected chronological quarter sorting; editorial claims have links and dates."
 }
