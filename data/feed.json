@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-11-02T02:23:17+00:00",
+  "updated_at": "2026-11-02T09:54:22+00:00",
   "edition": "10.15 / The culture issue",
   "mode": "auto",
   "editorial": [
@@ -365,139 +365,13 @@
   ],
   "live": [
     {
-      "id": "google-7e102a3d8b6659cb",
+      "id": "google-049b6c3119252022",
       "type": "trend",
-      "title": "odell beckham jr",
+      "title": "marilee fiebig",
       "region": "US",
-      "observed": "2026-11-02T02:10:00+00:00",
+      "observed": "2026-11-02T09:40:00+00:00",
       "source": "Google Trends Trending Now RSS",
       "url": "https://trends.google.com/trending/rss?geo=US",
-      "note": "Search spike · approx traffic is an estimated bucket, not a verified total.",
-      "metric": {
-        "value": "500+",
-        "label": "approx. search volume"
-      }
-    },
-    {
-      "id": "google-5188a86feb1c2873",
-      "type": "trend",
-      "title": "charles bassey",
-      "region": "US",
-      "observed": "2026-11-02T02:10:00+00:00",
-      "source": "Google Trends Trending Now RSS",
-      "url": "https://trends.google.com/trending/rss?geo=US",
-      "note": "Search spike · approx traffic is an estimated bucket, not a verified total.",
-      "metric": {
-        "value": "500+",
-        "label": "approx. search volume"
-      }
-    },
-    {
-      "id": "google-fc6817d2465b7f2c",
-      "type": "trend",
-      "title": "houston dynamo vs portland",
-      "region": "US",
-      "observed": "2026-11-02T02:10:00+00:00",
-      "source": "Google Trends Trending Now RSS",
-      "url": "https://trends.google.com/trending/rss?geo=US",
-      "note": "Search spike · approx traffic is an estimated bucket, not a verified total.",
-      "metric": {
-        "value": "500+",
-        "label": "approx. search volume"
-      }
-    },
-    {
-      "id": "google-09f7fd682a079ab6",
-      "type": "trend",
-      "title": "oberlin college",
-      "region": "US",
-      "observed": "2026-11-02T02:10:00+00:00",
-      "source": "Google Trends Trending Now RSS",
-      "url": "https://trends.google.com/trending/rss?geo=US",
-      "note": "Search spike · approx traffic is an estimated bucket, not a verified total.",
-      "metric": {
-        "value": "200+",
-        "label": "approx. search volume"
-      }
-    },
-    {
-      "id": "google-5bb217b9b776de0a",
-      "type": "trend",
-      "title": "inter miami",
-      "region": "GB",
-      "observed": "2026-11-02T02:10:00+00:00",
-      "source": "Google Trends Trending Now RSS",
-      "url": "https://trends.google.com/trending/rss?geo=GB",
-      "note": "Search spike · approx traffic is an estimated bucket, not a verified total.",
-      "metric": {
-        "value": "200+",
-        "label": "approx. search volume"
-      }
-    },
-    {
-      "id": "google-68488d63e4586365",
-      "type": "trend",
-      "title": "jalen hurts injury",
-      "region": "US",
-      "observed": "2026-11-02T02:00:00+00:00",
-      "source": "Google Trends Trending Now RSS",
-      "url": "https://trends.google.com/trending/rss?geo=US",
-      "note": "Search spike · approx traffic is an estimated bucket, not a verified total.",
-      "metric": {
-        "value": "2000+",
-        "label": "approx. search volume"
-      }
-    },
-    {
-      "id": "google-d6b156fb07f6361c",
-      "type": "trend",
-      "title": "best movies on netflix",
-      "region": "US",
-      "observed": "2026-11-02T02:00:00+00:00",
-      "source": "Google Trends Trending Now RSS",
-      "url": "https://trends.google.com/trending/rss?geo=US",
-      "note": "Search spike · approx traffic is an estimated bucket, not a verified total.",
-      "metric": {
-        "value": "2000+",
-        "label": "approx. search volume"
-      }
-    },
-    {
-      "id": "google-35cd75705467332d",
-      "type": "trend",
-      "title": "jalen carter",
-      "region": "US",
-      "observed": "2026-11-02T02:00:00+00:00",
-      "source": "Google Trends Trending Now RSS",
-      "url": "https://trends.google.com/trending/rss?geo=US",
-      "note": "Search spike · approx traffic is an estimated bucket, not a verified total.",
-      "metric": {
-        "value": "500+",
-        "label": "approx. search volume"
-      }
-    },
-    {
-      "id": "google-ea003d8581fc0fad",
-      "type": "trend",
-      "title": "xavier becerra",
-      "region": "US",
-      "observed": "2026-11-02T02:00:00+00:00",
-      "source": "Google Trends Trending Now RSS",
-      "url": "https://trends.google.com/trending/rss?geo=US",
-      "note": "Search spike · approx traffic is an estimated bucket, not a verified total.",
-      "metric": {
-        "value": "500+",
-        "label": "approx. search volume"
-      }
-    },
-    {
-      "id": "google-7b1ce861bdd73052",
-      "type": "trend",
-      "title": "joe rogan",
-      "region": "GB",
-      "observed": "2026-11-02T02:00:00+00:00",
-      "source": "Google Trends Trending Now RSS",
-      "url": "https://trends.google.com/trending/rss?geo=GB",
       "note": "Search spike · approx traffic is an estimated bucket, not a verified total.",
       "metric": {
         "value": "100+",
@@ -505,25 +379,95 @@
       }
     },
     {
-      "id": "google-99f54b78cb433443",
+      "id": "google-16c7f92f4b1ad682",
       "type": "trend",
-      "title": "tanner mckee",
+      "title": "lol",
       "region": "US",
-      "observed": "2026-11-02T01:50:00+00:00",
+      "observed": "2026-11-02T09:30:00+00:00",
       "source": "Google Trends Trending Now RSS",
       "url": "https://trends.google.com/trending/rss?geo=US",
       "note": "Search spike · approx traffic is an estimated bucket, not a verified total.",
       "metric": {
-        "value": "20000+",
+        "value": "100+",
         "label": "approx. search volume"
       }
     },
     {
-      "id": "google-182ca53a71fd51ad",
+      "id": "google-be3f2e6a3376b282",
       "type": "trend",
-      "title": "gold glove winners",
+      "title": "aurora borealis",
+      "region": "GB",
+      "observed": "2026-11-02T09:30:00+00:00",
+      "source": "Google Trends Trending Now RSS",
+      "url": "https://trends.google.com/trending/rss?geo=GB",
+      "note": "Search spike · approx traffic is an estimated bucket, not a verified total.",
+      "metric": {
+        "value": "10000+",
+        "label": "approx. search volume"
+      }
+    },
+    {
+      "id": "google-8d1d862746600fb3",
+      "type": "trend",
+      "title": "capital jingle bell ball 2026",
+      "region": "GB",
+      "observed": "2026-11-02T09:30:00+00:00",
+      "source": "Google Trends Trending Now RSS",
+      "url": "https://trends.google.com/trending/rss?geo=GB",
+      "note": "Search spike · approx traffic is an estimated bucket, not a verified total.",
+      "metric": {
+        "value": "200+",
+        "label": "approx. search volume"
+      }
+    },
+    {
+      "id": "google-24977004060fe059",
+      "type": "trend",
+      "title": "earthquake",
       "region": "US",
-      "observed": "2026-11-02T01:50:00+00:00",
+      "observed": "2026-11-02T09:20:00+00:00",
+      "source": "Google Trends Trending Now RSS",
+      "url": "https://trends.google.com/trending/rss?geo=US",
+      "note": "Search spike · approx traffic is an estimated bucket, not a verified total.",
+      "metric": {
+        "value": "100+",
+        "label": "approx. search volume"
+      }
+    },
+    {
+      "id": "google-31cc8864f66b4944",
+      "type": "trend",
+      "title": "cve-2026-98432",
+      "region": "GB",
+      "observed": "2026-11-02T09:20:00+00:00",
+      "source": "Google Trends Trending Now RSS",
+      "url": "https://trends.google.com/trending/rss?geo=GB",
+      "note": "Search spike · approx traffic is an estimated bucket, not a verified total.",
+      "metric": {
+        "value": "200+",
+        "label": "approx. search volume"
+      }
+    },
+    {
+      "id": "google-38ef57c5fbe347a7",
+      "type": "trend",
+      "title": "ins",
+      "region": "US",
+      "observed": "2026-11-02T09:10:00+00:00",
+      "source": "Google Trends Trending Now RSS",
+      "url": "https://trends.google.com/trending/rss?geo=US",
+      "note": "Search spike · approx traffic is an estimated bucket, not a verified total.",
+      "metric": {
+        "value": "200+",
+        "label": "approx. search volume"
+      }
+    },
+    {
+      "id": "google-daa4445b2fa88fe3",
+      "type": "trend",
+      "title": "se",
+      "region": "US",
+      "observed": "2026-11-02T09:10:00+00:00",
       "source": "Google Trends Trending Now RSS",
       "url": "https://trends.google.com/trending/rss?geo=US",
       "note": "Search spike · approx traffic is an estimated bucket, not a verified total.",
@@ -533,11 +477,25 @@
       }
     },
     {
-      "id": "google-8b5d5d85cf1b3d34",
+      "id": "google-07ee54103437254a",
       "type": "trend",
-      "title": "peanuts",
+      "title": "la voix",
       "region": "GB",
-      "observed": "2026-11-02T01:50:00+00:00",
+      "observed": "2026-11-02T09:10:00+00:00",
+      "source": "Google Trends Trending Now RSS",
+      "url": "https://trends.google.com/trending/rss?geo=GB",
+      "note": "Search spike · approx traffic is an estimated bucket, not a verified total.",
+      "metric": {
+        "value": "1000+",
+        "label": "approx. search volume"
+      }
+    },
+    {
+      "id": "google-e483ae3bdffc6fdd",
+      "type": "trend",
+      "title": "angela scanlon",
+      "region": "GB",
+      "observed": "2026-11-02T09:10:00+00:00",
       "source": "Google Trends Trending Now RSS",
       "url": "https://trends.google.com/trending/rss?geo=GB",
       "note": "Search spike · approx traffic is an estimated bucket, not a verified total.",
@@ -547,11 +505,25 @@
       }
     },
     {
-      "id": "google-3cd61509c8604bf0",
+      "id": "google-2cd355ddac50242c",
       "type": "trend",
-      "title": "lakers vs raptors",
+      "title": "nws winter storm warning snow winds",
+      "region": "US",
+      "observed": "2026-11-02T09:00:00+00:00",
+      "source": "Google Trends Trending Now RSS",
+      "url": "https://trends.google.com/trending/rss?geo=US",
+      "note": "Search spike · approx traffic is an estimated bucket, not a verified total.",
+      "metric": {
+        "value": "200+",
+        "label": "approx. search volume"
+      }
+    },
+    {
+      "id": "google-2791c493b03159ef",
+      "type": "trend",
+      "title": "orange order",
       "region": "GB",
-      "observed": "2026-11-02T01:50:00+00:00",
+      "observed": "2026-11-02T09:00:00+00:00",
       "source": "Google Trends Trending Now RSS",
       "url": "https://trends.google.com/trending/rss?geo=GB",
       "note": "Search spike · approx traffic is an estimated bucket, not a verified total.",
@@ -561,39 +533,11 @@
       }
     },
     {
-      "id": "google-9718939b25572a09",
+      "id": "google-1d5ed444a7680996",
       "type": "trend",
-      "title": "warriors vs clippers",
+      "title": "astrazeneca share price",
       "region": "GB",
-      "observed": "2026-11-02T01:00:00+00:00",
-      "source": "Google Trends Trending Now RSS",
-      "url": "https://trends.google.com/trending/rss?geo=GB",
-      "note": "Search spike · approx traffic is an estimated bucket, not a verified total.",
-      "metric": {
-        "value": "2000+",
-        "label": "approx. search volume"
-      }
-    },
-    {
-      "id": "google-5bb453fc6442381d",
-      "type": "trend",
-      "title": "commanders vs eagles",
-      "region": "GB",
-      "observed": "2026-11-02T01:00:00+00:00",
-      "source": "Google Trends Trending Now RSS",
-      "url": "https://trends.google.com/trending/rss?geo=GB",
-      "note": "Search spike · approx traffic is an estimated bucket, not a verified total.",
-      "metric": {
-        "value": "500+",
-        "label": "approx. search volume"
-      }
-    },
-    {
-      "id": "google-953552d90f24b271",
-      "type": "trend",
-      "title": "nfl standings",
-      "region": "GB",
-      "observed": "2026-11-02T01:00:00+00:00",
+      "observed": "2026-11-02T09:00:00+00:00",
       "source": "Google Trends Trending Now RSS",
       "url": "https://trends.google.com/trending/rss?geo=GB",
       "note": "Search spike · approx traffic is an estimated bucket, not a verified total.",
@@ -603,25 +547,11 @@
       }
     },
     {
-      "id": "google-df8a87239f18e97c",
+      "id": "google-2c071048d2beb315",
       "type": "trend",
-      "title": "shabana mahmood",
+      "title": "nationwide",
       "region": "GB",
-      "observed": "2026-11-02T00:20:00+00:00",
-      "source": "Google Trends Trending Now RSS",
-      "url": "https://trends.google.com/trending/rss?geo=GB",
-      "note": "Search spike · approx traffic is an estimated bucket, not a verified total.",
-      "metric": {
-        "value": "100+",
-        "label": "approx. search volume"
-      }
-    },
-    {
-      "id": "google-4c3268cc37fbbbc2",
-      "type": "trend",
-      "title": "young musicians",
-      "region": "GB",
-      "observed": "2026-11-02T00:10:00+00:00",
+      "observed": "2026-11-02T08:50:00+00:00",
       "source": "Google Trends Trending Now RSS",
       "url": "https://trends.google.com/trending/rss?geo=GB",
       "note": "Search spike · approx traffic is an estimated bucket, not a verified total.",
@@ -631,13 +561,27 @@
       }
     },
     {
-      "id": "google-29f6e86632c2c00c",
+      "id": "google-609c85cde75650bf",
       "type": "trend",
-      "title": "new england vs inter miami",
+      "title": "radio 1",
       "region": "GB",
-      "observed": "2026-11-01T23:30:00+00:00",
+      "observed": "2026-11-02T08:50:00+00:00",
       "source": "Google Trends Trending Now RSS",
       "url": "https://trends.google.com/trending/rss?geo=GB",
+      "note": "Search spike · approx traffic is an estimated bucket, not a verified total.",
+      "metric": {
+        "value": "200+",
+        "label": "approx. search volume"
+      }
+    },
+    {
+      "id": "google-4565225cf6e93672",
+      "type": "trend",
+      "title": "delaware",
+      "region": "US",
+      "observed": "2026-11-02T08:40:00+00:00",
+      "source": "Google Trends Trending Now RSS",
+      "url": "https://trends.google.com/trending/rss?geo=US",
       "note": "Search spike · approx traffic is an estimated bucket, not a verified total.",
       "metric": {
         "value": "2000+",
@@ -645,25 +589,92 @@
       }
     },
     {
-      "id": "news-cb8cfd2fb2075bb2",
+      "id": "google-4e9f8f75e5953fd6",
+      "type": "trend",
+      "title": "weather orlando",
+      "region": "US",
+      "observed": "2026-11-02T08:30:00+00:00",
+      "source": "Google Trends Trending Now RSS",
+      "url": "https://trends.google.com/trending/rss?geo=US",
+      "note": "Search spike · approx traffic is an estimated bucket, not a verified total.",
+      "metric": {
+        "value": "1000+",
+        "label": "approx. search volume"
+      }
+    },
+    {
+      "id": "google-5c86e286f9198fa2",
+      "type": "trend",
+      "title": "ftse 250",
+      "region": "GB",
+      "observed": "2026-11-02T08:30:00+00:00",
+      "source": "Google Trends Trending Now RSS",
+      "url": "https://trends.google.com/trending/rss?geo=GB",
+      "note": "Search spike · approx traffic is an estimated bucket, not a verified total.",
+      "metric": {
+        "value": "1000+",
+        "label": "approx. search volume"
+      }
+    },
+    {
+      "id": "google-7b0209ab9c3743de",
+      "type": "trend",
+      "title": "maria sakkari",
+      "region": "US",
+      "observed": "2026-11-02T08:20:00+00:00",
+      "source": "Google Trends Trending Now RSS",
+      "url": "https://trends.google.com/trending/rss?geo=US",
+      "note": "Search spike · approx traffic is an estimated bucket, not a verified total.",
+      "metric": {
+        "value": "200+",
+        "label": "approx. search volume"
+      }
+    },
+    {
+      "id": "google-d541ae3b50b883cd",
+      "type": "trend",
+      "title": "katie volynets",
+      "region": "US",
+      "observed": "2026-11-02T08:00:00+00:00",
+      "source": "Google Trends Trending Now RSS",
+      "url": "https://trends.google.com/trending/rss?geo=US",
+      "note": "Search spike · approx traffic is an estimated bucket, not a verified total.",
+      "metric": {
+        "value": "1000+",
+        "label": "approx. search volume"
+      }
+    },
+    {
+      "id": "news-bcf7a8775a779183",
       "type": "news",
-      "category": "fashion",
-      "title": "Meg Ryan's Best Outfits In When Harry Met Sally, Ranked By Timelessness",
+      "category": "beauty",
+      "title": "6 Nail Colours a Celebrity Manicurist Can't Get Enough of This November",
       "region": "US / UK",
-      "observed": "2026-11-01T19:00:00+00:00",
-      "source": "Glam",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQNnpzalNrM3R0N214QTFoNnJGZDRFdzlNMld5MG1nNk0teE8yRW13XzBXSlhsODlMTHZ1VXJYMDBzbEUxYjZnUTZTZWdJSnlsWGh4T0R6cFJLdWRNX21iV2VrSVdlMnIxQTd2UENxbDR6SVNBZUs3bTFLd2tXYzZsZl82TURpQQ?oc=5",
+      "observed": "2026-11-02T07:00:00+00:00",
+      "source": "Who What Wear",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9ZU3dueWI1UmxDX09Hd2dtSkhmLUhjSG1rdDlFcEdkSUNnZU53cGV4cHBRZkIxZkxubHdvV0VqN2F1WVZ1dHBxdVdjSnR4LUg0a25TdzhrU2Y2cFJLNEtjREhVUi1uQ24xcTJfbXZIcXF3M3VLVVE?oc=5",
       "note": "News mention only; publication does not prove popularity."
     },
     {
-      "id": "news-6fcf8cb4705e2a3c",
+      "id": "news-73fc8ce1574b6312",
       "type": "news",
       "category": "beauty",
-      "title": "All the Best Celebrity Halloween Costumes of 2026",
+      "title": "Bustle’s 2026 Big Life Beauty Awards",
       "region": "US / UK",
-      "observed": "2026-11-01T15:26:00+00:00",
-      "source": "Harper's BAZAAR",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQdUg5UnRaX2NsNW13bC1BWkNjVzY5VldxcHZGVms3OWJHbWduMjY2R2FzcjBNZGhudEdMbUVZWjkzcUhqTnJwUnFra1dyNWl6czhGVmpSUXZhdjBXUkZ5d29SX052T0V0VjRmZ2QtcGhhQ3ljYlV1bUNQQThJUld4SFN3LW55ZnllQUNuQUdsODVUSnhGVGtzQ1ktOFRzXzNoWm5yRVV3?oc=5",
+      "observed": "2026-11-02T05:37:19+00:00",
+      "source": "Bustle",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE51R2NGSHNvWHFDMHJma3NUenFfX3pLTFlmQTlfdjZZOEhfdWJ4RENrZlFPQjZGOFZQWVBQUE5RMWNWbG15ckRHdjd0M2lrX2hGVllVY0Q5eHN3M1R1MVJqVzZyU1FEUXk0?oc=5",
+      "note": "News mention only; publication does not prove popularity."
+    },
+    {
+      "id": "news-ba0db93647406de8",
+      "type": "news",
+      "category": "beauty",
+      "title": "Olivia Rodrigo, Heidi Klum, Jennie, and More Had Some of 2026’s Best Halloween Costumes",
+      "region": "US / UK",
+      "observed": "2026-11-01T21:45:00+00:00",
+      "source": "ELLE",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPODIyOG1BUlZ2bHJyQjdoTll4dXAxMVNsTUZrbGNKa0dMVmxJSjZ3ZGZ4Sm11dXJBV1F4YkdvczBJSi13elhxRWJ1TTFydFBBYzM0V2RsOHo1dnhxXzd3SDhBREF3VHhUNXVrVk9hR0dneHBGNFVBLUFqbnFvdW1KaEJIeFdMMGZ4TVV4QW5CMTZRSXdo?oc=5",
       "note": "News mention only; publication does not prove popularity."
     },
     {
@@ -711,14 +722,14 @@
       "note": "News mention only; publication does not prove popularity."
     },
     {
-      "id": "news-5857319a36df2913",
+      "id": "news-2f1191a9311f28bf",
       "type": "news",
-      "category": "music",
-      "title": "Why Porch Light's “Paranoia” Is Going Viral: From TikTok Discovery to Rock Breakthrough",
+      "category": "culture",
+      "title": "Kerry James Marshall’s “The Histories” Finds a Fitting Home in Paris",
       "region": "US / UK",
-      "observed": "2026-10-31T04:20:12+00:00",
-      "source": "InsightTrendsWorld",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNWGRFSk9IOGFKUXlJTkwxYTBYbEw4dHFwcVlZY0xHdnhMRVV6REFGOE94c2dNQ3JYUjN6TURoMDZma2tURzdSZWRaNzNWdUwxd3p0Um5pay1LWnktMFVuOF9FUXM2ckhmeFBPTWFGV2xhZnI5MFo3Nzl0d3F6ZUZlMzNGNGw3UmZiTElKWXFyRmo5ZFhrMlJORm5IYURtQTJlM2RHSWFpbVhueVlZVlhCaFZTTzE5Z0lfLWJCc19ua01lZw?oc=5",
+      "observed": "2026-10-31T13:02:14+00:00",
+      "source": "Observer",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNd3doc1ZxVVRPdG9yems1cEdyb29hOEdqbzYweUFmb0pxb3E5Rl9CWjdxekNqNTh4OWdzRnpQOEMxc0s3NVBvRzRJQkxoRDBTT1ZOOHYxaS01WUN3YXJ0WWN2ajhKdkFtWWV0SkVhZ09BU0FoQ05kZmtFWWpFSjBMV0haeHA5VWk3RzFNcVZmUWRyVmFmNW1ieUdMLVZuMmtaQ0R0OUpPRjAwbEg5dnN3?oc=5",
       "note": "News mention only; publication does not prove popularity."
     },
     {
@@ -733,28 +744,6 @@
       "note": "News mention only; publication does not prove popularity."
     },
     {
-      "id": "news-12ba9f89c43808ae",
-      "type": "news",
-      "category": "beauty",
-      "title": "The 9 Fall Makeup Trends to Know, From Witchy Makeup to Cozy Skin",
-      "region": "US / UK",
-      "observed": "2026-10-30T21:51:29+00:00",
-      "source": "Glamour",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE14V3EySklRcTZOcFBJWXhfX3VyVzBaR3FxLWVCY3RxTnhYblpHNlZwWWM1N0U1dDRXZVBFdTBKLVdTRzlxcFM0cXF1cmIteVVBSDJzbHQwdXpBVWY2cnU0ZFpCMA?oc=5",
-      "note": "News mention only; publication does not prove popularity."
-    },
-    {
-      "id": "news-432251a74a01f3c2",
-      "type": "news",
-      "category": "internet",
-      "title": "The Weekly Meme Roundup: Jiren Dancing, Mini Producer, Yanito932 And More",
-      "region": "US / UK",
-      "observed": "2026-10-30T18:45:00+00:00",
-      "source": "Yahoo",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQNktDaUt0LTdhVGZRbzJTVnFpcHAzVXhObkp6LXVfVFRhNDluM2lucElkek1WajFZcEE3ZXpJRDYwdHl5Y3JBOWNTbkRveTdvbDAzTTlzOFJJdWY2RlZ3Z3p5Q0ZjNDF4VVd3aXVTVzA0RHJ4TjJsNG55THdhcW1EZjZKQXhTNG5GdWVxeE9KU3FIUmVmOVp6VA?oc=5",
-      "note": "News mention only; publication does not prove popularity."
-    },
-    {
       "id": "news-a5ff9e4fd16e3df8",
       "type": "news",
       "category": "fashion",
@@ -763,17 +752,6 @@
       "observed": "2026-10-30T17:04:33+00:00",
       "source": "Vogue",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5lWlB2VEdQak9xZW4yZ3lwRHUyaUdOMVV2ZnljY1lBdlFxS3phMVVRNEZCdTlKakZHbWdFcEFrTzBweGhnN0I4b3NtSkJpUTdaSFBaY3lZXzdkV1dMMS1Vc0VB?oc=5",
-      "note": "News mention only; publication does not prove popularity."
-    },
-    {
-      "id": "news-ed3078925476af66",
-      "type": "news",
-      "category": "beauty",
-      "title": "The ‘Ghost Wing’ Is the Softer Cat-Eye Trend That’s Taking Over",
-      "region": "US / UK",
-      "observed": "2026-10-30T15:06:17+00:00",
-      "source": "ELLE",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNVmE3ckpaekEzNWlkNW41WTZnRTNVR1Zjbkd5ZS1tY1pRZnRnODc0elVFZmplWFZjd3FmZUZOYmNZQVdyY3RWMFB5NVJnN3VHTDdXQzh0VXVTY2lsaTgtYThHbEtkSVNOR1UtaUhKVlk0c3o1ZmJhTE1qWDVEZUxqNktleUpOMU1aNnEwRC16c281a0Z0ckVLTHFiNlR0QQ?oc=5",
       "note": "News mention only; publication does not prove popularity."
     },
     {
@@ -807,28 +785,6 @@
       "observed": "2026-10-30T14:57:57+00:00",
       "source": "Vocal",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOOUxMRE9pNnNzd0pXU0xJN1JDamZJUDE2X0h6LXBFVjFuUW12bEdWZDZEclRvbTFCbXE5T2RrQnRhdmsyMnZjWjhVOVRYNXpuT3AzMDBUSlRmc2JCc1UyQldMVC1nNFV2Y0NvMW1oZmJwUm9IWUI4dHFWNjd2RGcwRHF5d2pJVXhBX0FGZTI5eEdRVjEwNEoyS21jRlBlRFpnVlBRSXh2ZTl5ZXNTU3VhNWdYWGo?oc=5",
-      "note": "News mention only; publication does not prove popularity."
-    },
-    {
-      "id": "news-45fa0ba240079ef2",
-      "type": "news",
-      "category": "culture",
-      "title": "London’s Must-See Art Destinations, From the National Gallery to the Fourth Plinth",
-      "region": "US / UK",
-      "observed": "2026-10-30T13:19:13+00:00",
-      "source": "Artnet News",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBDbTc1SXFHb0Z2TWZPSjVCRlRFRHlYX3lVaVZIOVZCRUhKRVFFVzgyUmhfQ2w4VGhLWk12alN4dEV5aktOd2pXU1RpMW1pNl92YzBfMjVfVEtoS0s0UjVBSVNaVXVaSkJWM1hRWWRRZi10QXp6cmlaQkl0M1pCUdIBhgFBVV95cUxOTEVMd2RTeG55R1RGVVoyaE9OME9BUmFiMldpS3FZbGFVRUlVb09YQThjZHZfOGR0NjhCZ2puNnQ3SnlmMTdJWm1KM2dyUDBUa0tGRGVOcXJXZzVQMWhPT1VWbFpEX0dKODJ1bmQwWjh0YUNoR3dJb1RxeE44b3ZURUtac2w3dw?oc=5",
-      "note": "News mention only; publication does not prove popularity."
-    },
-    {
-      "id": "news-ceaa408b15571347",
-      "type": "news",
-      "category": "culture",
-      "title": "'A way of celebrating presence': What Botero's rotund remakes of classical masterpieces tell us about art history",
-      "region": "US / UK",
-      "observed": "2026-10-30T12:00:00+00:00",
-      "source": "BBC",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPRXlBZlZYQ1BBaXJtWGt3djloTmRnaUVpNmwyRTkyaDlWM1BQWWhycURzaWkwTXRXaVZpVFNaSVl4MGQ1X1FublFrU3VTLTFDSWJFSUprMUwyeGp1WmFDRlo5TXJsdjdndnE3VWRxREZnSzdUM0lXbEhiMXFBcXdvNnZXc3dIM3hrVzltdGpjUDNSQ2hLMUxycEJ4eWNPcElXZkJJdXRackh3UUhaekU1a0tIN1NlNE5IRGtHc1JCaUcxUQ?oc=5",
       "note": "News mention only; publication does not prove popularity."
     },
     {
@@ -873,6 +829,39 @@
       "observed": "2026-10-30T09:15:09+00:00",
       "source": "白鲸出海",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1VYlpEV3B2czJfNVJjRUJBWlg2ZDh3V2hid2RWeXBYNGFFSGJkQnA5LXBYNEtMVXlENWRYLThqSThoNmtjc2ZFdmtibVpGU1I3WnM4eGZ0UEkzNjlNek1ieksycEpwV3k4YV93?oc=5",
+      "note": "News mention only; publication does not prove popularity."
+    },
+    {
+      "id": "news-9ee20b7f9b3bf5c5",
+      "type": "news",
+      "category": "fashion",
+      "title": "Fall Is All About Layering—Here Are 10 Ways to Master It",
+      "region": "US / UK",
+      "observed": "2026-10-30T07:00:00+00:00",
+      "source": "Harper's BAZAAR",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVHhMUkFwV1ExSElPcnY1allyTm5fcjZmTUIzeU9vMk9OaEI0QXoxYlJEMF9LREVZYjhSaTlJREx5b1p0YmJ4VFJoT2VOcDNYRlRzeVQzdEJ4dmFNblVoZU5yUVBwbExhRGtoSUNsaU5mbTVpOUlsTE1CanhjRU5fNGhHZXJQOGly?oc=5",
+      "note": "News mention only; publication does not prove popularity."
+    },
+    {
+      "id": "news-032be91c00e8277a",
+      "type": "news",
+      "category": "internet",
+      "title": "66 Halloween costume ideas from 2026 pop culture 2026",
+      "region": "US / UK",
+      "observed": "2026-10-30T07:00:00+00:00",
+      "source": "RUSSH",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA3X05JcXZmQ29WOGxRQnp2WnJNdUswaHBSel9YR21YZG00M1RYYksyZDlsSXVmOTRaTjRMUnNka0tObnRGQkZZTkVGenJpX3ZuQjk1YS0ydC1hUQ?oc=5",
+      "note": "News mention only; publication does not prove popularity."
+    },
+    {
+      "id": "news-f66e0b6062a99179",
+      "type": "news",
+      "category": "culture",
+      "title": "SEASON PREVIEW",
+      "region": "US / UK",
+      "observed": "2026-10-30T07:00:00+00:00",
+      "source": "SRQ Magazine",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9jOWhqX0d2OU9DTFZDLXh2bkc0TXdrYTg3ZERCdFpLRUdqQmpRc2JXUEQ3Z09SblQ0QkFvdWFMMk1CczlRSUp3WV9wSGNYSFI1VUpkTkRHMDNTZ0pKV3RLNGtWQkhrR1E?oc=5",
       "note": "News mention only; publication does not prove popularity."
     },
     {
@@ -1295,7 +1284,7 @@
       "type": "chart",
       "title": "#01 · Michael Jackson — Thriller",
       "region": "US",
-      "observed": "2026-11-02T02:23:17+00:00",
+      "observed": "2026-11-02T09:54:22+00:00",
       "source": "Apple Music · official top songs RSS",
       "url": "https://music.apple.com/us/album/thriller/269572838?i=269573303",
       "metric": {
@@ -1311,7 +1300,7 @@
       "type": "chart",
       "title": "#02 · The Citizens of Halloween — This Is Halloween",
       "region": "US",
-      "observed": "2026-11-02T02:23:17+00:00",
+      "observed": "2026-11-02T09:54:22+00:00",
       "source": "Apple Music · official top songs RSS",
       "url": "https://music.apple.com/us/album/this-is-halloween/1440662430?i=1440662595",
       "metric": {
@@ -1327,7 +1316,7 @@
       "type": "chart",
       "title": "#03 · Bobby \"Boris\" Pickett — Monster Mash",
       "region": "US",
-      "observed": "2026-11-02T02:23:17+00:00",
+      "observed": "2026-11-02T09:54:22+00:00",
       "source": "Apple Music · official top songs RSS",
       "url": "https://music.apple.com/us/album/monster-mash/82125264?i=82125202",
       "metric": {
@@ -1343,7 +1332,7 @@
       "type": "chart",
       "title": "#04 · Ray Parker Jr. — Ghostbusters",
       "region": "US",
-      "observed": "2026-11-02T02:23:17+00:00",
+      "observed": "2026-11-02T09:54:22+00:00",
       "source": "Apple Music · official top songs RSS",
       "url": "https://music.apple.com/us/album/ghostbusters/1484413132?i=1484413134",
       "metric": {
@@ -1359,7 +1348,7 @@
       "type": "chart",
       "title": "#05 · Andrew Gold — Spooky, Scary Skeletons (Undead Tombstone Remix)",
       "region": "US",
-      "observed": "2026-11-02T02:23:17+00:00",
+      "observed": "2026-11-02T09:54:22+00:00",
       "source": "Apple Music · official top songs RSS",
       "url": "https://music.apple.com/us/album/spooky-scary-skeletons-undead-tombstone-remix/1482699018?i=1482699500",
       "metric": {
@@ -1371,47 +1360,15 @@
       "image_credit": "Apple Music artwork"
     },
     {
-      "id": "apple-b9165298ea400182",
+      "id": "apple-4bac9e05164f1bb8",
       "type": "chart",
-      "title": "#06 · Rockwell — Somebody's Watching Me",
+      "title": "#06 · Ella Langley — Choosin' Texas",
       "region": "US",
-      "observed": "2026-11-02T02:23:17+00:00",
-      "source": "Apple Music · official top songs RSS",
-      "url": "https://music.apple.com/us/album/somebodys-watching-me/1278579748?i=1278579752",
-      "metric": {
-        "value": "#6",
-        "label": "Apple Music rank"
-      },
-      "note": "Chart position only. Apple does not publish stream totals via this feed.",
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/65/8b/bf/658bbfc5-32db-8380-4dcf-52cb7e636c1e/886446713328.jpg/100x100bb.jpg",
-      "image_credit": "Apple Music artwork"
-    },
-    {
-      "id": "apple-a27823ddf89ff425",
-      "type": "chart",
-      "title": "#07 · Stevie Wonder — Superstition",
-      "region": "US",
-      "observed": "2026-11-02T02:23:17+00:00",
-      "source": "Apple Music · official top songs RSS",
-      "url": "https://music.apple.com/us/album/superstition/1440808973?i=1440808985",
-      "metric": {
-        "value": "#7",
-        "label": "Apple Music rank"
-      },
-      "note": "Chart position only. Apple does not publish stream totals via this feed.",
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/62/61/61/626161c0-f4d7-e6ff-8586-768340ef278f/00602537002382.rgb.jpg/100x100bb.jpg",
-      "image_credit": "Apple Music artwork"
-    },
-    {
-      "id": "apple-15dda9972699a5ff",
-      "type": "chart",
-      "title": "#08 · Ella Langley — Choosin' Texas",
-      "region": "US",
-      "observed": "2026-11-02T02:23:17+00:00",
+      "observed": "2026-11-02T09:54:22+00:00",
       "source": "Apple Music · official top songs RSS",
       "url": "https://music.apple.com/us/album/choosin-texas/1844932149?i=1844932150",
       "metric": {
-        "value": "#8",
+        "value": "#6",
         "label": "Apple Music rank"
       },
       "note": "Chart position only. Apple does not publish stream totals via this feed.",
@@ -1419,15 +1376,15 @@
       "image_credit": "Apple Music artwork"
     },
     {
-      "id": "apple-9d5f00f80ace41dc",
+      "id": "apple-6f877a7501f08c2b",
       "type": "chart",
-      "title": "#09 · Tate McRae — Housewife",
+      "title": "#07 · Tate McRae — Housewife",
       "region": "US",
-      "observed": "2026-11-02T02:23:17+00:00",
+      "observed": "2026-11-02T09:54:22+00:00",
       "source": "Apple Music · official top songs RSS",
       "url": "https://music.apple.com/us/album/housewife/6822497770?i=6822497774",
       "metric": {
-        "value": "#9",
+        "value": "#7",
         "label": "Apple Music rank"
       },
       "note": "Chart position only. Apple does not publish stream totals via this feed.",
@@ -1435,15 +1392,15 @@
       "image_credit": "Apple Music artwork"
     },
     {
-      "id": "apple-b857bb2369b5c93c",
+      "id": "apple-1795e46e65fae373",
       "type": "chart",
-      "title": "#10 · KAROL G, Judeline & rusowsky — BbY WOW",
+      "title": "#08 · KAROL G, Judeline & rusowsky — BbY WOW",
       "region": "US",
-      "observed": "2026-11-02T02:23:17+00:00",
+      "observed": "2026-11-02T09:54:22+00:00",
       "source": "Apple Music · official top songs RSS",
       "url": "https://music.apple.com/us/album/bby-wow/6796864741?i=6796864754",
       "metric": {
-        "value": "#10",
+        "value": "#8",
         "label": "Apple Music rank"
       },
       "note": "Chart position only. Apple does not publish stream totals via this feed.",
@@ -1451,35 +1408,67 @@
       "image_credit": "Apple Music artwork"
     },
     {
-      "id": "apple-1c0b6188a796e670",
+      "id": "apple-d5691e988fb85fbb",
       "type": "chart",
-      "title": "#11 · Rihanna — Disturbia",
+      "title": "#09 · Drake & Don Toliver — Solar Eclipse",
       "region": "US",
-      "observed": "2026-11-02T02:23:17+00:00",
+      "observed": "2026-11-02T09:54:22+00:00",
       "source": "Apple Music · official top songs RSS",
-      "url": "https://music.apple.com/us/album/disturbia/1441154435?i=1441154571",
+      "url": "https://music.apple.com/us/album/solar-eclipse/6818209777?i=6818209989",
+      "metric": {
+        "value": "#9",
+        "label": "Apple Music rank"
+      },
+      "note": "Chart position only. Apple does not publish stream totals via this feed.",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/bb/45/62/bb4562a3-45a2-539c-b557-a18ea060a476/26UMGIM63616.rgb.jpg/100x100bb.jpg",
+      "image_credit": "Apple Music artwork"
+    },
+    {
+      "id": "apple-d62009e7e1d9a321",
+      "type": "chart",
+      "title": "#10 · Drake — Janice STFU",
+      "region": "US",
+      "observed": "2026-11-02T09:54:22+00:00",
+      "source": "Apple Music · official top songs RSS",
+      "url": "https://music.apple.com/us/album/janice-stfu/6769568449?i=6769568596",
+      "metric": {
+        "value": "#10",
+        "label": "Apple Music rank"
+      },
+      "note": "Chart position only. Apple does not publish stream totals via this feed.",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/35/b9/06/35b90629-a873-14f8-4789-ffc324960038/26UMGIM63614.rgb.jpg/100x100bb.jpg",
+      "image_credit": "Apple Music artwork"
+    },
+    {
+      "id": "apple-9714d7b54f7fe710",
+      "type": "chart",
+      "title": "#11 · Rockwell — Somebody's Watching Me",
+      "region": "US",
+      "observed": "2026-11-02T09:54:22+00:00",
+      "source": "Apple Music · official top songs RSS",
+      "url": "https://music.apple.com/us/album/somebodys-watching-me/1278579748?i=1278579752",
       "metric": {
         "value": "#11",
         "label": "Apple Music rank"
       },
       "note": "Chart position only. Apple does not publish stream totals via this feed.",
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/2b/c0/81/2bc081c8-25f0-ba43-d451-587a54613778/16UMGIM59202.rgb.jpg/100x100bb.jpg",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/65/8b/bf/658bbfc5-32db-8380-4dcf-52cb7e636c1e/886446713328.jpg/100x100bb.jpg",
       "image_credit": "Apple Music artwork"
     },
     {
-      "id": "apple-7aea68df559f5229",
+      "id": "apple-eb35abdfab0b466f",
       "type": "chart",
-      "title": "#12 · Drake & Don Toliver — Solar Eclipse",
+      "title": "#12 · Morgan Wallen — Been By Now",
       "region": "US",
-      "observed": "2026-11-02T02:23:17+00:00",
+      "observed": "2026-11-02T09:54:22+00:00",
       "source": "Apple Music · official top songs RSS",
-      "url": "https://music.apple.com/us/album/solar-eclipse/6818209777?i=6818209989",
+      "url": "https://music.apple.com/us/album/been-by-now/6792676858?i=6792676860",
       "metric": {
         "value": "#12",
         "label": "Apple Music rank"
       },
       "note": "Chart position only. Apple does not publish stream totals via this feed.",
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/bb/45/62/bb4562a3-45a2-539c-b557-a18ea060a476/26UMGIM63616.rgb.jpg/100x100bb.jpg",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9f/8d/52/9f8d52a0-b6d9-d038-327b-4fe58bedce67/26UMGIM94572.rgb.jpg/100x100bb.jpg",
       "image_credit": "Apple Music artwork"
     }
   ],
