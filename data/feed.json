@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-11-20T18:48:46+00:00",
+  "updated_at": "2026-11-21T00:21:59+00:00",
   "edition": "10.15 / The culture issue",
   "mode": "auto",
   "editorial": [
@@ -365,193 +365,11 @@
   ],
   "live": [
     {
-      "id": "google-06d3936b77b04cf8",
+      "id": "google-5896ca6e31dbfbde",
       "type": "trend",
-      "title": "colts depth chart",
+      "title": "oregon vs mi state",
       "region": "US",
-      "observed": "2026-11-20T18:30:00+00:00",
-      "source": "Google Trends Trending Now RSS",
-      "url": "https://trends.google.com/trending/rss?geo=US",
-      "note": "Search spike · approx traffic is an estimated bucket, not a verified total.",
-      "metric": {
-        "value": "10000+",
-        "label": "approx. search volume"
-      }
-    },
-    {
-      "id": "google-223d0154e79b2c44",
-      "type": "trend",
-      "title": "bowen yang",
-      "region": "US",
-      "observed": "2026-11-20T18:30:00+00:00",
-      "source": "Google Trends Trending Now RSS",
-      "url": "https://trends.google.com/trending/rss?geo=US",
-      "note": "Search spike · approx traffic is an estimated bucket, not a verified total.",
-      "metric": {
-        "value": "1000+",
-        "label": "approx. search volume"
-      }
-    },
-    {
-      "id": "google-4cbe40a7e8e35cbf",
-      "type": "trend",
-      "title": "medicare part b premium hike 2027",
-      "region": "US",
-      "observed": "2026-11-20T18:30:00+00:00",
-      "source": "Google Trends Trending Now RSS",
-      "url": "https://trends.google.com/trending/rss?geo=US",
-      "note": "Search spike · approx traffic is an estimated bucket, not a verified total.",
-      "metric": {
-        "value": "500+",
-        "label": "approx. search volume"
-      }
-    },
-    {
-      "id": "google-14eed9ebfcc5ee86",
-      "type": "trend",
-      "title": "joey bart",
-      "region": "US",
-      "observed": "2026-11-20T18:30:00+00:00",
-      "source": "Google Trends Trending Now RSS",
-      "url": "https://trends.google.com/trending/rss?geo=US",
-      "note": "Search spike · approx traffic is an estimated bucket, not a verified total.",
-      "metric": {
-        "value": "200+",
-        "label": "approx. search volume"
-      }
-    },
-    {
-      "id": "google-73c16e8bbf8a33ff",
-      "type": "trend",
-      "title": "chris mason",
-      "region": "GB",
-      "observed": "2026-11-20T18:30:00+00:00",
-      "source": "Google Trends Trending Now RSS",
-      "url": "https://trends.google.com/trending/rss?geo=GB",
-      "note": "Search spike · approx traffic is an estimated bucket, not a verified total.",
-      "metric": {
-        "value": "100+",
-        "label": "approx. search volume"
-      }
-    },
-    {
-      "id": "google-5e7fffc37d52de7b",
-      "type": "trend",
-      "title": "lauren price next fight",
-      "region": "GB",
-      "observed": "2026-11-20T18:20:00+00:00",
-      "source": "Google Trends Trending Now RSS",
-      "url": "https://trends.google.com/trending/rss?geo=GB",
-      "note": "Search spike · approx traffic is an estimated bucket, not a verified total.",
-      "metric": {
-        "value": "500+",
-        "label": "approx. search volume"
-      }
-    },
-    {
-      "id": "google-03cb2c8a85b1ff89",
-      "type": "trend",
-      "title": "taylorswift",
-      "region": "US",
-      "observed": "2026-11-20T18:10:00+00:00",
-      "source": "Google Trends Trending Now RSS",
-      "url": "https://trends.google.com/trending/rss?geo=US",
-      "note": "Search spike · approx traffic is an estimated bucket, not a verified total.",
-      "metric": {
-        "value": "500+",
-        "label": "approx. search volume"
-      }
-    },
-    {
-      "id": "google-4d4fd7eada2e1397",
-      "type": "trend",
-      "title": "skipp townsend",
-      "region": "US",
-      "observed": "2026-11-20T18:10:00+00:00",
-      "source": "Google Trends Trending Now RSS",
-      "url": "https://trends.google.com/trending/rss?geo=US",
-      "note": "Search spike · approx traffic is an estimated bucket, not a verified total.",
-      "metric": {
-        "value": "500+",
-        "label": "approx. search volume"
-      }
-    },
-    {
-      "id": "google-7836d8ebab81fc51",
-      "type": "trend",
-      "title": "brandon smith",
-      "region": "US",
-      "observed": "2026-11-20T18:10:00+00:00",
-      "source": "Google Trends Trending Now RSS",
-      "url": "https://trends.google.com/trending/rss?geo=US",
-      "note": "Search spike · approx traffic is an estimated bucket, not a verified total.",
-      "metric": {
-        "value": "500+",
-        "label": "approx. search volume"
-      }
-    },
-    {
-      "id": "google-3fb2720e90456998",
-      "type": "trend",
-      "title": "daniel jones",
-      "region": "GB",
-      "observed": "2026-11-20T18:10:00+00:00",
-      "source": "Google Trends Trending Now RSS",
-      "url": "https://trends.google.com/trending/rss?geo=GB",
-      "note": "Search spike · approx traffic is an estimated bucket, not a verified total.",
-      "metric": {
-        "value": "500+",
-        "label": "approx. search volume"
-      }
-    },
-    {
-      "id": "google-9ac95f7c15119c5c",
-      "type": "trend",
-      "title": "farul constanța - „u” cluj",
-      "region": "GB",
-      "observed": "2026-11-20T18:10:00+00:00",
-      "source": "Google Trends Trending Now RSS",
-      "url": "https://trends.google.com/trending/rss?geo=GB",
-      "note": "Search spike · approx traffic is an estimated bucket, not a verified total.",
-      "metric": {
-        "value": "200+",
-        "label": "approx. search volume"
-      }
-    },
-    {
-      "id": "google-239d29e02516a7a6",
-      "type": "trend",
-      "title": "wales v australia",
-      "region": "GB",
-      "observed": "2026-11-20T18:10:00+00:00",
-      "source": "Google Trends Trending Now RSS",
-      "url": "https://trends.google.com/trending/rss?geo=GB",
-      "note": "Search spike · approx traffic is an estimated bucket, not a verified total.",
-      "metric": {
-        "value": "200+",
-        "label": "approx. search volume"
-      }
-    },
-    {
-      "id": "google-f9ae0bb589de90b2",
-      "type": "trend",
-      "title": "taylor swift",
-      "region": "US",
-      "observed": "2026-11-20T18:00:00+00:00",
-      "source": "Google Trends Trending Now RSS",
-      "url": "https://trends.google.com/trending/rss?geo=US",
-      "note": "Search spike · approx traffic is an estimated bucket, not a verified total.",
-      "metric": {
-        "value": "10000+",
-        "label": "approx. search volume"
-      }
-    },
-    {
-      "id": "google-64bf3dc8067cc3e3",
-      "type": "trend",
-      "title": "marco rubio",
-      "region": "US",
-      "observed": "2026-11-20T18:00:00+00:00",
+      "observed": "2026-11-21T00:00:00+00:00",
       "source": "Google Trends Trending Now RSS",
       "url": "https://trends.google.com/trending/rss?geo=US",
       "note": "Search spike · approx traffic is an estimated bucket, not a verified total.",
@@ -561,11 +379,39 @@
       }
     },
     {
-      "id": "google-aa4d93f061327ff5",
+      "id": "google-1ecb90685059c591",
       "type": "trend",
-      "title": "temple basketball",
+      "title": "us canada military relationship restrictions",
       "region": "US",
-      "observed": "2026-11-20T18:00:00+00:00",
+      "observed": "2026-11-21T00:00:00+00:00",
+      "source": "Google Trends Trending Now RSS",
+      "url": "https://trends.google.com/trending/rss?geo=US",
+      "note": "Search spike · approx traffic is an estimated bucket, not a verified total.",
+      "metric": {
+        "value": "500+",
+        "label": "approx. search volume"
+      }
+    },
+    {
+      "id": "google-2cba68f18614c6c8",
+      "type": "trend",
+      "title": "nocturne apple tv",
+      "region": "US",
+      "observed": "2026-11-21T00:00:00+00:00",
+      "source": "Google Trends Trending Now RSS",
+      "url": "https://trends.google.com/trending/rss?geo=US",
+      "note": "Search spike · approx traffic is an estimated bucket, not a verified total.",
+      "metric": {
+        "value": "2000+",
+        "label": "approx. search volume"
+      }
+    },
+    {
+      "id": "google-9f33e619c0bc0072",
+      "type": "trend",
+      "title": "junior perez orioles signing",
+      "region": "US",
+      "observed": "2026-11-21T00:00:00+00:00",
       "source": "Google Trends Trending Now RSS",
       "url": "https://trends.google.com/trending/rss?geo=US",
       "note": "Search spike · approx traffic is an estimated bucket, not a verified total.",
@@ -575,13 +421,27 @@
       }
     },
     {
-      "id": "google-602700e31c44e92b",
+      "id": "google-f380ef57d28ab292",
       "type": "trend",
-      "title": "home and away",
-      "region": "GB",
-      "observed": "2026-11-20T18:00:00+00:00",
+      "title": "iu basketball",
+      "region": "US",
+      "observed": "2026-11-20T23:50:00+00:00",
       "source": "Google Trends Trending Now RSS",
-      "url": "https://trends.google.com/trending/rss?geo=GB",
+      "url": "https://trends.google.com/trending/rss?geo=US",
+      "note": "Search spike · approx traffic is an estimated bucket, not a verified total.",
+      "metric": {
+        "value": "2000+",
+        "label": "approx. search volume"
+      }
+    },
+    {
+      "id": "google-6823e2dd69f83be1",
+      "type": "trend",
+      "title": "ohsaa football playoffs",
+      "region": "US",
+      "observed": "2026-11-20T23:50:00+00:00",
+      "source": "Google Trends Trending Now RSS",
+      "url": "https://trends.google.com/trending/rss?geo=US",
       "note": "Search spike · approx traffic is an estimated bucket, not a verified total.",
       "metric": {
         "value": "1000+",
@@ -589,11 +449,123 @@
       }
     },
     {
-      "id": "google-ddebba2fb70f2317",
+      "id": "google-587b7d8426239b16",
       "type": "trend",
-      "title": "helen fraser",
+      "title": "bethesda fallout cat game announcement",
+      "region": "US",
+      "observed": "2026-11-20T23:50:00+00:00",
+      "source": "Google Trends Trending Now RSS",
+      "url": "https://trends.google.com/trending/rss?geo=US",
+      "note": "Search spike · approx traffic is an estimated bucket, not a verified total.",
+      "metric": {
+        "value": "200+",
+        "label": "approx. search volume"
+      }
+    },
+    {
+      "id": "google-36f79e941a318409",
+      "type": "trend",
+      "title": "pancreatic cancer drug daraxonrasib",
       "region": "GB",
-      "observed": "2026-11-20T18:00:00+00:00",
+      "observed": "2026-11-20T23:50:00+00:00",
+      "source": "Google Trends Trending Now RSS",
+      "url": "https://trends.google.com/trending/rss?geo=GB",
+      "note": "Search spike · approx traffic is an estimated bucket, not a verified total.",
+      "metric": {
+        "value": "5000+",
+        "label": "approx. search volume"
+      }
+    },
+    {
+      "id": "google-8a0ba972a7a57182",
+      "type": "trend",
+      "title": "pacers vs cavaliers",
+      "region": "US",
+      "observed": "2026-11-20T23:40:00+00:00",
+      "source": "Google Trends Trending Now RSS",
+      "url": "https://trends.google.com/trending/rss?geo=US",
+      "note": "Search spike · approx traffic is an estimated bucket, not a verified total.",
+      "metric": {
+        "value": "5000+",
+        "label": "approx. search volume"
+      }
+    },
+    {
+      "id": "google-95544c8973fd7421",
+      "type": "trend",
+      "title": "bowling green vs toledo",
+      "region": "US",
+      "observed": "2026-11-20T23:40:00+00:00",
+      "source": "Google Trends Trending Now RSS",
+      "url": "https://trends.google.com/trending/rss?geo=US",
+      "note": "Search spike · approx traffic is an estimated bucket, not a verified total.",
+      "metric": {
+        "value": "1000+",
+        "label": "approx. search volume"
+      }
+    },
+    {
+      "id": "google-6261c58f58f55913",
+      "type": "trend",
+      "title": "nick saban national championship picks",
+      "region": "US",
+      "observed": "2026-11-20T23:40:00+00:00",
+      "source": "Google Trends Trending Now RSS",
+      "url": "https://trends.google.com/trending/rss?geo=US",
+      "note": "Search spike · approx traffic is an estimated bucket, not a verified total.",
+      "metric": {
+        "value": "200+",
+        "label": "approx. search volume"
+      }
+    },
+    {
+      "id": "google-152e5947109ce2df",
+      "type": "trend",
+      "title": "royal news",
+      "region": "GB",
+      "observed": "2026-11-20T23:40:00+00:00",
+      "source": "Google Trends Trending Now RSS",
+      "url": "https://trends.google.com/trending/rss?geo=GB",
+      "note": "Search spike · approx traffic is an estimated bucket, not a verified total.",
+      "metric": {
+        "value": "2000+",
+        "label": "approx. search volume"
+      }
+    },
+    {
+      "id": "google-e92aa7063f5a9e84",
+      "type": "trend",
+      "title": "jesse plemons",
+      "region": "GB",
+      "observed": "2026-11-20T23:40:00+00:00",
+      "source": "Google Trends Trending Now RSS",
+      "url": "https://trends.google.com/trending/rss?geo=GB",
+      "note": "Search spike · approx traffic is an estimated bucket, not a verified total.",
+      "metric": {
+        "value": "100+",
+        "label": "approx. search volume"
+      }
+    },
+    {
+      "id": "google-fbad1a88579bc572",
+      "type": "trend",
+      "title": "fall",
+      "region": "GB",
+      "observed": "2026-11-20T23:30:00+00:00",
+      "source": "Google Trends Trending Now RSS",
+      "url": "https://trends.google.com/trending/rss?geo=GB",
+      "note": "Search spike · approx traffic is an estimated bucket, not a verified total.",
+      "metric": {
+        "value": "2000+",
+        "label": "approx. search volume"
+      }
+    },
+    {
+      "id": "google-b983ebd5f81ecc7b",
+      "type": "trend",
+      "title": "bowling alley safe code gta 6",
+      "region": "GB",
+      "observed": "2026-11-20T23:30:00+00:00",
       "source": "Google Trends Trending Now RSS",
       "url": "https://trends.google.com/trending/rss?geo=GB",
       "note": "Search spike · approx traffic is an estimated bucket, not a verified total.",
@@ -603,11 +575,25 @@
       }
     },
     {
-      "id": "google-65428f90c88790ff",
+      "id": "google-3153b89f90524746",
       "type": "trend",
-      "title": "marco rubio",
+      "title": "dakota fanning",
       "region": "GB",
-      "observed": "2026-11-20T18:00:00+00:00",
+      "observed": "2026-11-20T23:30:00+00:00",
+      "source": "Google Trends Trending Now RSS",
+      "url": "https://trends.google.com/trending/rss?geo=GB",
+      "note": "Search spike · approx traffic is an estimated bucket, not a verified total.",
+      "metric": {
+        "value": "100+",
+        "label": "approx. search volume"
+      }
+    },
+    {
+      "id": "google-a1fb8ac2e31fcd89",
+      "type": "trend",
+      "title": "jaguar land rover byd lawsuit",
+      "region": "GB",
+      "observed": "2026-11-20T23:20:00+00:00",
       "source": "Google Trends Trending Now RSS",
       "url": "https://trends.google.com/trending/rss?geo=GB",
       "note": "Search spike · approx traffic is an estimated bucket, not a verified total.",
@@ -617,11 +603,25 @@
       }
     },
     {
-      "id": "google-8b3d99b6fdbeb2f5",
+      "id": "google-bc905d9c05eb5e5b",
       "type": "trend",
-      "title": "jimmy carter",
+      "title": "devdutt padikkal",
       "region": "GB",
-      "observed": "2026-11-20T17:50:00+00:00",
+      "observed": "2026-11-20T23:20:00+00:00",
+      "source": "Google Trends Trending Now RSS",
+      "url": "https://trends.google.com/trending/rss?geo=GB",
+      "note": "Search spike · approx traffic is an estimated bucket, not a verified total.",
+      "metric": {
+        "value": "5000+",
+        "label": "approx. search volume"
+      }
+    },
+    {
+      "id": "google-f8a294a6ba6b6c66",
+      "type": "trend",
+      "title": "robbie williams",
+      "region": "GB",
+      "observed": "2026-11-20T23:20:00+00:00",
       "source": "Google Trends Trending Now RSS",
       "url": "https://trends.google.com/trending/rss?geo=GB",
       "note": "Search spike · approx traffic is an estimated bucket, not a verified total.",
@@ -631,28 +631,94 @@
       }
     },
     {
-      "id": "google-4645b71121a73db0",
+      "id": "google-11bc0cced508381e",
       "type": "trend",
-      "title": "barnsley fc",
+      "title": "maysilee donner",
       "region": "GB",
-      "observed": "2026-11-20T17:50:00+00:00",
+      "observed": "2026-11-20T23:10:00+00:00",
       "source": "Google Trends Trending Now RSS",
       "url": "https://trends.google.com/trending/rss?geo=GB",
       "note": "Search spike · approx traffic is an estimated bucket, not a verified total.",
       "metric": {
-        "value": "200+",
+        "value": "100+",
         "label": "approx. search volume"
       }
     },
     {
-      "id": "news-7101e876f710fd05",
+      "id": "news-2230f79f32283e61",
+      "type": "news",
+      "category": "fashion",
+      "title": "How to Style Wide-Leg Jeans, According to the Street Style Set",
+      "region": "US / UK",
+      "observed": "2026-11-20T20:30:12+00:00",
+      "source": "Vogue",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAtSnZ4SE84SFA1LUJWX1FuNjFEVUpvcUFuTXcyS3lITHo4dnJEclctLXF1Y0h4LTdJakVOVFVCNTgzUnVieFNaMlowdWM1Q00tSzF4QjVzdC0zc2szb1MwdDFkZ280THFo?oc=5",
+      "note": "News mention only; publication does not prove popularity."
+    },
+    {
+      "id": "news-e44af3a638c53688",
+      "type": "news",
+      "category": "fashion",
+      "title": "Why Kate has ditched her trusty dresses for power suits on royal tours",
+      "region": "US / UK",
+      "observed": "2026-11-20T19:00:00+00:00",
+      "source": "Nine.com.au",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPV21hcVdMV2U3QlJYcnRHTTByYzd0ZHBxdFBvbTNQdU5xZTZhUHdwSWEtZ0pzYzBwc2YyS25QbTJIQUFQS2kwLTBOYnBXbFFoNWpESzJxX01ITUtfc1FfLWoxMlJrRTNvd0hrUHVYRE1PajBET0ROZzhiTlNBRFpYQ3lvY3J4VmZINy0zYml2WDlLUnktTmFVTmhJUXgwdXVxZk40NjF6eGpwYmNRQjJwRldnelE0bmpMN3BXeFdRX3RDOVlwMEQ0UE1Rdw?oc=5",
+      "note": "News mention only; publication does not prove popularity."
+    },
+    {
+      "id": "news-d1d2171985ea4157",
+      "type": "news",
+      "category": "fashion",
+      "title": "A New Azzedine Alaïa Exhibition Celebrates the Designer Who Refused to Follow Fashion’s Rules",
+      "region": "US / UK",
+      "observed": "2026-11-20T18:56:00+00:00",
+      "source": "ELLE",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOQXRJc3NyZndlY2FsbFNxMXJSVWxCXzJnc1ZYaExBZ0lUZ3VlbkhMNTMwZGo4ekJ1eXRCZXFRRDlVUVdDQnJGdFUyN2htMmNDdHhpLW1JUmNBU2NsbFA3MUwxeVBKRHZFTVJMeDFUWW9DZVhkUm9Bbk9ZeEl3Nm5HSEFNMzYyc0x6R2lVQWlZcE1vSTZ0eTBoTEFtODNFZTJj?oc=5",
+      "note": "News mention only; publication does not prove popularity."
+    },
+    {
+      "id": "news-da201469aa6d392a",
+      "type": "news",
+      "category": "fashion",
+      "title": "Fur crop jackets are taking over celebrity winter fashion",
+      "region": "US / UK",
+      "observed": "2026-11-20T18:44:37+00:00",
+      "source": "HOLA",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPSUljX25jWFBZRm5NUzlBNVh4QUZ3enJBQ21vcFFTTDRUSkNSU1hucGlCejhObk5NUlZqanBtb0pHbEZtNXRmM3U1S2lFY0hteXVKRWQ5RGlVWGNERGFOS251X3JDWDJneXlxY1B2Wmk2Qzk3ZFRISnJsRUd6Zm9ZTDZ0c0RrTkFYV0tGNUdybGppbFE?oc=5",
+      "note": "News mention only; publication does not prove popularity."
+    },
+    {
+      "id": "news-7cc5ca79e0ff5b5d",
+      "type": "news",
+      "category": "fashion",
+      "title": "The Balaclava Had Its Moment. Now Fashion Girls Are Turning to This Cozy Alternative",
+      "region": "US / UK",
+      "observed": "2026-11-20T17:14:34+00:00",
+      "source": "Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPUkZTQWl4dWUxcEExaFJpaV9PV0JmYjlEOXJOd1RQSVpEWFYyWlhOYXBNd3BmbjN6T3BEMkVnVmVYYmRxMl9Pb2Mwa2plTjJ0NE5oVjBpbUNhakVXX3hCRDQ5WFBsYnpNNGxVeHRPNzRyN3ltV3NHaS1ybENKUEhrUWViVG1CU2doMTlMTmx1azdPeWNZMFNoNUVEUkhMZ2dBZWxN?oc=5",
+      "note": "News mention only; publication does not prove popularity."
+    },
+    {
+      "id": "news-fce817bf197f9d6f",
       "type": "news",
       "category": "beauty",
-      "title": "Taylor Swift’s Burgundy Wine Manicure Is the Winter Nail Trend to Try",
+      "title": "Taylor Swift’s Burgundy Wine Manicure Is the Winter Nail Color to Know",
       "region": "US / UK",
       "observed": "2026-11-20T16:54:00+00:00",
       "source": "ELLE",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQMVFfQjJBX25hN09pcG1WV2tDdW5Vd1lWS2FfYUUwam1zVmR3OTJxVG5UaG1CLVBCandCTEp3N0NFQkNkMk9CeGUtWWxYSmxuQkhubnAtLWdaQ2plTzJ4Y3Z0cWF4a1dCbU1ja09rTTB1M1o1NGtBT1VsUmZqWUgwdlRoTHBscFMzUERUWnItT1NBQQ?oc=5",
+      "note": "News mention only; publication does not prove popularity."
+    },
+    {
+      "id": "news-211d19f3195ea3d9",
+      "type": "news",
+      "category": "internet",
+      "title": "What to know about the viral 'Cat in the Hat' trend prompting school warnings",
+      "region": "US / UK",
+      "observed": "2026-11-20T15:43:35+00:00",
+      "source": "ABC News - Breaking News, Latest News and Videos",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPeWoteU05RnRIT3JaOF9WNnBsZHFjalhBeTVoc0lWa2tQVy0yT0FCbnBEakoxcGUyeFl5YTVnMmx2SW13Q29GSlFMdWY0SEtELWJudVZSYTRJRVVrSnphQ0NCeTZEeFlpQnBvbTJ5WmwtV2NFS3dQaTAyaEdWSm5mUHF5QWFMc3lLY2MyWC1nbmV5S29tSkg1MTltc0NxYTNnOERz0gGoAUFVX3lxTE1VRVJwNDh0ZGlzYl83Z2xPa1hTNXdmWm5WRndqaDVHZks4RV9rY3BySGt0RGNJSE51Rm50d1pfek9LX0NOYnNMZXNRTkxneHJuUTRXQUtmR1htUnB3T3dvSDlDOHZ1NWxiNWNuSDJWNkczakYtTldkNnprdXBpckw1Qm5ucmxhQ0pHNVY5dlF3OFhYb3FsSGFhbzhmaVBteU5zR1NONm5BUg?oc=5",
       "note": "News mention only; publication does not prove popularity."
     },
     {
@@ -678,36 +744,47 @@
       "note": "News mention only; publication does not prove popularity."
     },
     {
-      "id": "news-aa79fbda6011115f",
+      "id": "news-ec88d85278d55b98",
       "type": "news",
-      "category": "music",
-      "title": "What Chess Records Can Teach You About Finding Talent The World Has Overlooked",
+      "category": "culture",
+      "title": "For London, new luxury hotels and cultural exhibits for 2027",
       "region": "US / UK",
-      "observed": "2026-11-20T14:11:55+00:00",
-      "source": "That Eric Alper",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQMFRnTFRxUTNDaXk5YkFTNFNkblgzQmtrZTZtR0drQmJUUUU1MWVsWHYtZXRfWktfNmhpVjQ3NHlFX0FrZXQ0Yi1fdDI4S3htci1zU01SaGJGLXNhVy1rT09sZFhPSzh2ZXFpLTRsamdpOUNvNUR3WkVaY3RTTFd6S2lKdEg3bmFfc01SM1E3ZDlSNU1EWUd2TzhaWkJ6SnlKM0l4eVEtNXg5SFdxMzZTRTRsWkdwZjgtN3BOdA?oc=5",
+      "observed": "2026-11-20T12:53:08+00:00",
+      "source": "Travel Weekly",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQVjdmcmtKQmFNUXFUYkN6ZGtEbXl1OC1DYWd6OU5oOFNSSXl3ZjFVWVQ2cXRNaXl3eGZBSUdJRWZwc2RkV2ZZT3FBOTdWMTNvQ2JRa0tGZGVRSTFya3ByZkxnZzhLQlBCMi04bTYydlFVMTVrUjhSVFA0ZXBxSkRGbGRCcUs1OV85dDliTzl5ZkhWVUxZZ2VDVXNud0RaT0I4cmoyUlk1WQ?oc=5",
       "note": "News mention only; publication does not prove popularity."
     },
     {
-      "id": "news-075ff6a8d25dc0b9",
+      "id": "news-1af1eb8db6bf1482",
       "type": "news",
-      "category": "fashion",
-      "title": "From Sequins To Classic Whites: Breaking Down Kavya Maran, Anirudh Ravichander's Pre-Wedding Looks",
+      "category": "culture",
+      "title": "Beyond the Streets: Rebellion, Subculture and Self-Expression at Saatchi Gallery",
       "region": "US / UK",
-      "observed": "2026-11-20T12:03:39+00:00",
-      "source": "NDTV",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPS3cxZjVRNF9hUlNrX1JCN29SYnlUSl9yZXhDOXBuTlBJbzJJSGN1TGJ3d0VudWk2MnlkeXZtRGl6aERHSl8wZEtoNUx6V3BHUTIwbEZhcjkwT2lHX3R4VnF0YnY1YTNtT3pwc0FFUTJOOG50Ymg3Y245WmVrd2JlOTVWZUloZ3o5NGVjZzJzYUpJZjRJaEVLTkh6QzVadUMxTlR3M1Y1MEhSRm4xdjZnZ082ZUlBQVl4ODdOdDJMd2dLcjZUTVNyT0tONVF3ajNo0gHYAUFVX3lxTE4xYUxKMzFiRml5SElOWWtNYi1kc3piaFJyS3cyRlRzMV8zRmNTMXJPekJBcm9OMlpYUXBGd2VQSi0tdzI2ck1qX05RT0tMY0xhdGFxX2Z5dS1BMnJpWV9iZWNkMGVLZnpWcmN2ZkZnSlN0M2RQV0JGOVFSMmx6bV84Y0xuRWw2a25lZFhXcTFTdWtVV1ZfY2JBakRrMng3Y3pUQlpvdldXR0xPck9yeFBYNi1JeTBjNlVrdEhaejRubk90WG4tc1VKd0FKTlBLbHpoTlB3WEpGeQ?oc=5",
+      "observed": "2026-11-20T12:43:57+00:00",
+      "source": "FAD Magazine",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPLUxHdkl4cWxlWkhjSWpaVS15eE5YT2NDTHZfcFpOLWl3czhpc3B5QUhFMHhYRFhwc2YzMmFXRGRPSkdSel95clprRWxhanFIUThvdmJ4WXdVdFNSb0FBOGZnVy1wTncxdks5RnZvczRjZ3BRcm1YekhRZVBhV0Q5UU9rNA?oc=5",
       "note": "News mention only; publication does not prove popularity."
     },
     {
-      "id": "news-9d26e7b71e3ae32d",
+      "id": "news-390203d128eea745",
       "type": "news",
       "category": "beauty",
-      "title": "Not Just Merlot and Dark Chocolate—the 8 Pedicure Trends That Look Extra Chic This Winter",
+      "title": "Not Just Merlot and Dark Chocolate—Meet the 8 Pedicure Trends That Look Extra Chic This Winter",
       "region": "US / UK",
       "observed": "2026-11-20T12:00:00+00:00",
       "source": "Who What Wear",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBvaHdoRHV4WHQ2ZU5uajQzYjdLLUhWdFBUUGY0ZkwtTGZjUTcwVTE3blRkTlJTMXd0N1RLYzRkenBROEszV1h6Qld5b25IdnBOWGtOUHVSSFA4b1k5QXlORHp5bVlaSFdZeGp0WDdsYjJOdFh4OHo0?oc=5",
+      "note": "News mention only; publication does not prove popularity."
+    },
+    {
+      "id": "news-2a9ab2f741f0a6d1",
+      "type": "news",
+      "category": "culture",
+      "title": "Society for Experiential Graphic Design names winners of 2026 SEGD Global Design Awards",
+      "region": "US / UK",
+      "observed": "2026-11-20T11:44:10+00:00",
+      "source": "blooloop",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5HU0JRWkVkeGFKdEVyRmhyY2JnOXRsQU16cTUwRWFvRURkUWZ1ZHZFLVphaFpVM29hTWVVZ0IzVE1nSHRoQ3hCSkl3WFRsMlBOdzE2eGd2NnRDVTJzUFFrUnZ3?oc=5",
       "note": "News mention only; publication does not prove popularity."
     },
     {
@@ -755,17 +832,6 @@
       "note": "News mention only; publication does not prove popularity."
     },
     {
-      "id": "news-d0ba186f28dca7d7",
-      "type": "news",
-      "category": "internet",
-      "title": "‘Before GTA 6’ meme had a glorious run, and now it lives forever inside Vice City | Trending",
-      "region": "US / UK",
-      "observed": "2026-11-20T02:09:48+00:00",
-      "source": "Hindustan Times",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQUms0WEhQbGZfOEdCSHh4dEtwY3BMTU1HN0xpRkN6TVhGZGFEQW1DeFZ0NkpMTjJvMlhibmd5anh0bW5wOEtrYlF5b24xcHBpdC1ERzZqVG42U3d3T3JVYllCSDBjMHhPVWI2V1gyVTQwd0FSWEt1c0o3bXEyM3VmOVdYdGp5ZWd6R0p2RWh1QlhxMGZWbmh2TDd1X0UyUk1EVnFtc0MyaTQwSC1Uc09RWUItanhudnFPMDJMRTNUZTljNDlrRGdSTXZvakwzUHlGbnhXZnc2S3h6ZDTSAdsBQVVfeXFMUFJrNFhIUGxmXzhHQkh4eHRLcGNwTE1NRzdMaUZDek1YRmRhREFtQ3hWdDZKTE4ybzJYYm5neWp4dG1ucDhLa2JReW9uMXBwaXQtREc2alRuNlN3d09yVWJZQkgwYzB4T1ViNldYMlU0MHdBUlhLdXNKN21xMjN1ZjlXWHRqeWVnekdKdkVodUJYcTBmVm5odkw3dV9FMlJNRFZxbXNDMmk0MEgtVHNPUVlCLWp4bnZxTzAyTEUzVGU5YzQ5a0RnUk12b2pMM1B5Rm54V2Z3Nkt4emQ0?oc=5",
-      "note": "News mention only; publication does not prove popularity."
-    },
-    {
       "id": "news-fd664f6385041a97",
       "type": "news",
       "category": "internet",
@@ -774,6 +840,17 @@
       "observed": "2026-11-19T23:00:00+00:00",
       "source": "Yahoo News Singapore",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5kelBKTi01UkJ6Mjh1MTczTGF3Z1pnVm1MTlJ5UzhtYVU0Q2RiQzhtTXA0b0l1N2xGdzhXNDE2WnhmR1VfX0IwNXlKMDJsOFRqUUdqRmtZOHpmZEQyWDVJcTlXU2ZWRTNPLWstenlIN1BXekdDY2c?oc=5",
+      "note": "News mention only; publication does not prove popularity."
+    },
+    {
+      "id": "news-969c9af608c27a14",
+      "type": "news",
+      "category": "fashion",
+      "title": "“It Was Never About Fashion”: Emily in Paris’s Costume Designer Reveals the Method to Her Madness",
+      "region": "US / UK",
+      "observed": "2026-11-19T21:33:09+00:00",
+      "source": "Harper's BAZAAR",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNVldFZDh6Q19uNVRuczVVQnNMcUViRXlaS0VzUVpSMHhBbjMzek1iQjZJLW1DeGVrZXQteW5uQzdoc3dZSVVISmtaTFhkUTk4bGM5QnhDMURfWS1IN3FJRExjajBrVkJwdTJReXRURV9FNUtITkt5NjhSSDZxbUYwV2pqaGJZOXRFWUJWYjV3WWVnNjBBN2kzeXFXWUlhM1JlR0VSTQ?oc=5",
       "note": "News mention only; publication does not prove popularity."
     },
     {
@@ -799,17 +876,6 @@
       "note": "News mention only; publication does not prove popularity."
     },
     {
-      "id": "news-12d1007f92605364",
-      "type": "news",
-      "category": "culture",
-      "title": "Frist Art Museum Presents Major Exhibition Showcasing Dazzling Art and Vibrant Culture of the Mughal Empire’s Golden Age",
-      "region": "US / UK",
-      "observed": "2026-11-19T18:02:42+00:00",
-      "source": "markets.businessinsider.com",
-      "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQaXlLOHg4OFBFM2Y3TXdqX1NfSnFQMUMtVmk4cE0zVHc2TFNhZWxxbC1SakYyQWItSHpRV1I3YmlFbVBQZUFZMmVxMnZrSkd3LXFkTDRXTkgyb2pob3dKR3NwNUhwT1pSQnB6dHdsVzZsSmZkNGFCUU9yTWJWWWlkNlA1TU4yOHBPM0RhbVJQWlZwaENqQzhkay05YlBScmNJbTF5NjF0alBtXzVNTm5uTnJMMmozYVZ4RjFfNU1MMDBRb3hKRktCbjdpTDdtWG1wUk1xcGpUSk81aVhubXgzUGZpV1oyeFRXRkx0eDNIQTF6R09HVGV3cWtnck9zYTV2QXdYMnpBLWJFWHM?oc=5",
-      "note": "News mention only; publication does not prove popularity."
-    },
-    {
       "id": "news-e50b616032015d9c",
       "type": "news",
       "category": "fashion",
@@ -818,28 +884,6 @@
       "observed": "2026-11-19T13:42:47+00:00",
       "source": "Fashion United",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZE1XSXpWYlh2OS1HZkNHY3ZSTUY0UXpiZUVDeFpfSVZ5Y2ZFRXpwaDd3aEJjTzJrU3ZwUDNnb1dLOWs5UnI4Wm9wN0Q5MlF5ZXBMRGlNR3R6TXBmTG5Ic2pscXd5bVROWm13akktdUtkRV9YNHY3ak9tZ3Qxa0NDamN0N0tWU0tydmFiQU9kUTBZVHRBeXc?oc=5",
-      "note": "News mention only; publication does not prove popularity."
-    },
-    {
-      "id": "news-e12356567a537ba0",
-      "type": "news",
-      "category": "fashion",
-      "title": "30 Years Later, This Timeless Outfit Formula Is Still an It Girl Go-To",
-      "region": "US / UK",
-      "observed": "2026-11-19T11:41:30+00:00",
-      "source": "Who What Wear",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOeE04eUtyWHMxMkNqdGVDMXQwZzRFSnNxOXNRNllsbVByTUlRaVVhZHVaY0oycGE5eDRaSDRKczFDaVFrMkJkS21IRWFSR2lwN0x4OTRncWFTZW1YcWhudnpqZ3BDV3ZYd0FJS05TVW9wUzhCems5LS1LbHRvNzVRY1lBTUJ5MVQtQzF6cTNEdEhUWVM2WEpXN25TYkYya2d3UmRsTTEwbnhOYmdHdWpTRnRZR1Z5SDZ2VG9Z?oc=5",
-      "note": "News mention only; publication does not prove popularity."
-    },
-    {
-      "id": "news-30d691d250974e76",
-      "type": "news",
-      "category": "fashion",
-      "title": "Just Browsing: The H&M Studio Styles I’m Backing for Party Season and Beyond",
-      "region": "US / UK",
-      "observed": "2026-11-19T11:00:00+00:00",
-      "source": "Vogue",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1lNm52dTNKZXRwMjNySzdMUy1tUmpPVWlFaVY4M2dBeDRabVBJUzVhNDd2SVcxdUp4czVMU1hNZjJjU2RsOEJIY3NnaVd4TUFiLU5VTlBHZnZ5LUljNDdHOWpnTkVWZ2p6YnFyZTk5RQ?oc=5",
       "note": "News mention only; publication does not prove popularity."
     },
     {
@@ -865,14 +909,14 @@
       "note": "News mention only; publication does not prove popularity."
     },
     {
-      "id": "news-464bb99c30ef3a83",
+      "id": "news-b20935595471c09f",
       "type": "news",
-      "category": "fashion",
-      "title": "Taylor Swift's Oscar de la Renta and Erdem Dresses at the 2026 CMA Awards Elevate Her Country Era",
+      "category": "music",
+      "title": "African music is taking over the world | International Relations Beyond the West",
       "region": "US / UK",
-      "observed": "2026-11-19T02:34:24+00:00",
-      "source": "Marie Claire",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOdnR3aGNkLXdiR3dibUlwclQ4UTczU0NVWktITmFIRDA0dUtEWDVkdU44RktKRUFnX09nTGJSTHFIV0MtNkRkQzZYcUh3TWJFemgtMm12bE5jb3dGY2Eyc0w0T2Q2emFNNHotbjlsZEZUa1pQaFdjaGQ3ZVZiN2JyRVhNclpUQWhrNUJWb0ZFTDA1VG9QaUhsWmlZaFRDbUtRR1J3cUlORE5QbFpPZmVOWTZkdVJyMU0?oc=5",
+      "observed": "2026-11-19T02:59:52+00:00",
+      "source": "The Daily Free Press",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOVWstckd6NGV3NkNKcFBQZ3J2dFRqeE9Xb0VqeUYxNkIxTHk0OE9VbDZ0bkU0YkNTZWNQZE1NVGdKMGZ2bWpubFhmbjU3dG9uLXRSREhiMC1sYUNMQVQtUjBkemVSRDVkU0Fja0FaV3JCMWV6LVhYai1yWnVzRnNNTFRxZDlLV2FBTDdsNVhJLV9pTGhNTEVZWWxEVGFoY01BOU5EUzJORG5BM1drQjZZVkZWdU9VTU5tLU5JNFlGWQ?oc=5",
       "note": "News mention only; publication does not prove popularity."
     },
     {
@@ -898,14 +942,14 @@
       "note": "News mention only; publication does not prove popularity."
     },
     {
-      "id": "news-b16e8751882a0e6a",
+      "id": "news-b439612f3035f0b4",
       "type": "news",
       "category": "fashion",
-      "title": "Karl Kani dressed hip-hop royalty for decades. Now he's telling his own story",
+      "title": "The New York Times. . Over the past year, J.Crew has released a few new silhouettes of its signature Rollneck sweater. A panel of Wirecutter staffers — spanning sizes S to 2XL, petite to tall — tested five styles in the expanded collection ",
       "region": "US / UK",
-      "observed": "2026-11-18T18:15:59+00:00",
-      "source": "NPR",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1tRWRTOGRiVk13S1pIZjk1ZTNVbjJlMUxuZTA0ejIzR3ZSa25MU2JNQnFCeUpib0JnV2JybEZMaFdwLVhjRERLT0c0ajNyWEtLT3NkQ20ySVBRekNzblEzYWpHcTNHQTFNQ2IyR3dHRGpzVFpReUNtaw?oc=5",
+      "observed": "2026-11-18T18:40:16+00:00",
+      "source": "Facebook",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNdzI0OFpaZ0NMTlR3YUtHOEl6Q09NUm1ZZExickFwakZobkJNZFIxS1NJbG95YXdwM0hnbUpadUQ0c2hmMWFnc1F0SDA1WThvVVlzNGd0T3A5dDRRZlY5Nm9WVmxKLXJkbUhhMDB3TW1MVlZKSzdTeGx3SzJ6UkR6NmI2Ym5lcWQwM29xRnpNTDAzeUFPMzFwbTZKOWpGc0ZJNDBkNUxuaEowTi1lS0FQd216RUhZSU43VmExTVlwVGJYemRlTmNkaUJqTkFXcU9xd0xnMw?oc=5",
       "note": "News mention only; publication does not prove popularity."
     },
     {
@@ -920,28 +964,6 @@
       "note": "News mention only; publication does not prove popularity."
     },
     {
-      "id": "news-f803290ca562e776",
-      "type": "news",
-      "category": "fashion",
-      "title": "The 8 Things Fashion People Always Notice About an Outfit",
-      "region": "US / UK",
-      "observed": "2026-11-18T11:00:00+00:00",
-      "source": "Who What Wear",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE45a2xwNndYblpuTDJxdVNncUVzNHktd05aLWdPS09va2dMNkZkMHZtZmstMVhzMm5lTzRVWlFackh2S1Z0ZldwVUxCNWxyOFdyamZpd3RtUGZRSFk1T3dEYnZHTUVtM0tROUlQOXdB?oc=5",
-      "note": "News mention only; publication does not prove popularity."
-    },
-    {
-      "id": "news-ba5060f4d34db470",
-      "type": "news",
-      "category": "fashion",
-      "title": "COLUMN: Fashion at your fingertips: closet styling apps ranked",
-      "region": "US / UK",
-      "observed": "2026-11-18T06:00:00+00:00",
-      "source": "The Daily Nebraskan",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQYjRIRUdFVTJzU19oeWpPR2lMdmJpeDhzdjBoTVNHZTBkOE1mM3hwZ2hqMURRNHdUNXBROHFIdzZaRDNwMzA1a25pUGNHVkVNdGl1a3VjNDRUeXJrOEJMLTl3MzgwTER0RHlmWnoyTEpELWx6aVhQX3RGRl9OeFozcklUd3QzZUs0bzlLc2RKWVFIQVRBSnVkOEY2VTM3S3Q0VC00dzd5VGJNRHdnRmhyMHVFNTBQSUJjOVB4dEFYTVNHTEhQMXRBMWRTN0ZDSTRFVDZLQ1VUeEdhT0N2RHdDM3hXTQ?oc=5",
-      "note": "News mention only; publication does not prove popularity."
-    },
-    {
       "id": "news-4dbedf44d18343ce",
       "type": "news",
       "category": "fashion",
@@ -953,14 +975,14 @@
       "note": "News mention only; publication does not prove popularity."
     },
     {
-      "id": "news-6a7fb8c6131ffbfd",
+      "id": "news-e034210403c19934",
       "type": "news",
-      "category": "culture",
-      "title": "BEYOND THE STREETS Brings Over 100 Artists to London's Saatchi Gallery",
+      "category": "music",
+      "title": "After ‘Boston,’ Where Does Stella Lefty Go?",
       "region": "US / UK",
-      "observed": "2026-11-17T17:35:46+00:00",
-      "source": "Hypebeast",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9hT1QwM3k0ZDhoTjlvdG1WSmpZRUx2R2dma0R0UDJZTUdiaWlUOTUtbDlFOFRka1dyLVhLYmZVQ3JnRkx2b0l2UUNTamlQVjQ1QnEyTG9ad2JNUDJVV2xsYWtMbXEwYVVZTXBRVEUtRklreHhfQ0laTEJ4OA?oc=5",
+      "observed": "2026-11-17T10:03:43+00:00",
+      "source": "The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQTGptc0NKS0ZnaU83U3Y0d3piRWMxQmp5SExacDJiZHctSVZfcEtnU3R1Sk9aZVQxaV9lRUdSTEFvWUh4RkVwbUYzS3FXLXpHNlFuSTB1U3ZZZTBwNzd4dVh0elViekZlSGh6UVd1UmQ5WFRYNXBkbi1VX19kam5fMw?oc=5",
       "note": "News mention only; publication does not prove popularity."
     },
     {
@@ -984,371 +1006,730 @@
       "source": "WBOC TV",
       "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQV1ZpRDRhRHJibmpONnEyRl85S1RaakNwaC1iTncxcEo3aHVLWXpRdzdsVW1xTDAxbW00WXJ3dm84bDFKaUhwd3laU1pZdW4zZzBWZjVMVTdmZDlxN1RucndJU0hxbm9PNVhTdElWWEQteUlzWjZlRUZpRlhuRkpZZ3VyWGNGclRWNzlUTG1WYndzR3BHR3A1X2xHbVF5cEw2d3VqYmN6MGpGSlFhNGxnVkFoaVIteUowX2dQMlJZUjhNdTE3dFZMbHlxOUNlNExYSlZlcWQtM19rRngydTRxS29LcDkyclI3VkxTVG1YaEtIdlNkTFkzZW9reGpMOEU?oc=5",
       "note": "News mention only; publication does not prove popularity."
-    },
-    {
-      "id": "news-62fea4b17e6b1d2d",
-      "type": "news",
-      "category": "culture",
-      "title": "Meet the Maker Crafting Unbelievable Sculptures from Hand-Forged Pieces of Metal",
-      "region": "US / UK",
-      "observed": "2026-11-17T01:29:53+00:00",
-      "source": "Galerie Magazine",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBxU2FaVTRYRkhXWXNNQzhEaWNTMlo3d2x6T1BjZktKZk1NSkdLZmw5bVExZWFvU0o1NGl1RmJpTFVUR25BMzdHbzBNczRrQUdIRzdjNjE0cXNfRGYxZ09ObU1RN2Q?oc=5",
-      "note": "News mention only; publication does not prove popularity."
-    },
-    {
-      "id": "news-1e0c37d77aae6290",
-      "type": "news",
-      "category": "music",
-      "title": "What Did 1998 Actually Sound Like? A Look Back at the Year That Changed Pop Music",
-      "region": "US / UK",
-      "observed": "2026-11-16T22:32:48+00:00",
-      "source": "Billboard",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPWmdSVEQxN0liSzZoTHVtUUlKQ1l2LUxrY2trMHJZRHhSMmJ5WGFUXzdHT2ptMjFRTURxYmJCelRseTVLU3V2Rm1ZakhkNV9fRllzWUJNUGR3TFItdkFObmlvUmNoR0RxRDJCUHZ1cHlMdFNqYVRTNHhldW4zQkNTNVlaUFE2UE5kdVhpYkF4UQ?oc=5",
-      "note": "News mention only; publication does not prove popularity."
     }
   ],
   "charts": [
     {
-      "id": "spotify-688c8b3db20a1520",
+      "id": "spotify-851feeebc794ffbb",
       "type": "chart",
       "title": "#01 · KAROL G - BbY WOW (w/ Judeline , rusowsky )",
       "region": "GLOBAL",
-      "observed": "2026-11-12T12:00:00+00:00",
+      "observed": "2026-11-19T12:00:00+00:00",
       "source": "Kworb · Spotify weekly chart",
       "url": "https://kworb.net/spotify/country/global_weekly.html",
       "metric": {
-        "value": "33.20M",
+        "value": "31.66M",
         "label": "weekly streams"
       },
-      "note": "Weekly Spotify streams, compiled by Kworb. Chart date: 2026-11-12"
+      "note": "Weekly Spotify streams, compiled by Kworb. Chart date: 2026-11-19"
     },
     {
-      "id": "spotify-d1be40f3871e22f8",
+      "id": "spotify-bdbae30db8b5c6f7",
       "type": "chart",
-      "title": "#02 · Tate McRae - Housewife",
+      "title": "#02 · Ashe - Stop The Wedding!",
       "region": "GLOBAL",
-      "observed": "2026-11-12T12:00:00+00:00",
+      "observed": "2026-11-19T12:00:00+00:00",
       "source": "Kworb · Spotify weekly chart",
       "url": "https://kworb.net/spotify/country/global_weekly.html",
       "metric": {
-        "value": "30.77M",
+        "value": "30.90M",
         "label": "weekly streams"
       },
-      "note": "Weekly Spotify streams, compiled by Kworb. Chart date: 2026-11-12"
+      "note": "Weekly Spotify streams, compiled by Kworb. Chart date: 2026-11-19"
     },
     {
-      "id": "spotify-d11725190d4beb69",
+      "id": "spotify-4287ce5fb3645a24",
       "type": "chart",
-      "title": "#03 · Ashe - Stop The Wedding!",
+      "title": "#03 · Tate McRae - Housewife",
       "region": "GLOBAL",
-      "observed": "2026-11-12T12:00:00+00:00",
+      "observed": "2026-11-19T12:00:00+00:00",
       "source": "Kworb · Spotify weekly chart",
       "url": "https://kworb.net/spotify/country/global_weekly.html",
       "metric": {
-        "value": "29.14M",
+        "value": "25.47M",
         "label": "weekly streams"
       },
-      "note": "Weekly Spotify streams, compiled by Kworb. Chart date: 2026-11-12"
+      "note": "Weekly Spotify streams, compiled by Kworb. Chart date: 2026-11-19"
     },
     {
-      "id": "spotify-05d31e87b845f1e7",
+      "id": "spotify-1dda3d6a2acce92b",
       "type": "chart",
-      "title": "#04 · ADÃLA - Nicole Kidman",
+      "title": "#04 · Olivia Rodrigo - the cure",
       "region": "GLOBAL",
-      "observed": "2026-11-12T12:00:00+00:00",
+      "observed": "2026-11-19T12:00:00+00:00",
       "source": "Kworb · Spotify weekly chart",
       "url": "https://kworb.net/spotify/country/global_weekly.html",
       "metric": {
-        "value": "25.59M",
+        "value": "23.37M",
         "label": "weekly streams"
       },
-      "note": "Weekly Spotify streams, compiled by Kworb. Chart date: 2026-11-12"
+      "note": "Weekly Spotify streams, compiled by Kworb. Chart date: 2026-11-19"
     },
     {
-      "id": "spotify-75cb7b3ba822b136",
+      "id": "spotify-85c705555106157d",
       "type": "chart",
-      "title": "#05 · Olivia Rodrigo - the cure",
+      "title": "#05 · ADÃLA - Nicole Kidman",
       "region": "GLOBAL",
-      "observed": "2026-11-12T12:00:00+00:00",
+      "observed": "2026-11-19T12:00:00+00:00",
       "source": "Kworb · Spotify weekly chart",
       "url": "https://kworb.net/spotify/country/global_weekly.html",
       "metric": {
-        "value": "23.10M",
+        "value": "22.72M",
         "label": "weekly streams"
       },
-      "note": "Weekly Spotify streams, compiled by Kworb. Chart date: 2026-11-12"
+      "note": "Weekly Spotify streams, compiled by Kworb. Chart date: 2026-11-19"
     },
     {
-      "id": "spotify-0cd15ece61bf6c2b",
+      "id": "spotify-e9debdbcc516231d",
       "type": "chart",
       "title": "#06 · ADÃLA - Ain't In LA",
       "region": "GLOBAL",
-      "observed": "2026-11-12T12:00:00+00:00",
+      "observed": "2026-11-19T12:00:00+00:00",
       "source": "Kworb · Spotify weekly chart",
       "url": "https://kworb.net/spotify/country/global_weekly.html",
       "metric": {
-        "value": "22.32M",
+        "value": "20.88M",
         "label": "weekly streams"
       },
-      "note": "Weekly Spotify streams, compiled by Kworb. Chart date: 2026-11-12"
+      "note": "Weekly Spotify streams, compiled by Kworb. Chart date: 2026-11-19"
     },
     {
-      "id": "spotify-2e98f76078a36e9d",
+      "id": "spotify-d34309a9694edc0e",
       "type": "chart",
-      "title": "#07 · sombr - back to friends",
+      "title": "#07 · Jamie Miller - Babydoll",
       "region": "GLOBAL",
-      "observed": "2026-11-12T12:00:00+00:00",
+      "observed": "2026-11-19T12:00:00+00:00",
       "source": "Kworb · Spotify weekly chart",
       "url": "https://kworb.net/spotify/country/global_weekly.html",
       "metric": {
-        "value": "18.52M",
+        "value": "20.29M",
         "label": "weekly streams"
       },
-      "note": "Weekly Spotify streams, compiled by Kworb. Chart date: 2026-11-12"
+      "note": "Weekly Spotify streams, compiled by Kworb. Chart date: 2026-11-19"
     },
     {
-      "id": "spotify-a75033c616c2b725",
+      "id": "spotify-772df7bad58af1db",
       "type": "chart",
-      "title": "#08 · Jamie Miller - Babydoll",
+      "title": "#08 · Wham! - Last Christmas",
       "region": "GLOBAL",
-      "observed": "2026-11-12T12:00:00+00:00",
+      "observed": "2026-11-19T12:00:00+00:00",
       "source": "Kworb · Spotify weekly chart",
       "url": "https://kworb.net/spotify/country/global_weekly.html",
       "metric": {
-        "value": "18.47M",
+        "value": "18.90M",
         "label": "weekly streams"
       },
-      "note": "Weekly Spotify streams, compiled by Kworb. Chart date: 2026-11-12"
+      "note": "Weekly Spotify streams, compiled by Kworb. Chart date: 2026-11-19"
     },
     {
-      "id": "spotify-0e32d9cd9b15ecfd",
+      "id": "spotify-8eac111e1ac579d9",
       "type": "chart",
-      "title": "#09 · The Goo Goo Dolls - Iris",
+      "title": "#09 · Malcolm Todd - Earrings",
       "region": "GLOBAL",
-      "observed": "2026-11-12T12:00:00+00:00",
+      "observed": "2026-11-19T12:00:00+00:00",
       "source": "Kworb · Spotify weekly chart",
       "url": "https://kworb.net/spotify/country/global_weekly.html",
       "metric": {
-        "value": "18.05M",
+        "value": "18.08M",
         "label": "weekly streams"
       },
-      "note": "Weekly Spotify streams, compiled by Kworb. Chart date: 2026-11-12"
+      "note": "Weekly Spotify streams, compiled by Kworb. Chart date: 2026-11-19"
     },
     {
-      "id": "spotify-989f0c58fe180a9e",
+      "id": "spotify-6cdb5b083f1644a0",
       "type": "chart",
-      "title": "#10 · Malcolm Todd - Earrings",
+      "title": "#10 · sombr - back to friends",
       "region": "GLOBAL",
-      "observed": "2026-11-12T12:00:00+00:00",
+      "observed": "2026-11-19T12:00:00+00:00",
       "source": "Kworb · Spotify weekly chart",
       "url": "https://kworb.net/spotify/country/global_weekly.html",
       "metric": {
-        "value": "17.71M",
+        "value": "18.07M",
         "label": "weekly streams"
       },
-      "note": "Weekly Spotify streams, compiled by Kworb. Chart date: 2026-11-12"
+      "note": "Weekly Spotify streams, compiled by Kworb. Chart date: 2026-11-19"
     },
     {
-      "id": "spotify-bd4ae07af4c0c2be",
+      "id": "spotify-29157cde140a2bd1",
       "type": "chart",
-      "title": "#11 · Justin Bieber - Beauty And A Beat (w/ Nicki Minaj )",
+      "title": "#11 · Fuerza Regida - Suzuki (from GTAVI: The Album) (w/ Grand Theft Auto VI )",
       "region": "GLOBAL",
-      "observed": "2026-11-12T12:00:00+00:00",
+      "observed": "2026-11-19T12:00:00+00:00",
       "source": "Kworb · Spotify weekly chart",
       "url": "https://kworb.net/spotify/country/global_weekly.html",
       "metric": {
-        "value": "17.55M",
+        "value": "18.04M",
         "label": "weekly streams"
       },
-      "note": "Weekly Spotify streams, compiled by Kworb. Chart date: 2026-11-12"
+      "note": "Weekly Spotify streams, compiled by Kworb. Chart date: 2026-11-19"
     },
     {
-      "id": "spotify-ed173706937bfb7f",
+      "id": "spotify-1b618df3719d27b0",
       "type": "chart",
-      "title": "#12 · Katy Perry - The One That Got Away",
+      "title": "#12 · Mariah Carey - All I Want for Christmas Is You",
       "region": "GLOBAL",
-      "observed": "2026-11-12T12:00:00+00:00",
+      "observed": "2026-11-19T12:00:00+00:00",
       "source": "Kworb · Spotify weekly chart",
       "url": "https://kworb.net/spotify/country/global_weekly.html",
       "metric": {
-        "value": "17.48M",
+        "value": "17.77M",
         "label": "weekly streams"
       },
-      "note": "Weekly Spotify streams, compiled by Kworb. Chart date: 2026-11-12"
+      "note": "Weekly Spotify streams, compiled by Kworb. Chart date: 2026-11-19"
     },
     {
-      "id": "spotify-e98793c07c164aca",
+      "id": "spotify-09e8809c1ccbd3cf",
       "type": "chart",
       "title": "#01 · Ella Langley - Choosin' Texas",
       "region": "US",
-      "observed": "2026-11-12T12:00:00+00:00",
+      "observed": "2026-11-19T12:00:00+00:00",
       "source": "Kworb · Spotify weekly chart",
       "url": "https://kworb.net/spotify/country/us_weekly.html",
       "metric": {
-        "value": "7.25M",
+        "value": "6.76M",
         "label": "weekly streams"
       },
-      "note": "Weekly Spotify streams, compiled by Kworb. Chart date: 2026-11-12"
+      "note": "Weekly Spotify streams, compiled by Kworb. Chart date: 2026-11-19"
     },
     {
-      "id": "spotify-1deab415b8017a63",
+      "id": "spotify-5d8b3926815dbbdc",
       "type": "chart",
-      "title": "#02 · Tate McRae - Housewife",
+      "title": "#02 · Ashe - Stop The Wedding!",
       "region": "US",
-      "observed": "2026-11-12T12:00:00+00:00",
+      "observed": "2026-11-19T12:00:00+00:00",
       "source": "Kworb · Spotify weekly chart",
       "url": "https://kworb.net/spotify/country/us_weekly.html",
       "metric": {
-        "value": "7.18M",
+        "value": "6.11M",
         "label": "weekly streams"
       },
-      "note": "Weekly Spotify streams, compiled by Kworb. Chart date: 2026-11-12"
+      "note": "Weekly Spotify streams, compiled by Kworb. Chart date: 2026-11-19"
     },
     {
-      "id": "spotify-28bd0b4ddcc2bf11",
+      "id": "spotify-b72a941da8fc9c4f",
       "type": "chart",
-      "title": "#03 · ADÃLA - Nicole Kidman",
+      "title": "#03 · Tate McRae - Housewife",
       "region": "US",
-      "observed": "2026-11-12T12:00:00+00:00",
+      "observed": "2026-11-19T12:00:00+00:00",
       "source": "Kworb · Spotify weekly chart",
       "url": "https://kworb.net/spotify/country/us_weekly.html",
       "metric": {
-        "value": "6.25M",
+        "value": "5.73M",
         "label": "weekly streams"
       },
-      "note": "Weekly Spotify streams, compiled by Kworb. Chart date: 2026-11-12"
+      "note": "Weekly Spotify streams, compiled by Kworb. Chart date: 2026-11-19"
     },
     {
-      "id": "spotify-cbe73b1623cab798",
+      "id": "spotify-b2d20afc1a653ef4",
       "type": "chart",
-      "title": "#04 · Ashe - Stop The Wedding!",
+      "title": "#04 · Wham! - Last Christmas",
       "region": "US",
-      "observed": "2026-11-12T12:00:00+00:00",
+      "observed": "2026-11-19T12:00:00+00:00",
       "source": "Kworb · Spotify weekly chart",
       "url": "https://kworb.net/spotify/country/us_weekly.html",
       "metric": {
-        "value": "5.84M",
+        "value": "5.52M",
         "label": "weekly streams"
       },
-      "note": "Weekly Spotify streams, compiled by Kworb. Chart date: 2026-11-12"
+      "note": "Weekly Spotify streams, compiled by Kworb. Chart date: 2026-11-19"
     },
     {
-      "id": "spotify-be8171722901312f",
+      "id": "spotify-e9c7b0ee716bca68",
       "type": "chart",
-      "title": "#05 · Olivia Rodrigo - stupid song",
+      "title": "#05 · ADÃLA - Nicole Kidman",
       "region": "US",
-      "observed": "2026-11-12T12:00:00+00:00",
+      "observed": "2026-11-19T12:00:00+00:00",
       "source": "Kworb · Spotify weekly chart",
       "url": "https://kworb.net/spotify/country/us_weekly.html",
       "metric": {
-        "value": "5.27M",
+        "value": "5.44M",
         "label": "weekly streams"
       },
-      "note": "Weekly Spotify streams, compiled by Kworb. Chart date: 2026-11-12"
+      "note": "Weekly Spotify streams, compiled by Kworb. Chart date: 2026-11-19"
     },
     {
-      "id": "spotify-578d2d474e7c30ea",
+      "id": "spotify-bdc3f5c1ec3ae579",
       "type": "chart",
-      "title": "#06 · The Killers - Mr. Brightside",
+      "title": "#06 · Mariah Carey - All I Want for Christmas Is You",
       "region": "US",
-      "observed": "2026-11-12T12:00:00+00:00",
+      "observed": "2026-11-19T12:00:00+00:00",
       "source": "Kworb · Spotify weekly chart",
       "url": "https://kworb.net/spotify/country/us_weekly.html",
       "metric": {
-        "value": "5.20M",
+        "value": "5.19M",
         "label": "weekly streams"
       },
-      "note": "Weekly Spotify streams, compiled by Kworb. Chart date: 2026-11-12"
+      "note": "Weekly Spotify streams, compiled by Kworb. Chart date: 2026-11-19"
     },
     {
-      "id": "spotify-9aca2eba6824928b",
+      "id": "spotify-8e4b78ee35539046",
       "type": "chart",
-      "title": "#07 · KAROL G - BbY WOW (w/ Judeline , rusowsky )",
+      "title": "#07 · Malcolm Todd - Earrings",
       "region": "US",
-      "observed": "2026-11-12T12:00:00+00:00",
+      "observed": "2026-11-19T12:00:00+00:00",
       "source": "Kworb · Spotify weekly chart",
       "url": "https://kworb.net/spotify/country/us_weekly.html",
       "metric": {
-        "value": "5.18M",
+        "value": "5.13M",
         "label": "weekly streams"
       },
-      "note": "Weekly Spotify streams, compiled by Kworb. Chart date: 2026-11-12"
+      "note": "Weekly Spotify streams, compiled by Kworb. Chart date: 2026-11-19"
     },
     {
-      "id": "spotify-d224379413c6186e",
+      "id": "spotify-daa4eca1462112bf",
       "type": "chart",
       "title": "#08 · Olivia Rodrigo - the cure",
       "region": "US",
-      "observed": "2026-11-12T12:00:00+00:00",
+      "observed": "2026-11-19T12:00:00+00:00",
       "source": "Kworb · Spotify weekly chart",
       "url": "https://kworb.net/spotify/country/us_weekly.html",
       "metric": {
-        "value": "5.07M",
+        "value": "5.12M",
         "label": "weekly streams"
       },
-      "note": "Weekly Spotify streams, compiled by Kworb. Chart date: 2026-11-12"
+      "note": "Weekly Spotify streams, compiled by Kworb. Chart date: 2026-11-19"
     },
     {
-      "id": "spotify-823c0e790f328606",
+      "id": "spotify-7c0c6c5d76cf486c",
       "type": "chart",
-      "title": "#09 · Malcolm Todd - Earrings",
+      "title": "#09 · Olivia Rodrigo - stupid song",
       "region": "US",
-      "observed": "2026-11-12T12:00:00+00:00",
+      "observed": "2026-11-19T12:00:00+00:00",
       "source": "Kworb · Spotify weekly chart",
       "url": "https://kworb.net/spotify/country/us_weekly.html",
       "metric": {
-        "value": "5.06M",
+        "value": "5.10M",
         "label": "weekly streams"
       },
-      "note": "Weekly Spotify streams, compiled by Kworb. Chart date: 2026-11-12"
+      "note": "Weekly Spotify streams, compiled by Kworb. Chart date: 2026-11-19"
     },
     {
-      "id": "spotify-da9fd96b219f6253",
+      "id": "spotify-57511a0099622411",
       "type": "chart",
-      "title": "#10 · Wham! - Last Christmas",
+      "title": "#10 · The Killers - Mr. Brightside",
       "region": "US",
-      "observed": "2026-11-12T12:00:00+00:00",
+      "observed": "2026-11-19T12:00:00+00:00",
       "source": "Kworb · Spotify weekly chart",
       "url": "https://kworb.net/spotify/country/us_weekly.html",
       "metric": {
-        "value": "4.91M",
+        "value": "4.86M",
         "label": "weekly streams"
       },
-      "note": "Weekly Spotify streams, compiled by Kworb. Chart date: 2026-11-12"
+      "note": "Weekly Spotify streams, compiled by Kworb. Chart date: 2026-11-19"
     },
     {
-      "id": "spotify-70771461ce2a8fcb",
+      "id": "spotify-8e1ce903d856879a",
       "type": "chart",
-      "title": "#11 · Steve Lacy - nothing",
+      "title": "#11 · KAROL G - BbY WOW (w/ Judeline , rusowsky )",
       "region": "US",
-      "observed": "2026-11-12T12:00:00+00:00",
+      "observed": "2026-11-19T12:00:00+00:00",
       "source": "Kworb · Spotify weekly chart",
       "url": "https://kworb.net/spotify/country/us_weekly.html",
       "metric": {
-        "value": "4.60M",
+        "value": "4.83M",
         "label": "weekly streams"
       },
-      "note": "Weekly Spotify streams, compiled by Kworb. Chart date: 2026-11-12"
+      "note": "Weekly Spotify streams, compiled by Kworb. Chart date: 2026-11-19"
     },
     {
-      "id": "spotify-7f9d81d278a1d95d",
+      "id": "spotify-0d8eff410541fdba",
       "type": "chart",
-      "title": "#12 · Whiskey Myers - Broken Window Serenade",
+      "title": "#12 · Steve Lacy - nothing",
       "region": "US",
-      "observed": "2026-11-12T12:00:00+00:00",
+      "observed": "2026-11-19T12:00:00+00:00",
       "source": "Kworb · Spotify weekly chart",
       "url": "https://kworb.net/spotify/country/us_weekly.html",
       "metric": {
-        "value": "4.46M",
+        "value": "4.77M",
         "label": "weekly streams"
       },
-      "note": "Weekly Spotify streams, compiled by Kworb. Chart date: 2026-11-12"
+      "note": "Weekly Spotify streams, compiled by Kworb. Chart date: 2026-11-19"
+    },
+    {
+      "id": "apple-fa1e4adeab5e58ba",
+      "type": "chart",
+      "title": "#01 · Ella Langley — Choosin' Texas",
+      "region": "US",
+      "observed": "2026-11-21T00:21:59+00:00",
+      "source": "Apple Music · official top songs RSS",
+      "url": "https://music.apple.com/us/album/choosin-texas/1844932149?i=1844932150",
+      "metric": {
+        "value": "#1",
+        "label": "Apple Music rank"
+      },
+      "note": "Chart position only. Apple does not publish stream totals via this feed.",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e2/91/4d/e2914d0a-7f1d-f04c-fbf4-c50b38548838/196873638690.jpg/100x100bb.jpg",
+      "image_credit": "Apple Music artwork"
+    },
+    {
+      "id": "apple-7834128f1d707fde",
+      "type": "chart",
+      "title": "#02 · Morgan Wallen — Last Thing You Need",
+      "region": "US",
+      "observed": "2026-11-21T00:21:59+00:00",
+      "source": "Apple Music · official top songs RSS",
+      "url": "https://music.apple.com/us/album/last-thing-you-need/6812476961?i=6812477290",
+      "metric": {
+        "value": "#2",
+        "label": "Apple Music rank"
+      },
+      "note": "Chart position only. Apple does not publish stream totals via this feed.",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5d/d3/1c/5dd31c9c-1e1c-0bbc-104f-4a42e2bb4c59/075679556424.jpg/100x100bb.jpg",
+      "image_credit": "Apple Music artwork"
+    },
+    {
+      "id": "apple-08b9f2de3b2f57af",
+      "type": "chart",
+      "title": "#03 · Morgan Wallen — Been By Now",
+      "region": "US",
+      "observed": "2026-11-21T00:21:59+00:00",
+      "source": "Apple Music · official top songs RSS",
+      "url": "https://music.apple.com/us/album/been-by-now/6792676858?i=6792676860",
+      "metric": {
+        "value": "#3",
+        "label": "Apple Music rank"
+      },
+      "note": "Chart position only. Apple does not publish stream totals via this feed.",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9f/8d/52/9f8d52a0-b6d9-d038-327b-4fe58bedce67/26UMGIM94572.rgb.jpg/100x100bb.jpg",
+      "image_credit": "Apple Music artwork"
+    },
+    {
+      "id": "apple-339a7532c4361f21",
+      "type": "chart",
+      "title": "#04 · KAROL G, Judeline & rusowsky — BbY WOW",
+      "region": "US",
+      "observed": "2026-11-21T00:21:59+00:00",
+      "source": "Apple Music · official top songs RSS",
+      "url": "https://music.apple.com/us/album/bby-wow/6796864741?i=6796864754",
+      "metric": {
+        "value": "#4",
+        "label": "Apple Music rank"
+      },
+      "note": "Chart position only. Apple does not publish stream totals via this feed.",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2b/66/b2/2b66b26c-ab23-faa1-c4ee-06fa2cce8f76/26UM1IM00558.rgb.jpg/100x100bb.jpg",
+      "image_credit": "Apple Music artwork"
+    },
+    {
+      "id": "apple-f94029bc00a720a5",
+      "type": "chart",
+      "title": "#05 · Tate McRae — Housewife",
+      "region": "US",
+      "observed": "2026-11-21T00:21:59+00:00",
+      "source": "Apple Music · official top songs RSS",
+      "url": "https://music.apple.com/us/album/housewife/6822497770?i=6822497774",
+      "metric": {
+        "value": "#5",
+        "label": "Apple Music rank"
+      },
+      "note": "Chart position only. Apple does not publish stream totals via this feed.",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/69/64/e4/6964e483-c02c-e389-14f4-c426e8c65f2c/196874840146.jpg/100x100bb.jpg",
+      "image_credit": "Apple Music artwork"
+    },
+    {
+      "id": "apple-650826ffc239e37f",
+      "type": "chart",
+      "title": "#06 · Justice, Tame Impala, SZA & King Gizzard & The Lizard Wizard — Flower In A Hurricane [From GTAVI: Original Score]",
+      "region": "US",
+      "observed": "2026-11-21T00:21:59+00:00",
+      "source": "Apple Music · official top songs RSS",
+      "url": "https://music.apple.com/us/album/flower-in-a-hurricane-from-gtavi-original-score/6819802963?i=6819802968",
+      "metric": {
+        "value": "#6",
+        "label": "Apple Music rank"
+      },
+      "note": "Chart position only. Apple does not publish stream totals via this feed.",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/af/23/54/af235448-23b3-a3bf-0738-87f6c44a4bbc/5056556187486_cover.jpg/100x100bb.jpg",
+      "image_credit": "Apple Music artwork"
+    },
+    {
+      "id": "apple-2dd1099337ca9823",
+      "type": "chart",
+      "title": "#07 · Mariah Carey — All I Want for Christmas Is You",
+      "region": "US",
+      "observed": "2026-11-21T00:21:59+00:00",
+      "source": "Apple Music · official top songs RSS",
+      "url": "https://music.apple.com/us/album/all-i-want-for-christmas-is-you/585972750?i=585972803",
+      "metric": {
+        "value": "#7",
+        "label": "Apple Music rank"
+      },
+      "note": "Chart position only. Apple does not publish stream totals via this feed.",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/c6/b7/27/c6b727f7-3a32-6b43-cee2-05bb71daf1cf/dj.itfmdeif.jpg/100x100bb.jpg",
+      "image_credit": "Apple Music artwork"
+    },
+    {
+      "id": "apple-d74bc556c7369191",
+      "type": "chart",
+      "title": "#08 · Drake — Janice STFU",
+      "region": "US",
+      "observed": "2026-11-21T00:21:59+00:00",
+      "source": "Apple Music · official top songs RSS",
+      "url": "https://music.apple.com/us/album/janice-stfu/6769568449?i=6769568596",
+      "metric": {
+        "value": "#8",
+        "label": "Apple Music rank"
+      },
+      "note": "Chart position only. Apple does not publish stream totals via this feed.",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/35/b9/06/35b90629-a873-14f8-4789-ffc324960038/26UMGIM63614.rgb.jpg/100x100bb.jpg",
+      "image_credit": "Apple Music artwork"
+    },
+    {
+      "id": "apple-7675df6de8b8788f",
+      "type": "chart",
+      "title": "#09 · Lil Baby — In A Minute",
+      "region": "US",
+      "observed": "2026-11-21T00:21:59+00:00",
+      "source": "Apple Music · official top songs RSS",
+      "url": "https://music.apple.com/us/album/in-a-minute/1648587138?i=1648587330",
+      "metric": {
+        "value": "#9",
+        "label": "Apple Music rank"
+      },
+      "note": "Chart position only. Apple does not publish stream totals via this feed.",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/9f/c0/99/9fc09958-180d-e66a-bbf7-9462289435f6/22UM1IM13098.rgb.jpg/100x100bb.jpg",
+      "image_credit": "Apple Music artwork"
+    },
+    {
+      "id": "apple-0c23aeee7c953f35",
+      "type": "chart",
+      "title": "#10 · Ella Langley — Be Her",
+      "region": "US",
+      "observed": "2026-11-21T00:21:59+00:00",
+      "source": "Apple Music · official top songs RSS",
+      "url": "https://music.apple.com/us/album/be-her/1869436835?i=1869436845",
+      "metric": {
+        "value": "#10",
+        "label": "Apple Music rank"
+      },
+      "note": "Chart position only. Apple does not publish stream totals via this feed.",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a1/ba/64/a1ba6484-f462-1b88-ddff-d4c014d5f265/196874018361.jpg/100x100bb.jpg",
+      "image_credit": "Apple Music artwork"
+    },
+    {
+      "id": "apple-36d30cb0352a84c8",
+      "type": "chart",
+      "title": "#11 · Zach Bryan & Lana Del Rey — Lies (feat. Lana Del Rey)",
+      "region": "US",
+      "observed": "2026-11-21T00:21:59+00:00",
+      "source": "Apple Music · official top songs RSS",
+      "url": "https://music.apple.com/us/album/lies-feat-lana-del-rey/6822944288?i=6822944296",
+      "metric": {
+        "value": "#11",
+        "label": "Apple Music rank"
+      },
+      "note": "Chart position only. Apple does not publish stream totals via this feed.",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ea/98/f2/ea98f2b8-5131-29ae-2064-997234ef13bc/093624812647.jpg/100x100bb.jpg",
+      "image_credit": "Apple Music artwork"
+    },
+    {
+      "id": "apple-b67913f988123f54",
+      "type": "chart",
+      "title": "#12 · Lil Baby — Freestyle",
+      "region": "US",
+      "observed": "2026-11-21T00:21:59+00:00",
+      "source": "Apple Music · official top songs RSS",
+      "url": "https://music.apple.com/us/album/freestyle/1440928174?i=1440929293",
+      "metric": {
+        "value": "#12",
+        "label": "Apple Music rank"
+      },
+      "note": "Chart position only. Apple does not publish stream totals via this feed.",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/93/e7/aa/93e7aa59-da8b-15bc-2992-5803f70fe8fa/17UM1IM55478.rgb.jpg/100x100bb.jpg",
+      "image_credit": "Apple Music artwork"
+    },
+    {
+      "id": "apple-71c0e645637c2b2b",
+      "type": "chart",
+      "title": "#01 · Jamie Miller — Babydoll",
+      "region": "GB",
+      "observed": "2026-11-21T00:21:59+00:00",
+      "source": "Apple Music · official top songs RSS",
+      "url": "https://music.apple.com/gb/album/babydoll/6794168372?i=6794168373",
+      "metric": {
+        "value": "#1",
+        "label": "Apple Music rank"
+      },
+      "note": "Chart position only. Apple does not publish stream totals via this feed.",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e6/15/d2/e615d28f-70b5-e43a-b3c8-460dca39c9e5/26UMGIM97516.rgb.jpg/100x100bb.jpg",
+      "image_credit": "Apple Music artwork"
+    },
+    {
+      "id": "apple-c8fc191f40f24f25",
+      "type": "chart",
+      "title": "#02 · Ashe — Stop The Wedding!",
+      "region": "GB",
+      "observed": "2026-11-21T00:21:59+00:00",
+      "source": "Apple Music · official top songs RSS",
+      "url": "https://music.apple.com/gb/album/stop-the-wedding/6795697684?i=6795697687",
+      "metric": {
+        "value": "#2",
+        "label": "Apple Music rank"
+      },
+      "note": "Chart position only. Apple does not publish stream totals via this feed.",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b7/55/7a/b7557aef-bb0a-cc57-25bf-979eee194f16/075679571403.jpg/100x100bb.jpg",
+      "image_credit": "Apple Music artwork"
+    },
+    {
+      "id": "apple-77fef2e352fd0b01",
+      "type": "chart",
+      "title": "#03 · Tate McRae — Housewife",
+      "region": "GB",
+      "observed": "2026-11-21T00:21:59+00:00",
+      "source": "Apple Music · official top songs RSS",
+      "url": "https://music.apple.com/gb/album/housewife/6822497770?i=6822497774",
+      "metric": {
+        "value": "#3",
+        "label": "Apple Music rank"
+      },
+      "note": "Chart position only. Apple does not publish stream totals via this feed.",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/69/64/e4/6964e483-c02c-e389-14f4-c426e8c65f2c/196874840146.jpg/100x100bb.jpg",
+      "image_credit": "Apple Music artwork"
+    },
+    {
+      "id": "apple-39a7eb434a3b7aca",
+      "type": "chart",
+      "title": "#04 · Justice, Tame Impala, SZA & King Gizzard & The Lizard Wizard — Flower In A Hurricane [From GTAVI: Original Score]",
+      "region": "GB",
+      "observed": "2026-11-21T00:21:59+00:00",
+      "source": "Apple Music · official top songs RSS",
+      "url": "https://music.apple.com/gb/album/flower-in-a-hurricane-from-gtavi-original-score/6819802963?i=6819802968",
+      "metric": {
+        "value": "#4",
+        "label": "Apple Music rank"
+      },
+      "note": "Chart position only. Apple does not publish stream totals via this feed.",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/af/23/54/af235448-23b3-a3bf-0738-87f6c44a4bbc/5056556187486_cover.jpg/100x100bb.jpg",
+      "image_credit": "Apple Music artwork"
+    },
+    {
+      "id": "apple-bdc1031115f606a4",
+      "type": "chart",
+      "title": "#05 · HUGEL, Imael Angel & Ultra Naté — Movin' To The Sun",
+      "region": "GB",
+      "observed": "2026-11-21T00:21:59+00:00",
+      "source": "Apple Music · official top songs RSS",
+      "url": "https://music.apple.com/gb/album/movin-to-the-sun/6769069923?i=6769070199",
+      "metric": {
+        "value": "#5",
+        "label": "Apple Music rank"
+      },
+      "note": "Chart position only. Apple does not publish stream totals via this feed.",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/96/61/7a/96617ab5-51da-7cfc-97e5-c5a6a893c210/1087654.jpg/100x100bb.jpg",
+      "image_credit": "Apple Music artwork"
+    },
+    {
+      "id": "apple-22a5825821bb20ff",
+      "type": "chart",
+      "title": "#06 · SIENNA SPIRO — Great Expectation",
+      "region": "GB",
+      "observed": "2026-11-21T00:21:59+00:00",
+      "source": "Apple Music · official top songs RSS",
+      "url": "https://music.apple.com/gb/album/great-expectation/6769552402?i=6769552411",
+      "metric": {
+        "value": "#6",
+        "label": "Apple Music rank"
+      },
+      "note": "Chart position only. Apple does not publish stream totals via this feed.",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f4/e5/61/f4e561f5-3e73-68c7-7ca4-295ac5a063ed/26UMGIM51351.rgb.jpg/100x100bb.jpg",
+      "image_credit": "Apple Music artwork"
+    },
+    {
+      "id": "apple-e069fb763816f752",
+      "type": "chart",
+      "title": "#07 · Sam Fender & Olivia Dean — Rein Me In",
+      "region": "GB",
+      "observed": "2026-11-21T00:21:59+00:00",
+      "source": "Apple Music · official top songs RSS",
+      "url": "https://music.apple.com/gb/album/rein-me-in/1820918466?i=1820918468",
+      "metric": {
+        "value": "#7",
+        "label": "Apple Music rank"
+      },
+      "note": "Chart position only. Apple does not publish stream totals via this feed.",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8f/0f/9f/8f0f9f3d-b26b-779d-d1f1-2db2154a68b7/25UMGIM75096.rgb.jpg/100x100bb.jpg",
+      "image_credit": "Apple Music artwork"
+    },
+    {
+      "id": "apple-0bc621e0c2dcdf17",
+      "type": "chart",
+      "title": "#08 · Ella Langley — Choosin' Texas",
+      "region": "GB",
+      "observed": "2026-11-21T00:21:59+00:00",
+      "source": "Apple Music · official top songs RSS",
+      "url": "https://music.apple.com/gb/album/choosin-texas/1844932149?i=1844932150",
+      "metric": {
+        "value": "#8",
+        "label": "Apple Music rank"
+      },
+      "note": "Chart position only. Apple does not publish stream totals via this feed.",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e2/91/4d/e2914d0a-7f1d-f04c-fbf4-c50b38548838/196873638690.jpg/100x100bb.jpg",
+      "image_credit": "Apple Music artwork"
+    },
+    {
+      "id": "apple-407b4c18bb0c9e79",
+      "type": "chart",
+      "title": "#09 · Olivia Dean — Man I Need",
+      "region": "GB",
+      "observed": "2026-11-21T00:21:59+00:00",
+      "source": "Apple Music · official top songs RSS",
+      "url": "https://music.apple.com/gb/album/man-i-need/1817609404?i=1817609509",
+      "metric": {
+        "value": "#9",
+        "label": "Apple Music rank"
+      },
+      "note": "Chart position only. Apple does not publish stream totals via this feed.",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/08/e2/21/08e22164-7c0b-1522-818f-e0e74f62dc49/25UMGIM69703.rgb.jpg/100x100bb.jpg",
+      "image_credit": "Apple Music artwork"
+    },
+    {
+      "id": "apple-93e9869894167775",
+      "type": "chart",
+      "title": "#10 · Wham! — Last Christmas (Single Version)",
+      "region": "GB",
+      "observed": "2026-11-21T00:21:59+00:00",
+      "source": "Apple Music · official top songs RSS",
+      "url": "https://music.apple.com/gb/album/last-christmas-single-version/202117886?i=202117984",
+      "metric": {
+        "value": "#10",
+        "label": "Apple Music rank"
+      },
+      "note": "Chart position only. Apple does not publish stream totals via this feed.",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/eb/4a/f9/eb4af984-fc68-56ab-7b89-1d070c04e1dd/5099765318524.jpg/100x100bb.jpg",
+      "image_credit": "Apple Music artwork"
+    },
+    {
+      "id": "apple-e747c08ff05b53a5",
+      "type": "chart",
+      "title": "#11 · sombr — My Body Isn't Ready",
+      "region": "GB",
+      "observed": "2026-11-21T00:21:59+00:00",
+      "source": "Apple Music · official top songs RSS",
+      "url": "https://music.apple.com/gb/album/my-body-isnt-ready/6781074078?i=6781074080",
+      "metric": {
+        "value": "#11",
+        "label": "Apple Music rank"
+      },
+      "note": "Chart position only. Apple does not publish stream totals via this feed.",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2f/1d/f6/2f1df6d3-09e2-e0a2-2e2b-fd5bb05be1ab/054391214515.jpg/100x100bb.jpg",
+      "image_credit": "Apple Music artwork"
+    },
+    {
+      "id": "apple-7d94914d6b3ead14",
+      "type": "chart",
+      "title": "#12 · Olivia Rodrigo — stupid song",
+      "region": "GB",
+      "observed": "2026-11-21T00:21:59+00:00",
+      "source": "Apple Music · official top songs RSS",
+      "url": "https://music.apple.com/gb/album/stupid-song/1889992111?i=1889992115",
+      "metric": {
+        "value": "#12",
+        "label": "Apple Music rank"
+      },
+      "note": "Chart position only. Apple does not publish stream totals via this feed.",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1d/1b/f9/1d1bf9b1-44c6-9a6c-6ffb-c158488c06ce/26UMGIM39303.rgb.jpg/100x100bb.jpg",
+      "image_credit": "Apple Music artwork"
     }
   ],
-  "errors": [
-    "Apple Music us: ReadTimeout: HTTPSConnectionPool(host='rss.marketingtools.apple.com', port=443): Read timed out. (read timeout=19)",
-    "Apple Music gb: ReadTimeout: HTTPSConnectionPool(host='rss.marketingtools.apple.com', port=443): Read timed out. (read timeout=19)"
-  ],
+  "errors": [],
   "revision_note": "V1.1: compared two keyword-specific Amazon samples and corrected chronological quarter sorting; editorial claims have links and dates."
 }
