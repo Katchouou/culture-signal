@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-11-24T06:30:51+00:00",
+  "updated_at": "2026-11-24T18:14:24+00:00",
   "edition": "10.15 / The culture issue",
   "mode": "auto",
   "editorial": [
@@ -365,11 +365,151 @@
   ],
   "live": [
     {
-      "id": "google-920be7d8f225cae8",
+      "id": "google-dfa0fa9641064622",
       "type": "trend",
-      "title": "chelsea f.c.",
+      "title": "mitch mcconnell",
+      "region": "US",
+      "observed": "2026-11-24T17:50:00+00:00",
+      "source": "Google Trends Trending Now RSS",
+      "url": "https://trends.google.com/trending/rss?geo=US",
+      "note": "Search spike · approx traffic is an estimated bucket, not a verified total.",
+      "metric": {
+        "value": "1000+",
+        "label": "approx. search volume"
+      }
+    },
+    {
+      "id": "google-dd56ed77b7df1ecc",
+      "type": "trend",
+      "title": "jalen hurts",
+      "region": "US",
+      "observed": "2026-11-24T17:50:00+00:00",
+      "source": "Google Trends Trending Now RSS",
+      "url": "https://trends.google.com/trending/rss?geo=US",
+      "note": "Search spike · approx traffic is an estimated bucket, not a verified total.",
+      "metric": {
+        "value": "1000+",
+        "label": "approx. search volume"
+      }
+    },
+    {
+      "id": "google-81a3d794b48d80a8",
+      "type": "trend",
+      "title": "natalie portman",
+      "region": "US",
+      "observed": "2026-11-24T17:50:00+00:00",
+      "source": "Google Trends Trending Now RSS",
+      "url": "https://trends.google.com/trending/rss?geo=US",
+      "note": "Search spike · approx traffic is an estimated bucket, not a verified total.",
+      "metric": {
+        "value": "500+",
+        "label": "approx. search volume"
+      }
+    },
+    {
+      "id": "google-866eee3098d09c5b",
+      "type": "trend",
+      "title": "victoria broderick",
+      "region": "US",
+      "observed": "2026-11-24T17:40:00+00:00",
+      "source": "Google Trends Trending Now RSS",
+      "url": "https://trends.google.com/trending/rss?geo=US",
+      "note": "Search spike · approx traffic is an estimated bucket, not a verified total.",
+      "metric": {
+        "value": "2000+",
+        "label": "approx. search volume"
+      }
+    },
+    {
+      "id": "google-98f63a06e0e8de0f",
+      "type": "trend",
+      "title": "donte divincenzo",
+      "region": "US",
+      "observed": "2026-11-24T17:40:00+00:00",
+      "source": "Google Trends Trending Now RSS",
+      "url": "https://trends.google.com/trending/rss?geo=US",
+      "note": "Search spike · approx traffic is an estimated bucket, not a verified total.",
+      "metric": {
+        "value": "500+",
+        "label": "approx. search volume"
+      }
+    },
+    {
+      "id": "google-946f6a7df35658a2",
+      "type": "trend",
+      "title": "northern colorado basketball",
+      "region": "US",
+      "observed": "2026-11-24T17:40:00+00:00",
+      "source": "Google Trends Trending Now RSS",
+      "url": "https://trends.google.com/trending/rss?geo=US",
+      "note": "Search spike · approx traffic is an estimated bucket, not a verified total.",
+      "metric": {
+        "value": "200+",
+        "label": "approx. search volume"
+      }
+    },
+    {
+      "id": "google-1e969980418e4cc2",
+      "type": "trend",
+      "title": "arsenal fixtures",
       "region": "GB",
-      "observed": "2026-11-24T06:10:00+00:00",
+      "observed": "2026-11-24T17:40:00+00:00",
+      "source": "Google Trends Trending Now RSS",
+      "url": "https://trends.google.com/trending/rss?geo=GB",
+      "note": "Search spike · approx traffic is an estimated bucket, not a verified total.",
+      "metric": {
+        "value": "500+",
+        "label": "approx. search volume"
+      }
+    },
+    {
+      "id": "google-043baf17bd5f2aad",
+      "type": "trend",
+      "title": "andrey chibis",
+      "region": "GB",
+      "observed": "2026-11-24T17:40:00+00:00",
+      "source": "Google Trends Trending Now RSS",
+      "url": "https://trends.google.com/trending/rss?geo=GB",
+      "note": "Search spike · approx traffic is an estimated bucket, not a verified total.",
+      "metric": {
+        "value": "200+",
+        "label": "approx. search volume"
+      }
+    },
+    {
+      "id": "google-a6a6c69276fe5c77",
+      "type": "trend",
+      "title": "akron basketball",
+      "region": "US",
+      "observed": "2026-11-24T17:30:00+00:00",
+      "source": "Google Trends Trending Now RSS",
+      "url": "https://trends.google.com/trending/rss?geo=US",
+      "note": "Search spike · approx traffic is an estimated bucket, not a verified total.",
+      "metric": {
+        "value": "1000+",
+        "label": "approx. search volume"
+      }
+    },
+    {
+      "id": "google-676c3d3a1817e4c2",
+      "type": "trend",
+      "title": "belmont basketball",
+      "region": "US",
+      "observed": "2026-11-24T17:30:00+00:00",
+      "source": "Google Trends Trending Now RSS",
+      "url": "https://trends.google.com/trending/rss?geo=US",
+      "note": "Search spike · approx traffic is an estimated bucket, not a verified total.",
+      "metric": {
+        "value": "500+",
+        "label": "approx. search volume"
+      }
+    },
+    {
+      "id": "google-96a7e96f0b6729fb",
+      "type": "trend",
+      "title": "cineworld",
+      "region": "GB",
+      "observed": "2026-11-24T17:30:00+00:00",
       "source": "Google Trends Trending Now RSS",
       "url": "https://trends.google.com/trending/rss?geo=GB",
       "note": "Search spike · approx traffic is an estimated bucket, not a verified total.",
@@ -379,11 +519,11 @@
       }
     },
     {
-      "id": "google-0d7aaa83566d2afd",
+      "id": "google-f56cea7b1f146e3a",
       "type": "trend",
-      "title": "nationwide",
+      "title": "harri heliövaara",
       "region": "GB",
-      "observed": "2026-11-24T06:10:00+00:00",
+      "observed": "2026-11-24T17:30:00+00:00",
       "source": "Google Trends Trending Now RSS",
       "url": "https://trends.google.com/trending/rss?geo=GB",
       "note": "Search spike · approx traffic is an estimated bucket, not a verified total.",
@@ -393,25 +533,11 @@
       }
     },
     {
-      "id": "google-bad545d7f75f6cfb",
+      "id": "google-184976dbf3c71ea3",
       "type": "trend",
-      "title": "seth rogen",
-      "region": "US",
-      "observed": "2026-11-24T06:00:00+00:00",
-      "source": "Google Trends Trending Now RSS",
-      "url": "https://trends.google.com/trending/rss?geo=US",
-      "note": "Search spike · approx traffic is an estimated bucket, not a verified total.",
-      "metric": {
-        "value": "200+",
-        "label": "approx. search volume"
-      }
-    },
-    {
-      "id": "google-71eac165ed901269",
-      "type": "trend",
-      "title": "uae vs india a",
+      "title": "phil taylor",
       "region": "GB",
-      "observed": "2026-11-24T06:00:00+00:00",
+      "observed": "2026-11-24T17:30:00+00:00",
       "source": "Google Trends Trending Now RSS",
       "url": "https://trends.google.com/trending/rss?geo=GB",
       "note": "Search spike · approx traffic is an estimated bucket, not a verified total.",
@@ -421,125 +547,41 @@
       }
     },
     {
-      "id": "google-517e81b7dde525c7",
+      "id": "google-8540de07de248b6a",
       "type": "trend",
-      "title": "adam driver",
-      "region": "US",
-      "observed": "2026-11-24T05:50:00+00:00",
-      "source": "Google Trends Trending Now RSS",
-      "url": "https://trends.google.com/trending/rss?geo=US",
-      "note": "Search spike · approx traffic is an estimated bucket, not a verified total.",
-      "metric": {
-        "value": "500+",
-        "label": "approx. search volume"
-      }
-    },
-    {
-      "id": "google-fb71cc66daa44c9c",
-      "type": "trend",
-      "title": "ucl",
-      "region": "US",
-      "observed": "2026-11-24T05:50:00+00:00",
-      "source": "Google Trends Trending Now RSS",
-      "url": "https://trends.google.com/trending/rss?geo=US",
-      "note": "Search spike · approx traffic is an estimated bucket, not a verified total.",
-      "metric": {
-        "value": "200+",
-        "label": "approx. search volume"
-      }
-    },
-    {
-      "id": "google-c287f521bedf7444",
-      "type": "trend",
-      "title": "lakers standings",
-      "region": "US",
-      "observed": "2026-11-24T05:50:00+00:00",
-      "source": "Google Trends Trending Now RSS",
-      "url": "https://trends.google.com/trending/rss?geo=US",
-      "note": "Search spike · approx traffic is an estimated bucket, not a verified total.",
-      "metric": {
-        "value": "200+",
-        "label": "approx. search volume"
-      }
-    },
-    {
-      "id": "google-6c3f55fcb0d46b90",
-      "type": "trend",
-      "title": "singapore",
-      "region": "US",
-      "observed": "2026-11-24T05:50:00+00:00",
-      "source": "Google Trends Trending Now RSS",
-      "url": "https://trends.google.com/trending/rss?geo=US",
-      "note": "Search spike · approx traffic is an estimated bucket, not a verified total.",
-      "metric": {
-        "value": "200+",
-        "label": "approx. search volume"
-      }
-    },
-    {
-      "id": "google-fca813dc8022f5b4",
-      "type": "trend",
-      "title": "vespucci island gta 6",
-      "region": "US",
-      "observed": "2026-11-24T05:50:00+00:00",
-      "source": "Google Trends Trending Now RSS",
-      "url": "https://trends.google.com/trending/rss?geo=US",
-      "note": "Search spike · approx traffic is an estimated bucket, not a verified total.",
-      "metric": {
-        "value": "500+",
-        "label": "approx. search volume"
-      }
-    },
-    {
-      "id": "google-93de71aef31928d1",
-      "type": "trend",
-      "title": "fred vasseur",
+      "title": "maura higgins",
       "region": "GB",
-      "observed": "2026-11-24T05:50:00+00:00",
+      "observed": "2026-11-24T17:30:00+00:00",
       "source": "Google Trends Trending Now RSS",
       "url": "https://trends.google.com/trending/rss?geo=GB",
       "note": "Search spike · approx traffic is an estimated bucket, not a verified total.",
       "metric": {
-        "value": "100+",
-        "label": "approx. search volume"
-      }
-    },
-    {
-      "id": "google-54013422baccee50",
-      "type": "trend",
-      "title": "collin sexton",
-      "region": "US",
-      "observed": "2026-11-24T05:40:00+00:00",
-      "source": "Google Trends Trending Now RSS",
-      "url": "https://trends.google.com/trending/rss?geo=US",
-      "note": "Search spike · approx traffic is an estimated bucket, not a verified total.",
-      "metric": {
-        "value": "500+",
-        "label": "approx. search volume"
-      }
-    },
-    {
-      "id": "google-82bc9e4bc9cddd55",
-      "type": "trend",
-      "title": "nosedive",
-      "region": "US",
-      "observed": "2026-11-24T05:40:00+00:00",
-      "source": "Google Trends Trending Now RSS",
-      "url": "https://trends.google.com/trending/rss?geo=US",
-      "note": "Search spike · approx traffic is an estimated bucket, not a verified total.",
-      "metric": {
         "value": "200+",
         "label": "approx. search volume"
       }
     },
     {
-      "id": "google-417733b3ed2a7e2b",
+      "id": "google-83f6545dac2890a1",
       "type": "trend",
-      "title": "full moon beaver moon",
+      "title": "kelsey hunter",
       "region": "GB",
-      "observed": "2026-11-24T05:40:00+00:00",
+      "observed": "2026-11-24T17:30:00+00:00",
       "source": "Google Trends Trending Now RSS",
       "url": "https://trends.google.com/trending/rss?geo=GB",
+      "note": "Search spike · approx traffic is an estimated bucket, not a verified total.",
+      "metric": {
+        "value": "1000+",
+        "label": "approx. search volume"
+      }
+    },
+    {
+      "id": "google-3126480835c5bb14",
+      "type": "trend",
+      "title": "al-nassr vs al sadd",
+      "region": "US",
+      "observed": "2026-11-24T17:20:00+00:00",
+      "source": "Google Trends Trending Now RSS",
+      "url": "https://trends.google.com/trending/rss?geo=US",
       "note": "Search spike · approx traffic is an estimated bucket, not a verified total.",
       "metric": {
         "value": "5000+",
@@ -547,72 +589,58 @@
       }
     },
     {
-      "id": "google-ea668821dde9115d",
+      "id": "google-893b81b67b5a590c",
       "type": "trend",
-      "title": "james blunt",
-      "region": "GB",
-      "observed": "2026-11-24T05:40:00+00:00",
-      "source": "Google Trends Trending Now RSS",
-      "url": "https://trends.google.com/trending/rss?geo=GB",
-      "note": "Search spike · approx traffic is an estimated bucket, not a verified total.",
-      "metric": {
-        "value": "200+",
-        "label": "approx. search volume"
-      }
-    },
-    {
-      "id": "google-0bde38d55d4552f8",
-      "type": "trend",
-      "title": "arsenal f.c.",
-      "region": "GB",
-      "observed": "2026-11-24T05:40:00+00:00",
-      "source": "Google Trends Trending Now RSS",
-      "url": "https://trends.google.com/trending/rss?geo=GB",
-      "note": "Search spike · approx traffic is an estimated bucket, not a verified total.",
-      "metric": {
-        "value": "500+",
-        "label": "approx. search volume"
-      }
-    },
-    {
-      "id": "google-28cdb1fdf55bb206",
-      "type": "trend",
-      "title": "jake laravia",
+      "title": "new faa rule line up and wait",
       "region": "US",
-      "observed": "2026-11-24T05:30:00+00:00",
+      "observed": "2026-11-24T17:20:00+00:00",
       "source": "Google Trends Trending Now RSS",
       "url": "https://trends.google.com/trending/rss?geo=US",
       "note": "Search spike · approx traffic is an estimated bucket, not a verified total.",
       "metric": {
-        "value": "500+",
+        "value": "2000+",
         "label": "approx. search volume"
       }
     },
     {
-      "id": "google-df674b1eefff0b25",
+      "id": "google-b11a50d4ff2f6a0c",
       "type": "trend",
-      "title": "walker kessler",
-      "region": "US",
-      "observed": "2026-11-24T05:30:00+00:00",
-      "source": "Google Trends Trending Now RSS",
-      "url": "https://trends.google.com/trending/rss?geo=US",
-      "note": "Search spike · approx traffic is an estimated bucket, not a verified total.",
-      "metric": {
-        "value": "500+",
-        "label": "approx. search volume"
-      }
-    },
-    {
-      "id": "google-df0dc1608d36fb28",
-      "type": "trend",
-      "title": "cholesterol",
+      "title": "al-nassr vs al sadd",
       "region": "GB",
-      "observed": "2026-11-24T05:30:00+00:00",
+      "observed": "2026-11-24T17:20:00+00:00",
       "source": "Google Trends Trending Now RSS",
       "url": "https://trends.google.com/trending/rss?geo=GB",
       "note": "Search spike · approx traffic is an estimated bucket, not a verified total.",
       "metric": {
-        "value": "100+",
+        "value": "2000+",
+        "label": "approx. search volume"
+      }
+    },
+    {
+      "id": "google-bef3a75ddd65b2a0",
+      "type": "trend",
+      "title": "bodø/glimt vs lask",
+      "region": "GB",
+      "observed": "2026-11-24T17:20:00+00:00",
+      "source": "Google Trends Trending Now RSS",
+      "url": "https://trends.google.com/trending/rss?geo=GB",
+      "note": "Search spike · approx traffic is an estimated bucket, not a verified total.",
+      "metric": {
+        "value": "500+",
+        "label": "approx. search volume"
+      }
+    },
+    {
+      "id": "google-f613219b358fff8b",
+      "type": "trend",
+      "title": "andrea piardi",
+      "region": "GB",
+      "observed": "2026-11-24T17:20:00+00:00",
+      "source": "Google Trends Trending Now RSS",
+      "url": "https://trends.google.com/trending/rss?geo=GB",
+      "note": "Search spike · approx traffic is an estimated bucket, not a verified total.",
+      "metric": {
+        "value": "2000+",
         "label": "approx. search volume"
       }
     },
@@ -626,34 +654,6 @@
       "source": "Vogue",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBkNUZmeWJER2REZGtpN2F2azVwa0lNaVh1OVBmWVZVdHhwZ2JlaHBVZFdzUjFfOE1PTTAwczlPbW16T0ZmRDNzTzRVdXl2RHZKRmRycnVWdG5zYjg3MjRsV1I5WmRtLWU4?oc=5",
       "note": "News mention only; publication does not prove popularity."
-    },
-    {
-      "id": "google-423406cd77eae8fa",
-      "type": "trend",
-      "title": "gisele pelicot",
-      "region": "GB",
-      "observed": "2026-11-24T05:10:00+00:00",
-      "source": "Google Trends Trending Now RSS",
-      "url": "https://trends.google.com/trending/rss?geo=GB",
-      "note": "Search spike · approx traffic is an estimated bucket, not a verified total.",
-      "metric": {
-        "value": "200+",
-        "label": "approx. search volume"
-      }
-    },
-    {
-      "id": "google-5a508231a8af6ded",
-      "type": "trend",
-      "title": "john eustace",
-      "region": "GB",
-      "observed": "2026-11-24T05:10:00+00:00",
-      "source": "Google Trends Trending Now RSS",
-      "url": "https://trends.google.com/trending/rss?geo=GB",
-      "note": "Search spike · approx traffic is an estimated bucket, not a verified total.",
-      "metric": {
-        "value": "100+",
-        "label": "approx. search volume"
-      }
     },
     {
       "id": "news-639d3054987ab228",
@@ -1270,9 +1270,17 @@
     }
   ],
   "errors": [
-    "Google News lifestyle: no recent entries",
-    "Apple Music us: HTTPError: 502 Server Error: Bad Gateway for url: https://rss.marketingtools.apple.com/api/v2/us/music/most-played/25/songs.json",
-    "Apple Music gb: ReadTimeout: HTTPSConnectionPool(host='rss.marketingtools.apple.com', port=443): Read timed out. (read timeout=19)"
+    "Google News fashion: HTTPError: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=celebrity%20street%20style%20outfit%20when%3A4d&hl=en-US&gl=US&ceid=US:en",
+    "Google News fashion: HTTPError: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=Instagram%20fashion%20creator%20outfit%20styling%20when%3A4d&hl=en-US&gl=US&ceid=US:en",
+    "Google News fashion: HTTPError: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=street%20style%20fashion%20trends%20accessories%20when%3A4d&hl=en-US&gl=US&ceid=US:en",
+    "Google News fashion: HTTPError: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=emerging%20fashion%20creator%20personal%20style%20when%3A4d&hl=en-US&gl=US&ceid=US:en",
+    "Google News internet: HTTPError: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=TikTok%20viral%20meme%20trending%20trend%20when%3A4d&hl=en-US&gl=US&ceid=US:en",
+    "Google News music: HTTPError: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=TikTok%20trending%20sounds%20pop%20music%20when%3A4d&hl=en-US&gl=US&ceid=US:en",
+    "Google News beauty: HTTPError: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=2026%20celebrity%20beauty%20makeup%20nails%20trend%20when%3A4d&hl=en-US&gl=US&ceid=US:en",
+    "Google News lifestyle: HTTPError: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=Owala%20Stanley%20latest%20lifestyle%20trending%20products%20when%3A4d&hl=en-US&gl=US&ceid=US:en",
+    "Google News culture: HTTPError: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=London%20art%20exhibition%20design%20culture%20when%3A4d&hl=en-US&gl=US&ceid=US:en",
+    "Apple Music us: ReadTimeout: HTTPSConnectionPool(host='rss.marketingtools.apple.com', port=443): Read timed out. (read timeout=19)",
+    "Apple Music gb: HTTPError: 502 Server Error: Bad Gateway for url: https://rss.marketingtools.apple.com/api/v2/gb/music/most-played/25/songs.json"
   ],
   "revision_note": "V1.1: compared two keyword-specific Amazon samples and corrected chronological quarter sorting; editorial claims have links and dates."
 }
