@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-11-26T12:52:12+00:00",
+  "updated_at": "2026-11-26T22:15:22+00:00",
   "edition": "10.15 / The culture issue",
   "mode": "auto",
   "editorial": [
@@ -365,153 +365,27 @@
   ],
   "live": [
     {
-      "id": "google-2713f73dcfe935c8",
+      "id": "google-725b29b0420e6e9e",
       "type": "trend",
-      "title": "matt damon family home life",
+      "title": "the comeback king",
       "region": "US",
-      "observed": "2026-11-26T12:30:00+00:00",
+      "observed": "2026-11-26T22:00:00+00:00",
       "source": "Google Trends Trending Now RSS",
       "url": "https://trends.google.com/trending/rss?geo=US",
       "note": "Search spike · approx traffic is an estimated bucket, not a verified total.",
       "metric": {
-        "value": "2000+",
+        "value": "5000+",
         "label": "approx. search volume"
       }
     },
     {
-      "id": "google-1feb6c3309fc3bd5",
+      "id": "google-3f70974b755ec9c9",
       "type": "trend",
-      "title": "matt bevin child support ruling",
+      "title": "joey porter jr",
       "region": "US",
-      "observed": "2026-11-26T12:30:00+00:00",
+      "observed": "2026-11-26T22:00:00+00:00",
       "source": "Google Trends Trending Now RSS",
       "url": "https://trends.google.com/trending/rss?geo=US",
-      "note": "Search spike · approx traffic is an estimated bucket, not a verified total.",
-      "metric": {
-        "value": "200+",
-        "label": "approx. search volume"
-      }
-    },
-    {
-      "id": "google-a09aecce3a6c4960",
-      "type": "trend",
-      "title": "milwaukee brewers",
-      "region": "US",
-      "observed": "2026-11-26T12:30:00+00:00",
-      "source": "Google Trends Trending Now RSS",
-      "url": "https://trends.google.com/trending/rss?geo=US",
-      "note": "Search spike · approx traffic is an estimated bucket, not a verified total.",
-      "metric": {
-        "value": "200+",
-        "label": "approx. search volume"
-      }
-    },
-    {
-      "id": "google-9b7fb20be8046c71",
-      "type": "trend",
-      "title": "trump account for kids",
-      "region": "US",
-      "observed": "2026-11-26T12:30:00+00:00",
-      "source": "Google Trends Trending Now RSS",
-      "url": "https://trends.google.com/trending/rss?geo=US",
-      "note": "Search spike · approx traffic is an estimated bucket, not a verified total.",
-      "metric": {
-        "value": "100+",
-        "label": "approx. search volume"
-      }
-    },
-    {
-      "id": "google-a874090a39aa9393",
-      "type": "trend",
-      "title": "bravo",
-      "region": "US",
-      "observed": "2026-11-26T12:30:00+00:00",
-      "source": "Google Trends Trending Now RSS",
-      "url": "https://trends.google.com/trending/rss?geo=US",
-      "note": "Search spike · approx traffic is an estimated bucket, not a verified total.",
-      "metric": {
-        "value": "100+",
-        "label": "approx. search volume"
-      }
-    },
-    {
-      "id": "google-bffc4284a10cec26",
-      "type": "trend",
-      "title": "the rookie",
-      "region": "US",
-      "observed": "2026-11-26T12:30:00+00:00",
-      "source": "Google Trends Trending Now RSS",
-      "url": "https://trends.google.com/trending/rss?geo=US",
-      "note": "Search spike · approx traffic is an estimated bucket, not a verified total.",
-      "metric": {
-        "value": "200+",
-        "label": "approx. search volume"
-      }
-    },
-    {
-      "id": "google-36800db43ee14325",
-      "type": "trend",
-      "title": "christian horner",
-      "region": "GB",
-      "observed": "2026-11-26T12:30:00+00:00",
-      "source": "Google Trends Trending Now RSS",
-      "url": "https://trends.google.com/trending/rss?geo=GB",
-      "note": "Search spike · approx traffic is an estimated bucket, not a verified total.",
-      "metric": {
-        "value": "200+",
-        "label": "approx. search volume"
-      }
-    },
-    {
-      "id": "google-a61416e1b42ee443",
-      "type": "trend",
-      "title": "fuel vessel sinks ibiza coast",
-      "region": "GB",
-      "observed": "2026-11-26T12:30:00+00:00",
-      "source": "Google Trends Trending Now RSS",
-      "url": "https://trends.google.com/trending/rss?geo=GB",
-      "note": "Search spike · approx traffic is an estimated bucket, not a verified total.",
-      "metric": {
-        "value": "100+",
-        "label": "approx. search volume"
-      }
-    },
-    {
-      "id": "google-dfe26a0f50805191",
-      "type": "trend",
-      "title": "washington post",
-      "region": "US",
-      "observed": "2026-11-26T12:20:00+00:00",
-      "source": "Google Trends Trending Now RSS",
-      "url": "https://trends.google.com/trending/rss?geo=US",
-      "note": "Search spike · approx traffic is an estimated bucket, not a verified total.",
-      "metric": {
-        "value": "200+",
-        "label": "approx. search volume"
-      }
-    },
-    {
-      "id": "google-7a9727b3400241ca",
-      "type": "trend",
-      "title": "ridley scott alien netflix removal",
-      "region": "US",
-      "observed": "2026-11-26T12:20:00+00:00",
-      "source": "Google Trends Trending Now RSS",
-      "url": "https://trends.google.com/trending/rss?geo=US",
-      "note": "Search spike · approx traffic is an estimated bucket, not a verified total.",
-      "metric": {
-        "value": "100+",
-        "label": "approx. search volume"
-      }
-    },
-    {
-      "id": "google-d5ec32ec3379b252",
-      "type": "trend",
-      "title": "chicken nuggets",
-      "region": "GB",
-      "observed": "2026-11-26T12:20:00+00:00",
-      "source": "Google Trends Trending Now RSS",
-      "url": "https://trends.google.com/trending/rss?geo=GB",
       "note": "Search spike · approx traffic is an estimated bucket, not a verified total.",
       "metric": {
         "value": "1000+",
@@ -519,25 +393,25 @@
       }
     },
     {
-      "id": "google-17a32887262fea84",
+      "id": "google-ce95b57926550483",
       "type": "trend",
-      "title": "commodore barry bridge",
+      "title": "glen powell",
       "region": "US",
-      "observed": "2026-11-26T12:10:00+00:00",
+      "observed": "2026-11-26T22:00:00+00:00",
       "source": "Google Trends Trending Now RSS",
       "url": "https://trends.google.com/trending/rss?geo=US",
       "note": "Search spike · approx traffic is an estimated bucket, not a verified total.",
       "metric": {
-        "value": "200+",
+        "value": "1000+",
         "label": "approx. search volume"
       }
     },
     {
-      "id": "google-70c3c882cf1507a3",
+      "id": "google-8b74df6e44b9a39b",
       "type": "trend",
-      "title": "paramount plus black friday",
+      "title": "jennifer garner",
       "region": "US",
-      "observed": "2026-11-26T12:10:00+00:00",
+      "observed": "2026-11-26T22:00:00+00:00",
       "source": "Google Trends Trending Now RSS",
       "url": "https://trends.google.com/trending/rss?geo=US",
       "note": "Search spike · approx traffic is an estimated bucket, not a verified total.",
@@ -547,11 +421,39 @@
       }
     },
     {
-      "id": "google-c997e34ebd297141",
+      "id": "google-adaa2ccfa0d52d83",
       "type": "trend",
-      "title": "scott peden interview bbc news",
+      "title": "makai lemon",
+      "region": "US",
+      "observed": "2026-11-26T22:00:00+00:00",
+      "source": "Google Trends Trending Now RSS",
+      "url": "https://trends.google.com/trending/rss?geo=US",
+      "note": "Search spike · approx traffic is an estimated bucket, not a verified total.",
+      "metric": {
+        "value": "200+",
+        "label": "approx. search volume"
+      }
+    },
+    {
+      "id": "google-7532b3d232c22011",
+      "type": "trend",
+      "title": "court",
+      "region": "US",
+      "observed": "2026-11-26T22:00:00+00:00",
+      "source": "Google Trends Trending Now RSS",
+      "url": "https://trends.google.com/trending/rss?geo=US",
+      "note": "Search spike · approx traffic is an estimated bucket, not a verified total.",
+      "metric": {
+        "value": "500+",
+        "label": "approx. search volume"
+      }
+    },
+    {
+      "id": "google-87960aa5b4680274",
+      "type": "trend",
+      "title": "mohamed salah",
       "region": "GB",
-      "observed": "2026-11-26T11:50:00+00:00",
+      "observed": "2026-11-26T22:00:00+00:00",
       "source": "Google Trends Trending Now RSS",
       "url": "https://trends.google.com/trending/rss?geo=GB",
       "note": "Search spike · approx traffic is an estimated bucket, not a verified total.",
@@ -561,25 +463,11 @@
       }
     },
     {
-      "id": "google-9a05d9a1cbe1151c",
+      "id": "google-6c14270990f16195",
       "type": "trend",
-      "title": "arthur fery",
+      "title": "im a celeb vote",
       "region": "GB",
-      "observed": "2026-11-26T11:50:00+00:00",
-      "source": "Google Trends Trending Now RSS",
-      "url": "https://trends.google.com/trending/rss?geo=GB",
-      "note": "Search spike · approx traffic is an estimated bucket, not a verified total.",
-      "metric": {
-        "value": "100+",
-        "label": "approx. search volume"
-      }
-    },
-    {
-      "id": "google-52722e87c5374e19",
-      "type": "trend",
-      "title": "playstation plus monthly games",
-      "region": "GB",
-      "observed": "2026-11-26T11:40:00+00:00",
+      "observed": "2026-11-26T22:00:00+00:00",
       "source": "Google Trends Trending Now RSS",
       "url": "https://trends.google.com/trending/rss?geo=GB",
       "note": "Search spike · approx traffic is an estimated bucket, not a verified total.",
@@ -589,11 +477,11 @@
       }
     },
     {
-      "id": "google-e48003f737470ab7",
+      "id": "google-8cd7cb267639cc4e",
       "type": "trend",
-      "title": "andy burnham welsh powers response",
+      "title": "edinburgh airport",
       "region": "GB",
-      "observed": "2026-11-26T11:40:00+00:00",
+      "observed": "2026-11-26T22:00:00+00:00",
       "source": "Google Trends Trending Now RSS",
       "url": "https://trends.google.com/trending/rss?geo=GB",
       "note": "Search spike · approx traffic is an estimated bucket, not a verified total.",
@@ -603,11 +491,78 @@
       }
     },
     {
-      "id": "google-1fc747cd0f61d55d",
+      "id": "news-70e2e17316ccea4a",
+      "type": "news",
+      "category": "fashion",
+      "title": "#TSRFashion: #JaydaCheaves hitting us with the wintertime fashion. 🥶🔥 ✍🏾: #TSRStaffJW",
+      "region": "US / UK",
+      "observed": "2026-11-26T21:54:06+00:00",
+      "source": "Instagram",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1HeF9GeEZYcDRzQi10RzVBNGppV1Bfc2hKaGJ6TFVFQ3BkbDlfVFgwbm1rX3hjSHk0MmNnQ21qdkFIVW0zZU4wNm1JOF8taWhwSlE?oc=5",
+      "note": "News mention only; publication does not prove popularity."
+    },
+    {
+      "id": "google-296e74982d2fd566",
       "type": "trend",
-      "title": "huw edwards",
+      "title": "ceedee lamb",
+      "region": "US",
+      "observed": "2026-11-26T21:50:00+00:00",
+      "source": "Google Trends Trending Now RSS",
+      "url": "https://trends.google.com/trending/rss?geo=US",
+      "note": "Search spike · approx traffic is an estimated bucket, not a verified total.",
+      "metric": {
+        "value": "2000+",
+        "label": "approx. search volume"
+      }
+    },
+    {
+      "id": "google-b3f332ed0f9ff7b8",
+      "type": "trend",
+      "title": "caleb williams injury",
+      "region": "US",
+      "observed": "2026-11-26T21:50:00+00:00",
+      "source": "Google Trends Trending Now RSS",
+      "url": "https://trends.google.com/trending/rss?geo=US",
+      "note": "Search spike · approx traffic is an estimated bucket, not a verified total.",
+      "metric": {
+        "value": "500+",
+        "label": "approx. search volume"
+      }
+    },
+    {
+      "id": "google-59b11a0ecda0afc8",
+      "type": "trend",
+      "title": "quinyon mitchell",
+      "region": "US",
+      "observed": "2026-11-26T21:50:00+00:00",
+      "source": "Google Trends Trending Now RSS",
+      "url": "https://trends.google.com/trending/rss?geo=US",
+      "note": "Search spike · approx traffic is an estimated bucket, not a verified total.",
+      "metric": {
+        "value": "500+",
+        "label": "approx. search volume"
+      }
+    },
+    {
+      "id": "google-067ab6985574db2f",
+      "type": "trend",
+      "title": "meghan, duchess of sussex",
+      "region": "US",
+      "observed": "2026-11-26T21:50:00+00:00",
+      "source": "Google Trends Trending Now RSS",
+      "url": "https://trends.google.com/trending/rss?geo=US",
+      "note": "Search spike · approx traffic is an estimated bucket, not a verified total.",
+      "metric": {
+        "value": "500+",
+        "label": "approx. search volume"
+      }
+    },
+    {
+      "id": "google-92f77eda3f11cefe",
+      "type": "trend",
+      "title": "new zealand national cricket team vs india national cricket team match scorecard",
       "region": "GB",
-      "observed": "2026-11-26T11:30:00+00:00",
+      "observed": "2026-11-26T21:50:00+00:00",
       "source": "Google Trends Trending Now RSS",
       "url": "https://trends.google.com/trending/rss?geo=GB",
       "note": "Search spike · approx traffic is an estimated bucket, not a verified total.",
@@ -617,11 +572,11 @@
       }
     },
     {
-      "id": "google-264559a985f5a503",
+      "id": "google-1222126abb5a15f5",
       "type": "trend",
-      "title": "hallam fc",
+      "title": "detroit lions standings",
       "region": "GB",
-      "observed": "2026-11-26T11:20:00+00:00",
+      "observed": "2026-11-26T21:50:00+00:00",
       "source": "Google Trends Trending Now RSS",
       "url": "https://trends.google.com/trending/rss?geo=GB",
       "note": "Search spike · approx traffic is an estimated bucket, not a verified total.",
@@ -631,39 +586,128 @@
       }
     },
     {
-      "id": "google-1815a5b905f46b58",
+      "id": "google-277f1d08f3a43158",
       "type": "trend",
-      "title": "boomtown",
+      "title": "chloe burrows love island",
       "region": "GB",
-      "observed": "2026-11-26T11:10:00+00:00",
+      "observed": "2026-11-26T21:50:00+00:00",
       "source": "Google Trends Trending Now RSS",
       "url": "https://trends.google.com/trending/rss?geo=GB",
       "note": "Search spike · approx traffic is an estimated bucket, not a verified total.",
       "metric": {
-        "value": "2000+",
+        "value": "200+",
         "label": "approx. search volume"
       }
     },
     {
-      "id": "news-2b747b7441ec8969",
+      "id": "google-d7c748c3c59b3d36",
+      "type": "trend",
+      "title": "is tosh leaving shetland",
+      "region": "GB",
+      "observed": "2026-11-26T21:50:00+00:00",
+      "source": "Google Trends Trending Now RSS",
+      "url": "https://trends.google.com/trending/rss?geo=GB",
+      "note": "Search spike · approx traffic is an estimated bucket, not a verified total.",
+      "metric": {
+        "value": "200+",
+        "label": "approx. search volume"
+      }
+    },
+    {
+      "id": "google-5c46723ed2f5f0d7",
+      "type": "trend",
+      "title": "black friday deals 2026",
+      "region": "GB",
+      "observed": "2026-11-26T21:50:00+00:00",
+      "source": "Google Trends Trending Now RSS",
+      "url": "https://trends.google.com/trending/rss?geo=GB",
+      "note": "Search spike · approx traffic is an estimated bucket, not a verified total.",
+      "metric": {
+        "value": "100+",
+        "label": "approx. search volume"
+      }
+    },
+    {
+      "id": "google-3c4182652282e4a8",
+      "type": "trend",
+      "title": "personal independence payment food expenses data",
+      "region": "GB",
+      "observed": "2026-11-26T21:40:00+00:00",
+      "source": "Google Trends Trending Now RSS",
+      "url": "https://trends.google.com/trending/rss?geo=GB",
+      "note": "Search spike · approx traffic is an estimated bucket, not a verified total.",
+      "metric": {
+        "value": "200+",
+        "label": "approx. search volume"
+      }
+    },
+    {
+      "id": "google-17956842414090c0",
+      "type": "trend",
+      "title": "adrian lewis",
+      "region": "GB",
+      "observed": "2026-11-26T21:40:00+00:00",
+      "source": "Google Trends Trending Now RSS",
+      "url": "https://trends.google.com/trending/rss?geo=GB",
+      "note": "Search spike · approx traffic is an estimated bucket, not a verified total.",
+      "metric": {
+        "value": "200+",
+        "label": "approx. search volume"
+      }
+    },
+    {
+      "id": "news-0a5d19bab427c677",
       "type": "news",
-      "category": "fashion",
-      "title": "Lee Hye-young's Home: Gallery and Deer Sculpture",
+      "category": "culture",
+      "title": "Hassan Hajjaj takes his ‘Rock Stars’ to Paris",
       "region": "US / UK",
-      "observed": "2026-11-26T10:03:28+00:00",
-      "source": "조선일보",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZm0yX0QxRF9NOW1xZUdfVVdZQlRRank0M2xjd0VwR1pkbDBscVFNZkE3WHNvTkFvWjMzTnEtaFB3STdtdkZ2YWdVWk0yb042N1h3WW50TmZDcGV4eFdUN1dGbkxvQ2ZuWDV5RWZkcllKYXd0MjJXWlpnVFRJbHk5YkhyQWIxODlISnlUOVZn?oc=5",
+      "observed": "2026-11-26T20:01:06+00:00",
+      "source": "New African Magazine",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOYWRzdXktT01jRHd4VTJKUjY2OEZGRkxpOXBRZVlFUWVJY1Y4cTByRkd2X0VhZXJ1bGxESXk0eGVIQy1YQ0pLNERDWDR4RV8zelJvcFNaT052OEx3Vl9fRnFLYVduYVZuRmVNbmpTMGJmaHkwU0RUcjRqalNxM3Q0S25MQ1BkbHIzR0ZLQXRaWTA?oc=5",
       "note": "News mention only; publication does not prove popularity."
     },
     {
-      "id": "news-0032c524f049237d",
+      "id": "news-201a3570834ddaaf",
+      "type": "news",
+      "category": "culture",
+      "title": "Countdown to this year’s Design Miami: our pick of the best shows",
+      "region": "US / UK",
+      "observed": "2026-11-26T14:49:01+00:00",
+      "source": "ELLE Decoration UK",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOME0zMTFDQmxBMWNiZU5PdFB0WUdYUENoWFlOYUxmUllNLXh6dHU2MU5pTUtQaVFNSlNtWTVBdk9KMmtIQUhZYjNBUXBfY0dxWU0yZXRXM1EzLWJ0Rm15eDhQbFJvT21GSExDV2RUT1pkQVdQc3E3TVc0SmhHWDVuV2FMZlRkYndzSld1Q21lUWlQYjRVNlA0eVdxdnRrVVhBYVFKS09iYUZzQzdqZVdkR0p2M0FteFFKd29Pekw1anlVZGs?oc=5",
+      "note": "News mention only; publication does not prove popularity."
+    },
+    {
+      "id": "news-bc647f40ce4f133b",
       "type": "news",
       "category": "fashion",
-      "title": "Harriet Phillips quietly bends royal style rule for new patronage",
+      "title": "The best street style looks from Fashion Week Tashkent put a modern spin on tradition",
       "region": "US / UK",
-      "observed": "2026-11-26T09:30:00+00:00",
-      "source": "HELLO!",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZ1E3UG5EZjlzRng3T1VTV1YwX0RTcHowNHctRGJQMVFRY0VSbFRCeUN4NHJBNTJURHhqQ0Q1WUZubWRwNnJXTmh6VmlpU3U5TmJPSWp1Y1pEVVZWZjdHbEtKZ1dhcWY5dm9pS0puaWh2YlB4S3dvb1g2UktMYUJYdXRRUTRoNUx2UlVha29DTzVWUmxVWGdYYkt3V0RVZDlIV1p0YWVxdnM2UmF0MVhnQUx0UVpDZw?oc=5",
+      "observed": "2026-11-26T14:00:07+00:00",
+      "source": "Vogue Adria",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1jVUowLTdMTENudXZZYjRBRUZaVGdqOWx5UlRJRVBsMkp1SGdwTWxLcVJjRl81Qk9KT0h2SWtnYzRYOUpSa2dxZURkazJMM2lFZjBUU0pDdzNUSXJQRzFWVHNVMm5YNW9xT3c?oc=5",
+      "note": "News mention only; publication does not prove popularity."
+    },
+    {
+      "id": "news-b0d62a683a4959fd",
+      "type": "news",
+      "category": "beauty",
+      "title": "Jennifer Lopez’s “Spiced Apple Cider” Manicure Is the Coziest Winter Nail Trend",
+      "region": "US / UK",
+      "observed": "2026-11-26T14:00:00+00:00",
+      "source": "Harper's BAZAAR",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOS3dtRGZiX0JkaEIxRlBsUnJEZzdlOWFFcXZwUWtnX1J0NWFvSkJmS0haZC15M1pPZUlvNXNMS082cW9rV1dtY1hBS2pENS1rcnZpaUktcjg5T1pkLVUwdHFjbE1nUzR1RDJtM0pMTjJFUVd3ZkVGTkNJN0wzajg3Zmt5a2NFYmVMbk05MlEwYnZIX0E?oc=5",
+      "note": "News mention only; publication does not prove popularity."
+    },
+    {
+      "id": "news-707f21954d7eae3c",
+      "type": "news",
+      "category": "beauty",
+      "title": "11 Engagement Nail Ideas Made for Showing Off Your Ring",
+      "region": "US / UK",
+      "observed": "2026-11-26T13:07:05+00:00",
+      "source": "ELLE",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQMlp0bEZ4VWtvdFYyMUNHaEl3YzFoZ2htU2ZtZUZXUUd2RTd5TDJuZFNfTFhQVDhRS3JJWGhJSExOdXljOU1fNFVFZ0NiZ25nRlFCZE1qTmlENVlIZ1NhaVZUZUZ0eHZKRmRzZlVHRkhxcHQxeUdkMjBqbmh3dW5BTllKRQ?oc=5",
       "note": "News mention only; publication does not prove popularity."
     },
     {
@@ -675,17 +719,6 @@
       "observed": "2026-11-26T08:52:57+00:00",
       "source": "ArtAsiaPacific",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOOVExV0c5cFRGSThFTy10RWFWRG14U2NkUzZZZmZtYzRQTXBrQ0tWN3JrNFFZNTQ0aFhtTlZYOWIwNngtLWNZX19HR0NwMzZ6bjBWeGlMOUs1MGk0T056cHlnemFWTm1PdVRjZWptWUdaQTUwYWtXV3FBNmp2RzJmblNGQ09QakNGdnlGaHdmRXZXZGM3QS05VzZNSW1wQQ?oc=5",
-      "note": "News mention only; publication does not prove popularity."
-    },
-    {
-      "id": "news-7e876a8b2254b2da",
-      "type": "news",
-      "category": "fashion",
-      "title": "Cosy fleeces get a pretty makeover in Uniqlo’s new designer collab – and there are matching accessories, too",
-      "region": "US / UK",
-      "observed": "2026-11-26T07:06:57+00:00",
-      "source": "Good Housekeeping",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQU240d2N1R1kxMVVUVzlzWlBOWi1SSU5QbDlfcEVlejdEbEthWmhfTHY4aDdhWVhiZHc2T3dmbW1hTTlmVDA0VFN0X1lKWS1UaU5DSktTRTdQS3ZkWFJTV2JRblUxLTlOdUtYdkpKazBCVy1ETW5wdUFLMWtCN3A0RjUxakYzVTVEY3BQQVdKTWpzWGJHOU5tcmx0c3d3NWdQM21NUEQxQQ?oc=5",
       "note": "News mention only; publication does not prove popularity."
     },
     {
@@ -708,17 +741,6 @@
       "observed": "2026-11-26T04:38:45+00:00",
       "source": "Mashable",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBkUG5fNVo5ZmpBNTgtSjhuNmxpZjUyWnhKdGRQMFlXMXFCNFpfUlBvLXF1VXZoSl9XMm11eUxtb21PR214OXBITUhhQnJfU2x5VE9YLTdNNjMtM3NBOUR1UGIxb3dDZFZ1bWVIalphVE5LcG9Dc2EwSnR3?oc=5",
-      "note": "News mention only; publication does not prove popularity."
-    },
-    {
-      "id": "news-9e23ffdbe62403a5",
-      "type": "news",
-      "category": "culture",
-      "title": "Tate Liverpool to reopen in autumn 2027 with landmark Surrealism exhibition",
-      "region": "US / UK",
-      "observed": "2026-11-26T00:37:28+00:00",
-      "source": "WebWire",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA5OGczaGVJZDJheVlLV0RkRkFmc1FzRTVWM1RuMndWUTA5ZHRTUTl6RnNVQ01TVFZGaVdiU0szM2dHTzUzbWZIZTRFbHdzemNPM3Fsbk9BbWZLLUlDWDB4Mw?oc=5",
       "note": "News mention only; publication does not prove popularity."
     },
     {
@@ -755,36 +777,14 @@
       "note": "News mention only; publication does not prove popularity."
     },
     {
-      "id": "news-66a77d588c669c38",
+      "id": "news-211d19f3195ea3d9",
       "type": "news",
-      "category": "beauty",
-      "title": "Cinnamon Nails Are Trending—10 Spicy and Stylish Nail Ideas for Winter ’27",
+      "category": "internet",
+      "title": "What to know about the viral 'Cat in the Hat' trend prompting school warnings",
       "region": "US / UK",
-      "observed": "2026-11-25T21:25:34+00:00",
-      "source": "Who What Wear",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9idmtpS0Fkd1pucFlfRDlnM3oybHd4M3JZNTFwOWcxdFpZWnhtcHRUb2syZ1RUZ1VPOVdReVNQbWNWSnVNSEIzSDhRMGpLa1V6X2ozc3J2MGc3Z1Nha2R2MUFBbUZrMk5DTFhKLQ?oc=5",
-      "note": "News mention only; publication does not prove popularity."
-    },
-    {
-      "id": "news-64a38096f7ae794c",
-      "type": "news",
-      "category": "fashion",
-      "title": "In Defense Of Taylor Swift, These Celeb Ugg Looks Hold Up",
-      "region": "US / UK",
-      "observed": "2026-11-25T19:41:33+00:00",
-      "source": "The Zoe Report",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9lUk5hUzNTb0s2ckFFUHF6RWdyVlJubng2MHpaU3N4MmJ4N2lWc0JLQllNdXFYS3hYRk5YUW02dDVNb1hza2tPNkxlV29wMXFQTy10eHAwVWFYdTZURjJMOE94YjQ0MWpZZGNHSnBnRVM?oc=5",
-      "note": "News mention only; publication does not prove popularity."
-    },
-    {
-      "id": "news-2ec9f8e4b4d564dc",
-      "type": "news",
-      "category": "beauty",
-      "title": "Don’t Miss These Early Black Friday Skincare Deals for Women Over 50",
-      "region": "US / UK",
-      "observed": "2026-11-25T18:46:00+00:00",
-      "source": "Harper's BAZAAR",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNdUdBRUM0SGc1cDBBWW9Xb1JKSV9EZU54RHp3QUhIbXVCSHhSRHFLR0JfSnFGc2txSlk4bTZNRG9veEc1QlY3TXZQVkZBazcyT0poQURmUktaQXZVX3V5c253cGhFOVhVSnFJMFByR0tSZkNlLUoySW1ESDVraF8tcWs1R1FmZ21VMnlZOUx0eV9lcm81WUtXV19rbktvNUw4QkNxWTNBZVpNNmRLY1ZOYg?oc=5",
+      "observed": "2026-11-25T19:45:35+00:00",
+      "source": "ABC News - Breaking News, Latest News and Videos",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPeWoteU05RnRIT3JaOF9WNnBsZHFjalhBeTVoc0lWa2tQVy0yT0FCbnBEakoxcGUyeFl5YTVnMmx2SW13Q29GSlFMdWY0SEtELWJudVZSYTRJRVVrSnphQ0NCeTZEeFlpQnBvbTJ5WmwtV2NFS3dQaTAyaEdWSm5mUHF5QWFMc3lLY2MyWC1nbmV5S29tSkg1MTltc0NxYTNnOERz0gGoAUFVX3lxTE1VRVJwNDh0ZGlzYl83Z2xPa1hTNXdmWm5WRndqaDVHZks4RV9rY3BySGt0RGNJSE51Rm50d1pfek9LX0NOYnNMZXNRTkxneHJuUTRXQUtmR1htUnB3T3dvSDlDOHZ1NWxiNWNuSDJWNkczakYtTldkNnprdXBpckw1Qm5ucmxhQ0pHNVY5dlF3OFhYb3FsSGFhbzhmaVBteU5zR1NONm5BUg?oc=5",
       "note": "News mention only; publication does not prove popularity."
     },
     {
@@ -821,36 +821,14 @@
       "note": "News mention only; publication does not prove popularity."
     },
     {
-      "id": "news-7954dcc0f5f0b255",
+      "id": "news-b4be87c2e620ed8a",
       "type": "news",
-      "category": "fashion",
-      "title": "These Were the Breakout Red Carpet Stars of 2026",
+      "category": "beauty",
+      "title": "15 Simple Winter Nail Ideas to Try, From Icy Blue Tips to Ribbons of Chrome",
       "region": "US / UK",
-      "observed": "2026-11-25T11:00:00+00:00",
-      "source": "Vogue",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE85ZFRkMVg3eXhRWG14ZDV4cm8wbHZNWjJ3OEhTWHR6MzVxT1JUT1lTV0xUaGVqY1l5ZkJOTkVYMVZ3Zll5ZzNwRUtDVFBNdFJxRDBJVGhFVkhVMlNoRFc5ckNPQl9RNkFpZ3UwSg?oc=5",
-      "note": "News mention only; publication does not prove popularity."
-    },
-    {
-      "id": "news-e63f47c541db0cc3",
-      "type": "news",
-      "category": "fashion",
-      "title": "The Under-$100 Accessory Trend Everyone's Buying to Look Like an It Girl This Winter",
-      "region": "US / UK",
-      "observed": "2026-11-25T10:30:00+00:00",
-      "source": "Who What Wear",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNVG9YS3cxRjhWSUJBSXdJM3FmWjEtck5UcXZMdmpBT1J6M0JaWXpibkJzaFZkTlgtTkZuYjFjWERXZ0xkS3RldF9TRzgwbkRqbjNZMG85MFJpenBRYmgydmZJMHgzc0oyRVZFclFiQm10ak02ajJLRkhncjIzOUtjb21oZlFPd2FqUU9mcjNGUGpPWjhKRFVLZ3A0N1hsZw?oc=5",
-      "note": "News mention only; publication does not prove popularity."
-    },
-    {
-      "id": "news-9c24dc901efddd2b",
-      "type": "news",
-      "category": "fashion",
-      "title": "How to Pack for Vegas Like a Vogue Editor",
-      "region": "US / UK",
-      "observed": "2026-11-24T21:36:26+00:00",
-      "source": "Vogue",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1xWWt2eXNQcjV6S3pmOFl2YVRMQ0Jqb2xKMmtjX1BHMjVGTFRxUEFCajFJZDhyYkZVMmFjZUh3RFQ1R1lJT3pEc3RuZ0pRZXl5cVo3cHdrbVhrUzg2T0pQVFg2Nkt0dw?oc=5",
+      "observed": "2026-11-25T15:00:00+00:00",
+      "source": "InStyle",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9tY2IxMFhtYnZhRXE4Nm1ZS2NKcDV0YnVvWXhZbk84Y0VtZ3pZOXRUeER0YU4waWQ4cUZuM1dKREdPb2E0NFNVMk9vMUQ2R2drM0pwcy1yZ3BBSUpSY3ctWlc5bm9ndHdlUkZTRTV3?oc=5",
       "note": "News mention only; publication does not prove popularity."
     },
     {
@@ -865,14 +843,25 @@
       "note": "News mention only; publication does not prove popularity."
     },
     {
-      "id": "news-69f0fe0ec3fd1911",
+      "id": "news-56ac3966d383e687",
       "type": "news",
-      "category": "beauty",
-      "title": "The ‘My Nails but Better’ Trend Is Winter’s Answer to Party Season",
+      "category": "fashion",
+      "title": "Luly Yang Brings New Boutique to Kirkland",
       "region": "US / UK",
-      "observed": "2026-11-24T16:21:38+00:00",
-      "source": "ELLE",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPNldPN2lWT25ZRU9nUy1pVXcyalJPY3UxdXoyMjhNMGlRRThuSU1iNm43YmlXQlFOR1ZxTmZ6WnBNM0tZX1ktNkhQdVpfOFNVMzZOamxjQ1kybnhvZHF3NkF5NGJkazR1R1dnWjJsejROYmdRdUhra1hIckx5VkpseHJRTGtWeHVHbjV3aEdsVXZQUmNn?oc=5",
+      "observed": "2026-11-24T17:33:00+00:00",
+      "source": "425magazine.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQSjdxQXFONmNlaFFfQlNhQnpOTHRkWlVOU0d5VC16UU03Tm52OURMUURBWUhvcHA3b0xOZjhLelVBYU1oRlc2MmhfOUZURnMxS3RoUnJ2V2lKRUlXZWZWcjhUMHNPV2JuZmE0VWFlNzRlaEdfUXR5bWhOcC1JVnNoMURYRTFaRlFjVGZTSEF5ZGE3OFNhc21oSDNWSjR0TEZ4WWpPemFLaHhrRGlqbUhGa1lZNlo?oc=5",
+      "note": "News mention only; publication does not prove popularity."
+    },
+    {
+      "id": "news-955fe38eda17451f",
+      "type": "news",
+      "category": "culture",
+      "title": "New York art exhibitions to see in December",
+      "region": "US / UK",
+      "observed": "2026-11-24T16:44:35+00:00",
+      "source": "Wallpaper*",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5vRFBVSUJjd2RweFRMSGxzYmswNmdVVXJyTGM5clVRMjc4ZTY5RzBqMVRGT1V0ZTVnUng5eW5RVkVVaXJJX2tFeE1uZjRxS2M0anl1UWtRdU85ZG9BT2tFS1pjUmtHcFZtRkVTOQ?oc=5",
       "note": "News mention only; publication does not prove popularity."
     },
     {
@@ -898,14 +887,25 @@
       "note": "News mention only; publication does not prove popularity."
     },
     {
-      "id": "news-343fe721034b4ce8",
+      "id": "news-e1ae0cf105797f2a",
       "type": "news",
-      "category": "music",
-      "title": "Roblox music codes (November 2026)",
+      "category": "fashion",
+      "title": "How to Look Great at the Airport",
       "region": "US / UK",
-      "observed": "2026-11-24T10:11:29+00:00",
-      "source": "PCGamesN",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1aVGhobGZjMkt6US1IZVlxdlQ4M19hQm91WVlyRUM1dkJoN1dZZl9meWc5ZVo1Y1VodFRVNHN1azVwZ0pMVXV2TXFPSWZjeThXVUM0ZDdJbnlWNmdEVzlWUg?oc=5",
+      "observed": "2026-11-24T08:00:00+00:00",
+      "source": "Harper's BAZAAR",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQNnEwTnVXdExDUVBBMXZfNlV1bE0zUC0zUVNlb09VcUcyb3lWY0MwSDZvSTZQQTRvbXpNNEZIUzAxb2hVcjNLY2xoTjc1V3BJdGczVHRIUWNnN3ljTnFERG00eDcwV1ZZS0luaE45T29yN255dmRHZThheTRQaGNrWHE2eDBGX1d5WU1v?oc=5",
+      "note": "News mention only; publication does not prove popularity."
+    },
+    {
+      "id": "news-95b590f95ce787e5",
+      "type": "news",
+      "category": "fashion",
+      "title": "Fashion industry - Design, Manufacturing, Trends",
+      "region": "US / UK",
+      "observed": "2026-11-24T08:00:00+00:00",
+      "source": "Britannica",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPVDFxWEd4b19kVUtXdzVmRC0wRlIxSHUzLUlmamREdVdIeHczdHJRMUV2Zk93VjBBTTFSQ0VrOUhSUGZpUXQ4d04yNTBMaHV1VUNKOUVidVh6aXhoS3RuSjE0N0hMaDR1MWo1UGdIOHJ2M2xRV05NR2hmMW1ZVE9hZ29LMV9Ncm8?oc=5",
       "note": "News mention only; publication does not prove popularity."
     },
     {
@@ -953,28 +953,6 @@
       "note": "News mention only; publication does not prove popularity."
     },
     {
-      "id": "news-f2b53ee396f8c7bf",
-      "type": "news",
-      "category": "culture",
-      "title": "The Whitewall Guide to the Art World This Fall",
-      "region": "US / UK",
-      "observed": "2026-11-23T15:58:10+00:00",
-      "source": "whitewall.art",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9WbnpfRkx3bnZ2Q1d2STZ0TjZ2YU91c2tUaHk4TEZoT2xkUTg4UHhmUjkyMV9hb3BuMTVnM3ZVMDBiclNLTDNrcXFqZHRGeExIY2NOTUY1VnpfVUlNd0hubUpR?oc=5",
-      "note": "News mention only; publication does not prove popularity."
-    },
-    {
-      "id": "news-5b550419437c4d3b",
-      "type": "news",
-      "category": "culture",
-      "title": "Art Basel unveils gallery line-up for its 2027 Hong Kong edition",
-      "region": "US / UK",
-      "observed": "2026-11-23T08:11:31+00:00",
-      "source": "Art Basel",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNYUtFekg4OHFUZTVVVHNzeTVsSDZWalVkbGJxYUNBWXhmYXZSakhNV0RtNFpmeVJuVGVJWHQxMWZDcnMwQl9sQTltSUt1UmFWcWtMcUR2d0ZPMUdDWUhSM25FNmdVVXFmdGFDeDliLU0wT19saTJnT0xUVURBU0NUVU5sMGhRMUFmVVhuVEc0OXptOTNKYmlFbTI2b0pqdw?oc=5",
-      "note": "News mention only; publication does not prove popularity."
-    },
-    {
       "id": "news-e24eb2a46043bf2e",
       "type": "news",
       "category": "fashion",
@@ -986,14 +964,14 @@
       "note": "News mention only; publication does not prove popularity."
     },
     {
-      "id": "news-3c1f2a85c3510bbe",
+      "id": "news-9fba2a16228e26bd",
       "type": "news",
-      "category": "internet",
-      "title": "What’s the Story Behind This Egirl Face? An Investigation",
+      "category": "music",
+      "title": "TikTok",
       "region": "US / UK",
-      "observed": "2026-11-22T13:40:43+00:00",
-      "source": "www.jezebel.com",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQMW5sYWhLbU9aczgxM1h4Z3huaUNRM1BOX19aYVZoa3lVOWlVdExyeENScUdEdEtZYWVuUVBxbUZpQ2kzLWx6UEVQajZGTi1YVm5KU09weVhOdDRmRXZaWmF6OGVDUVpMY1lFX0owRklsRDI4Q1prVmVXS2hqR2tWczd1Sm1mbG53UzRCRWQ2NmhmMkk?oc=5",
+      "observed": "2026-11-23T08:00:00+00:00",
+      "source": "Britannica",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9JQXF6cTJpT0s3NWVrc3VRbjZ6MHZhQTdzazNKUHZOVjNVR1N5bzViLWowUEdfTmhEa2duUTg5ekpwVmxDYlRVNmpKMVNlT21N?oc=5",
       "note": "News mention only; publication does not prove popularity."
     }
   ],
